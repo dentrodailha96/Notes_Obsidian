@@ -1,0 +1,2 @@
+- Provides source control for the fata projects by integrating with GitHub providers. 
+- GitHub and Azure DevOps

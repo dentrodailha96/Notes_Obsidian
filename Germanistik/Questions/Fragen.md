@@ -1,0 +1,29 @@
+- W-fragen
+
+| W-fragen | In English |
+| :------: | :--------: |
+|   Wie    |    How     |
+|  Welche  |   Which    |
+|   Was    |    What    |
+|    Wo    |    Who     |
+|  Woher   | Where From |
+| Wie viel |  How much  |
+|  Wieso   |    Why     |
+Zum Beispiel: 
+	Wo **wohne** sie(subject)? (verb second position)
+	
+
+- Ja/Nein Fragen
+		- Exception verb in the 1st position. 
+Zum Beispiel: 
+	**Haben** sie kinder? 
+
+*  Präposition + W-fragen:
+
+|            | Ohne die [[Artikel]] | mit die [[Artikel]]  |
+| ---------- | -------------------- | -------------------- |
+| Woher ...? | aus                  | aus + [[Dativ]]      |
+| Wo...?     | in                   | in + [[Dativ]]       |
+| Wohin...?  | nach                 | nach + [[Akkusativ]] |
+
+

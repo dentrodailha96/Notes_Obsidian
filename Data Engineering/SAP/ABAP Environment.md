@@ -1,0 +1,3 @@
+- ABAP (Advanced Business Application Programming)
+- PaaS 
+- SAP ABAP system is used to create custom programs for various business tasks, such as inventory management, customer relationship management, financial accounting, and data warehousing. 

@@ -1,0 +1,2 @@
+* https://help.sap.com/docs/identity-provisioning/identity-provisioning/access-identity-provisioning-ui-of-bundle-tenants
+* How to run a job for User Sync: https://help.sap.com/docs/SAP_SUCCESSFACTORS_PLATFORM/568fdf1f14f14fd089a3cd15194d19cc/02f401d638bd42e49fb7d39565189c3e.html

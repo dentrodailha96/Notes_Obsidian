@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "50c7eba336e1efb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "359b3e6c1b05a4f6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "703b4f01176eeb5c",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Untitled.canvas",
+                "viewState": {
+                  "x": 0,
+                  "y": 0,
+                  "zoom": 0
+                }
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d89cdf8277bca74f",
+    "type": "split",
+    "children": [
+      {
+        "id": "fda37155bfb3c530",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1e37fa8145b2d56c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "6592dd5166c29c5c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:excalidraw",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5571db1d9adf56d6",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "3a17f7f64d3e4626",
+    "type": "split",
+    "children": [
+      {
+        "id": "24ee4bcbaec797b6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07d017044f8e4d0e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.canvas",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0f3df63e74fe0b1c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Untitled.canvas",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "807271f1511da51a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2a684d978670179a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.canvas"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "703b4f01176eeb5c",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-07-31 13.55.28.excalidraw.md",
+    "Untitled.canvas",
+    "Verb/das Präsens.md",
+    "01 - Excalidraw/Indirect.md",
+    "01 - Excalidraw/Indirect.svg",
+    "Excalidraw/Drawing 2024-07-31 13.55.10.excalidraw.md",
+    "Excalidraw",
+    "01 - Excalidraw/Verb Präsens - special cases 2.md",
+    "01 - Excalidraw/Verb Präsens - special cases 1.md",
+    "Grammar/Preposition.md",
+    "Grammar/Prepositions of time.md",
+    "Vocabulary/Wörterbuch.md",
+    "Text/Times of the day.md",
+    "Declinations/Dativ.md",
+    "01 - Excalidraw/Prints/Pasted image 20240731114022.png",
+    "Verb/Simple past.md",
+    "01 - Excalidraw/Prints/Pasted image 20240730164131.png",
+    "01 - Excalidraw/Prints/Pasted image 20240730163458.png",
+    "Declinations/Akkusativ.md",
+    "01 - Excalidraw/Prints/Pasted image 20240729213806.png",
+    "01 - Excalidraw/Prints/Pasted image 20240729212351.png",
+    "Verb/Möchten.md",
+    "01 - Excalidraw/Prints/Pasted image 20240728130639.png",
+    "Verb/Haben und Sein.md",
+    "01 - Excalidraw/Prints/Pasted image 20240725220528.png",
+    "Questions/Kauszätze Weil vs Dann.md",
+    "Declinations/Nominativ.md",
+    "01 - Excalidraw/Prints/Pasted image 20240724214352.png",
+    "01 - Excalidraw/Prints/Pasted image 20240724214110.png",
+    "Grammar/Artikel.md",
+    "01 - Excalidraw/Prints/Drawing 2024-07-23 11.38.06.excalidraw.md",
+    "Grammar/Kein Artikel.md",
+    "Grammar/Plural - Form.md",
+    "Vocabulary/Die Wochentage.md",
+    "Text/Email.md",
+    "01 - Excalidraw/Prints",
+    "Untitled",
+    "01 - Excalidraw/Drawing 2024-07-17 09.21.31.excalidraw.md",
+    "Grammar/Adjektivendungen.md",
+    "Declinations",
+    "01 - Excalidraw",
+    "Text/Untitled",
+    "Text",
+    "Vocabulary/Untitled.canvas",
+    "Questions",
+    "Grammar",
+    "Verb"
+  ]
+}

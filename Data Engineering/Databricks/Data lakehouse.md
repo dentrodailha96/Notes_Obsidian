@@ -1,0 +1,1 @@
+A data lake is a unified analytics platform that combines the best elements of data lakes and data warehouses. Deliver the openness, flexibility and machine learning support of data lakes with the reliability, strong governance and performance of warehouses. 
