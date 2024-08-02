@@ -11,14 +11,11 @@
             "id": "703b4f01176eeb5c",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 0,
-                  "zoom": 0
-                }
+                "file": "Vocabulary/Wörterbuch.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -88,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Vocabulary/Wörterbuch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Vocabulary/Wörterbuch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Vocabulary/Wörterbuch.md"
               }
             }
           }
@@ -152,8 +149,12 @@
   },
   "active": "703b4f01176eeb5c",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2024-07-31 13.55.28.excalidraw.md",
+    "Questions/Fragewörter.md",
+    "01 - Excalidraw/Prints/Pasted image 20240801164903.png",
+    "Vocabulary/Wörterbuch.md",
+    "Questions/Fragen.md",
     "Untitled.canvas",
+    "Excalidraw/Drawing 2024-07-31 13.55.28.excalidraw.md",
     "Verb/das Präsens.md",
     "01 - Excalidraw/Indirect.md",
     "01 - Excalidraw/Indirect.svg",
@@ -163,7 +164,6 @@
     "01 - Excalidraw/Verb Präsens - special cases 1.md",
     "Grammar/Preposition.md",
     "Grammar/Prepositions of time.md",
-    "Vocabulary/Wörterbuch.md",
     "Text/Times of the day.md",
     "Declinations/Dativ.md",
     "01 - Excalidraw/Prints/Pasted image 20240731114022.png",
@@ -180,7 +180,6 @@
     "Questions/Kauszätze Weil vs Dann.md",
     "Declinations/Nominativ.md",
     "01 - Excalidraw/Prints/Pasted image 20240724214352.png",
-    "01 - Excalidraw/Prints/Pasted image 20240724214110.png",
     "Grammar/Artikel.md",
     "01 - Excalidraw/Prints/Drawing 2024-07-23 11.38.06.excalidraw.md",
     "Grammar/Kein Artikel.md",
@@ -189,8 +188,6 @@
     "Text/Email.md",
     "01 - Excalidraw/Prints",
     "Untitled",
-    "01 - Excalidraw/Drawing 2024-07-17 09.21.31.excalidraw.md",
-    "Grammar/Adjektivendungen.md",
     "Declinations",
     "01 - Excalidraw",
     "Text/Untitled",

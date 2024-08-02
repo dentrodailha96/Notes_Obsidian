@@ -213,5 +213,12 @@
 | nach (place) gehen                           |             | to go (place)                |
 | raus\|gehen                                  |             | to go out                    |
 | drinnen                                      |             | inside                       |
+| allein                                       |             | alone                        |
+| geschlossen                                  |             | close                        |
+| leider                                       |             | unfortunately                |
+| viertel vor                                  |             | quarter to                   |
+| viertel nach                                 |             | quarter past                 |
+| nach                                         |             | after                        |
+| halb                                         |             | half                         |
 
 
