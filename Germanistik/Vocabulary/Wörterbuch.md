@@ -220,5 +220,10 @@
 | viertel nach                                 |             | quarter past                 |
 | nach                                         |             | after                        |
 | halb                                         |             | half                         |
+| Nachbarn                                     |             | neighbors                    |
+| uebermorgen                                  |             | the day after tomorrow       |
+| der Fruehdienst / die Fruehdienste           |             | Early Shift                  |
+| vorgestern                                   |             | the day before yesterday     |
+|                                              |             |                              |
 
 

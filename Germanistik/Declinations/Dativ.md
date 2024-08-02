@@ -45,6 +45,7 @@ Wie kann ich Ihnen helfen?
 
 ## Possessivpronomen im Dativ
 
+Person that poses + the article the possession 
 
 |       | Mask.   | Fem.    | Neut.   | Pl.         |
 | ----- | ------- | ------- | ------- | ----------- |
