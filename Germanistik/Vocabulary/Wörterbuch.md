@@ -211,7 +211,7 @@
 | zuerst                                       |             | first                        |
 | draußen gehen                                |             | to go outside                |
 | nach (place) gehen                           |             | to go (place)                |
-| raus\|gehen                                  |             | to go out                    |
+| aus\|gehen                                   |             | to go out                    |
 | drinnen                                      |             | inside                       |
 | allein                                       |             | alone                        |
 | geschlossen                                  |             | close                        |
@@ -224,6 +224,9 @@
 | uebermorgen                                  |             | the day after tomorrow       |
 | der Fruehdienst / die Fruehdienste           |             | Early Shift                  |
 | vorgestern                                   |             | the day before yesterday     |
+| den ganzen Tag                               |             | the entire day               |
+| spät                                         |             | late                         |
+| früh                                         |             | early                        |
 |                                              |             |                              |
 
 

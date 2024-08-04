@@ -87,27 +87,27 @@ Verbkonjugation im Präsens:
 | Sie           | lesen     | sehen  |
 * Beispiel au zu äu: 
 
-|               | laufen |
-| ------------- | ------ |
-| Ich           | laufe  |
+|               | laufen     |
+| ------------- | ---------- |
+| Ich           | laufe      |
 | ==Du/Sie==    | ==läufst== |
 | ==Er/Sie/Es== | ==läuft==  |
-| Wir           | laufen |
-| Ihr           | lauft  |
-| sie           | laufen |
-| Sie           | laufen |
+| Wir           | laufen     |
+| Ihr           | lauft      |
+| sie           | laufen     |
+| Sie           | laufen     |
 
 * Beispiel a zu ä: 
 
-|               | fahren | schlafen | [waschen](obsidian://open?vault=Germanistik&file=Vocabulary%2FW%C3%B6rterbuch) |
-| ------------- | ------ | -------- | ------------------------------------------------------------------------------ |
-| Ich           | fahre  | schlafe  | wasche                                                                         |
-| ==Du/Sie==    | ==fährst== | ==schläfst== | ==wäschst==                                                                        |
-| ==Er/Sie/Es== | ==fährt==  | ==schläft==  | ==wäscht==                                                                         |
-| Wir           | fahren | schlafen | waschen                                                                        |
-| Ihr           | fahrt  | schlaft  | wascht                                                                         |
-| sie           | fahren | schlafen | waschen                                                                        |
-| Sie           | fahren | schlafen | waschen                                                                        |
+|               | fahren     | schlafen     | [waschen](obsidian://open?vault=Germanistik&file=Vocabulary%2FW%C3%B6rterbuch) |
+| ------------- | ---------- | ------------ | ------------------------------------------------------------------------------ |
+| Ich           | fahre      | schlafe      | wasche                                                                         |
+| ==Du/Sie==    | ==fährst== | ==schläfst== | ==wäschst==                                                                    |
+| ==Er/Sie/Es== | ==fährt==  | ==schläft==  | ==wäscht==                                                                     |
+| Wir           | fahren     | schlafen     | waschen                                                                        |
+| Ihr           | fahrt      | schlaft      | wascht                                                                         |
+| sie           | fahren     | schlafen     | waschen                                                                        |
+| Sie           | fahren     | schlafen     | waschen                                                                        |
  * Beispiel i zu ei: 
 
 |               | wissen    |
@@ -138,3 +138,15 @@ Verbkonjugation im Präsens:
 | Ich       | wasche  |
 | Du        | wäschst |
 | Er/Sie/Es | wäscht  |
+
+### Können
+
+|               | können |
+| ------------- | ------ |
+| Ich           | kann   |
+| ==Du/Sie==    | kannst |
+| ==Er/Sie/Es== | kann   |
+| Wir           | können |
+| Ihr           | könnt  |
+| sie           | können |
+| Sie           | können |

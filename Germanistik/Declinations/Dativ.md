@@ -58,4 +58,23 @@ Person that poses + the article the possession
 | Sie   | Ihrem   | Ihrer   | Ihrem   | Ihren + n   |
 | sie   | ihrem   | ihrer   | ihrem   | ihren + n   |
 
+## Personalpronomen Dativ
 
+Das ist Michael. ==Er== ist mein Freund.
+
+Ich gebe ihm eine Schokolade. 
+
+![[Pasted image 20240804211210.png]]
+
+|     | Personalpronomen. |
+| --- | ----------------- |
+| ich | mir               |
+| du  | dir               |
+| Sie | Ihnen             |
+| er  | ihm               |
+| sie | ihr               |
+| es  | ihm               |
+| wir | uns               |
+| ihr | euch              |
+| Sie | Ihnen             |
+| sie | ihnen             |
