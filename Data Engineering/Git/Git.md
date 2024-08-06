@@ -20,7 +20,7 @@
 + all documents in a folder: 
 	 ls 
 + pull - get the code:
-	 get remote add origin "link"
+	 git remote add origin "link"
 + push - send the documents to the git:
      git push -u origin 
 + Branches
@@ -28,3 +28,5 @@
 	 git branch - existing branches 
 + Computer updated
 	 git pull origin master - changes from master to the computer
++ fetch - bring new changes to the repository 
++ merge - update the main branch pointer to reference that latest commit 

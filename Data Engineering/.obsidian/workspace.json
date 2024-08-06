@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "cec4f66c6030c862",
+        "id": "cbb84491dc1a0a45",
         "type": "tabs",
         "children": [
           {
-            "id": "a8ae4e2cfd4af716",
+            "id": "e75359c35b8b9d6e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/How to push code to Github using CMD.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "4212a697ed2efc2a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "4c1bb5ea28756441",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAP/102 - Tutorials.md",
+                "file": "Git/Pull vs Fetch.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/How to push code to Github using CMD.md",
+                "file": "Git/Pull vs Fetch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/How to push code to Github using CMD.md",
+                "file": "Git/Pull vs Fetch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/How to push code to Github using CMD.md"
+                "file": "Git/Pull vs Fetch.md"
               }
             }
           }
@@ -156,20 +138,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "obsidian-excalidraw-plugin:Create new drawing": false
+      "command-palette:Open command palette": false
     }
   },
-  "active": "a8ae4e2cfd4af716",
+  "active": "8d2103746650dc45",
   "lastOpenFiles": [
+    "01 - Excalidraw/Prints/Pasted image 20240806180640.png",
+    "01 - Excalidraw/Prints/Pasted image 20240806180155.png",
+    "Git/Git.md",
+    "Git/101 - Git.md",
+    "Git/Pull vs Fetch.md",
+    "Git/Git Hub.md",
+    "Git/How to push code to Github using CMD.md",
+    "Git/Core concepts.md",
+    "Git/How to clone code to computer.md",
+    "SAP/102 - Tutorials.md",
     "SAP/101 - SAP Brainstorm.md",
     "01 - Excalidraw/Prints/Pasted image 20240805163547.png",
-    "SAP/102 - Tutorials.md",
     "SAP/Booster.md",
     "SAP/ABAP Environment.md",
     "SAP/Tenants Types.md",
@@ -180,11 +171,7 @@
     "Deploy.md",
     "01 - Excalidraw/Prints/Pasted image 20240802130924.png",
     "01 - Excalidraw/basica-authentication.md",
-    "Git/Git.md",
-    "Git/How to push code to Github using CMD.md",
-    "Git/Git Hub.md",
     "Test.md",
-    "Git/101 - Git.md",
     "Git/Version Control.md",
     "Databricks/Databricks Basics.md",
     "Git",
@@ -194,16 +181,12 @@
     "SAP/SAP Fiori.md",
     "Example.md",
     "SAP/SAP S4HANA Cloud.md",
-    "SAP/CDS View.md",
-    "SAP/SAP S4HANA Cloud 1.md",
-    "SAP/How to bring instance to S4.md",
     "01 - Excalidraw/Prints/Pasted image 20240729111844.png",
     "01 - Excalidraw/Prints/Pasted image 20240729112522.png",
     "01 - Excalidraw/Prints/Pasted image 20240729112225.png",
     "01 - Excalidraw/Prints/Pasted image 20240729112058.png",
     "01 - Excalidraw/Prints/Pasted image 20240729112011.png",
     "01 - Excalidraw/Prints/Pasted image 20240729111020.png",
-    "01 - Excalidraw/Prints/Pasted image 20240729104920.png",
     "01 - Excalidraw/Prints",
     "How to create a Business User in S",
     "Excalidraw",
