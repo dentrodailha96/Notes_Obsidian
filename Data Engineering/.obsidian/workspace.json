@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Pull vs Fetch.md",
+                "file": "Git/How to push code to Github using CMD.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Pull vs Fetch.md",
+                "file": "Git/How to push code to Github using CMD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Pull vs Fetch.md",
+                "file": "Git/How to push code to Github using CMD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Pull vs Fetch.md"
+                "file": "Git/How to push code to Github using CMD.md"
               }
             }
           }
@@ -147,13 +147,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d2103746650dc45",
+  "active": "e75359c35b8b9d6e",
   "lastOpenFiles": [
+    "Git/Pull vs Fetch.md",
     "01 - Excalidraw/Prints/Pasted image 20240806180640.png",
     "01 - Excalidraw/Prints/Pasted image 20240806180155.png",
     "Git/Git.md",
     "Git/101 - Git.md",
-    "Git/Pull vs Fetch.md",
     "Git/Git Hub.md",
     "Git/How to push code to Github using CMD.md",
     "Git/Core concepts.md",
@@ -186,7 +186,6 @@
     "01 - Excalidraw/Prints/Pasted image 20240729112225.png",
     "01 - Excalidraw/Prints/Pasted image 20240729112058.png",
     "01 - Excalidraw/Prints/Pasted image 20240729112011.png",
-    "01 - Excalidraw/Prints/Pasted image 20240729111020.png",
     "01 - Excalidraw/Prints",
     "How to create a Business User in S",
     "Excalidraw",

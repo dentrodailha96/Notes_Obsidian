@@ -1,0 +1,58 @@
+
+### Was sind Modalverben? 
+Modal verbs also known as modal helping verbs are verbs that are basically used to express the notion of "necessity" or "possibility".
+
+![[Pasted image 20240806183841.png]]
+### [Möglichkeit](obsidian://open?vault=Germanistik&file=Vocabulary%2FW%C3%B6rterbuch)
+
+|           | Dürfen (allowed to/may) | Können (able to / can) | Mögen (like) |
+| --------- | ----------------------- | ---------------------- | ------------ |
+| ich       | darf                    | kann                   | mag          |
+| du        | darfst                  | kannst                 | magst        |
+| er/es/sie | darf                    | kann                   | mag          |
+| wir       | dürfen                  | können                 | mögen        |
+| ihr       | dürft                   | könnt                  | mögt         |
+| sie/Sie   | dürfen                  | können                 | mögen        |
+
+Beispiel: 
+
+Hier darf man nicht rauchen. 
+
+Maria kann sehr gut backen.
+### [Notwendigkeit](obsidian://open?vault=Germanistik&file=Vocabulary%2FW%C3%B6rterbuch)
+
+|           | Müssen (must/have to) | Sollen (should) | Wollen (want to) |
+| --------- | --------------------- | --------------- | ---------------- |
+| ich       | muss                  | soll            | will             |
+| du        | musst                 | sollst          | willst           |
+| er/es/sie | muss                  | soll            | will             |
+| wir       | müssen                | sollen          | wollen           |
+| ihr       | müsst                 | sollt           | wollt            |
+| sie/Sie   | müssen                | sollen          | wollen           |
+Lisa soll zu House bleiben. 
+
+## Rules 
+
++ Modal verb always in the second position and the main verb is in the end. 
++ Only modal verbs are conjugated 
+
+## Modalverben als Vollverben
++ Mann kann ein Modalverb auch alleine als Vollverben benutzen (main verb as a verb). Aber, eine eindeutige Identifizierung der Situation. 
+
+Beispiel: 
+
+Ich muss jetzt nach Hause.
+ich kann sehr gut Deutsch. 
+
+### Special Case: Möchten 
+
++ Would like to 
+
+|           | Möchten  |
+| --------- | -------- |
+| ich       | möchte   |
+| du        | möchtest |
+| er/es/sie | möchte   |
+| wir       | möchten  |
+| ihr       | möchtet  |
+| sie/Sie   | möchten  |
