@@ -2,7 +2,30 @@
 
 https://developers.sap.com/tutorial-navigator.html
 
+### Create a ABAP Cockpit and a [[Booster]]
+
+https://community.sap.com/t5/technology-blogs-by-sap/how-to-delete-and-recreate-your-sap-cloud-platform-trial-account/ba-p/13463508#comment-542391
+
+https://developers.sap.com/tutorials/abap-environment-trial-onboarding..html
+
+### Create an ABAP Cloud Project
+
+https://developers.sap.com/tutorials/abap-environment-create-abap-cloud-project.html
+
+### Create ABAP package, Database table and ABAP Class
+
+https://developers.sap.com/tutorials/abap-environment-persistence.html
+
+* It's important to activate, after it the icon will turn yellowish from white. 
+![[Pasted image 20240805163547.png]]
+### Create a SAP Fiori App and Deploy it to SAP S/4HANA Cloud, ABAP Environment
+
+https://developers.sap.com/tutorials/abap-s4hanacloud-procurement-purchasereq-shop-ui..html
+
+
 ### Create Communication System to Connect to SAP BTP, ABAP Environment
+
+Tenant: Use the customizing tenant
 
 * how to install the ABAP Development Tools for Eclipse? https://www.youtube.com/watch?v=dJosT0kloJ0
 + Communication Management: Allow to establish secure communication between your solution and other systems. 
@@ -10,6 +33,10 @@ https://developers.sap.com/tutorial-navigator.html
 Integrate the system between S/4HANA Cloud to connect to SAP BTB and [[ABAP Environment ]].
 
 ###  Create Service Consumption Model for Business Partner and Sales Order Item Cube
+
+Tenant: Use the customizing tenant
+
+Concept: Service consumption is the invocation of a service (Web service, application service, or enterprise service) by a service consumer. This is the logical next step after the iteration with ==the repository to determine the correct service to be invoked for a specific business context== (service discovery). 
 
 * Creating destination with basic authentication: 
 
@@ -40,3 +67,6 @@ P.S.: If there is missing Catalog to have full access to the tile, SAP will auto
  4) Sing Out the account and enter again and Voilà!
  
 ![[Pasted image 20240729112522.png]]
+
+
+
