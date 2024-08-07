@@ -26,6 +26,7 @@
 | aus               |
 | bei               |
 | gegenüber         |
+| zu                |
 + Verben mit Dativ 
 
 z.B.: Die Uhr gehört mir. 
