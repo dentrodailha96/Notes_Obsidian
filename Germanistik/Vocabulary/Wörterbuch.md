@@ -2,6 +2,7 @@
 | Word                                         | Type        | Meaning                        |
 | -------------------------------------------- | ----------- | ------------------------------ |
 | ab\|heben                                    | Verb        | to withdraw                    |
+| ab\|sagen                                    |             | to cancel something            |
 | allein                                       |             | alone                          |
 | als                                          |             | than                           |
 | anderen                                      |             | others                         |
@@ -11,7 +12,7 @@
 | Anwendung                                    | Verb        | usage                          |
 | Auf dem Land                                 |             | in the country                 |
 | auf keinen Fall                              |             | no way / on no account         |
-| auf tippen                                   |             | to click in, to tap on         |
+| auf\|tippen                                  |             | to click in, to tap on         |
 | auf\|nehmen                                  |             | to record                      |
 | auf\|räumen                                  |             | clean up                       |
 | aus\|drucken                                 |             | inpress                        |
@@ -21,13 +22,16 @@
 | bald                                         |             | soon                           |
 | basteln                                      | Verb        | DIY                            |
 | bequem                                       |             | comfortable                    |
+| beraten                                      |             | to advise someone              |
 | Berufsbezeichnungen                          |             | job descriptions               |
 | besichtigen                                  |             | to visit                       |
 | bestellen                                    |             | order                          |
 | Bestimmt                                     |             | Definitely, certainly          |
 | besuchen                                     |             | to visit                       |
+| Bewerbungsgespräch                           |             | Job interview                  |
 | Bleiben                                      | verb        | to remain/to stay              |
 | brauchen                                     |             | to need                        |
+| buchen                                       |             | to book something              |
 | Dafür                                        |             | for that                       |
 | Damals                                       |             | back then                      |
 | danach                                       |             | after that                     |
@@ -38,6 +42,7 @@
 | das Eigentum                                 |             | property                       |
 | das Ergebnis                                 |             | result                         |
 | Das geht nicht                               |             | that won't/doesn't work        |
+| das Geschäaft, die Geschäfte                 |             | store, shop                    |
 | das Gesetz / die Gesetze                     | Noun        | Law                            |
 | das Handtuch/ die Handtücher                 |             | hand towel                     |
 | das Hochhaus, die Hochhäuser                 |             | high-rise building             |
@@ -53,10 +58,12 @@
 | den ganzen Tag                               |             | the entire day                 |
 | denken                                       |             | to think                       |
 | der Abbruch / die Abbrüche                   |             | cancellation                   |
+| der Alwalt/die Anwältin / die Anwältinnen    |             | Lawyer                         |
 | der Anfänger / die Anfängerin                | noun        | Beginner                       |
 | der Bankengestelle                           |             | bank clerk                     |
 | der Bleistift, die Bleistifte                |             | pencil                         |
 | der Blitz                                    |             | lightning                      |
+| der Computer                                 |             | computer                       |
 | der Essig                                    |             | vinegar                        |
 | der Fernseher/die Fernseher                  |             | TV                             |
 | der Föhn/ die Föhne                          |             | hair dryer                     |
@@ -64,6 +71,7 @@
 | der Geldscheine                              |             | bills note                     |
 | der Grund                                    |             | reason                         |
 | der Herd                                     |             | stove                          |
+| der Kalender                                 |             | calendar                       |
 | der Koffer                                   |             | Suitcase                       |
 | der König / die Könige                       | noun        | King                           |
 | der Kreig                                    |             | war                            |
@@ -78,6 +86,7 @@
 | der Schrank, die Schränke                    | noun        | cabinet, wardrobe              |
 | der Spiegel                                  |             | mirror                         |
 | der Süden                                    |             | South                          |
+| der Traumberuf / die Traumberuf              |             | dream job                      |
 | der Unterricht                               |             | lesson                         |
 | der Weihnachtsmann                           |             | Santa Claus                    |
 | der Westen                                   |             | West                           |
@@ -102,7 +111,9 @@
 | die Gesellschaft                             |             | society                        |
 | Die Heizung                                  |             | the heating                    |
 | die Krankheit                                |             | illness                        |
+| die Langeweile                               |             | boredom                        |
 | die Münzen                                   |             | Coins                          |
+| die Panne, die Pannen                        |             | breakdown, glitch, malfunction |
 | die Sarge / die Sargen                       |             | worry, condern                 |
 | die Schneiderei                              |             | tailoring                      |
 | die Schönheit                                |             | beauty                         |
@@ -121,10 +132,11 @@
 | drinnen                                      |             | inside                         |
 | dunkel                                       |             | dark                           |
 | durch                                        | preposition | through                        |
+| eigentlich                                   |             | actually                       |
 | Einfach                                      |             | Simply                         |
 | eingeben                                     |             | input                          |
 | Eingentlich                                  | Adverb      | Actually                       |
-| einkauden                                    | Verb        | to shopping                    |
+| einkaufen                                    | Verb        | to shopping                    |
 | entlang                                      | preposition | along (usually after a noun)   |
 | Erfolg                                       |             | success                        |
 | Erscheinen                                   | verb        | to be released (a book)        |
@@ -133,8 +145,10 @@
 | etwas nach/sehen                             | Verb        | to have a look                 |
 | etwas vereinbarten                           | Verb        | to agree on something          |
 | fast immer                                   |             | almost always                  |
+| fest                                         |             | fixed, permanent               |
 | fliehen                                      | verb        | to flee                        |
 | flüchtlinge                                  |             | refugees                       |
+| Flughafen                                    |             | airport                        |
 | Freut                                        |             | Happy                          |
 | früh                                         |             | early                          |
 | ganz                                         |             | complete, entire, super        |
@@ -162,6 +176,7 @@
 | leider                                       |             | unfortunately                  |
 | leihenfolge                                  | noun        | Series                         |
 | leisten                                      |             | afford                         |
+| leiten                                       |             | to manage, to head something   |
 | liegen                                       |             | to be located                  |
 | machen                                       |             | to do                          |
 | malen                                        | Verb        | to paint                       |
@@ -180,6 +195,7 @@
 | Normalerwiese                                |             | Normally                       |
 | Notwendigkeit                                |             | necessity                      |
 | oft                                          |             | often                          |
+| organisieren                                 |             | to organize something          |
 | pass auf                                     |             | watch out                      |
 | rauchen                                      |             | to smoke                       |
 | Räume                                        |             | Rooms                          |
@@ -204,16 +220,20 @@
 | Teilzeit                                     | noun        | Part time                      |
 | telefonieren                                 |             | to telephone                   |
 | trauring                                     | Adjective   | sab                            |
+| überprüfen                                   |             | to check something             |
 | überweisen                                   |             | to transfer                    |
 | überziehen                                   | Verb        | to overdraw                    |
 | uebermorgen                                  |             | the day after tomorrow         |
 | um                                           | preposition | around, round                  |
 | umziehen                                     |             | move                           |
 | Unterricht                                   |             | instructions                   |
+| unterschreiben                               |             | to sing something              |
+| vereinbaren                                  |             | agree                          |
 | Verprochen                                   |             | Promise                        |
 | vielleicht                                   |             | perhaps, maybe                 |
 | viertel nach                                 |             | quarter past                   |
 | viertel vor                                  |             | quarter to                     |
+| Vokabeln                                     |             | Vocabulary                     |
 | Vollverben                                   |             | mainverb                       |
 | vorgestern                                   |             | the day before yesterday       |
 | Wähl                                         | Verb        | choose                         |
@@ -224,7 +244,6 @@
 | werden                                       |             | to become                      |
 | werden                                       |             | become                         |
 | wichtig                                      |             | important                      |
-| wie spät ist es?                             |             | How late is it?                |
 | wieder                                       |             | again                          |
 | wiederholen                                  | verb        | to repeat                      |
 | wissen                                       |             | to know                        |
@@ -233,16 +252,14 @@
 | zuletzt                                      |             | lastly, finally                |
 | züruck                                       | verb        | return                         |
 | Zurückgekommen                               | Verb        | comeback                       |
-| ab\|sagen                                    |             | to cancel something            |
-| die Panne, die Pannen                        |             | breakdown, glitch, malfunction |
-| die Langeweile                               |             | boredom                        |
-| Bewerbungsgespräch                           |             | Job interview                  |
-| fest                                         |             | fixed, permanent               |
-| eigentlich                                   |             | actually                       |
-| der Alwalt/die Anwältin / die Anwältinnen    |             | Lawyer                         |
-| das Geschäaft, die Geschäfte                 |             | store, shop                    |
-| der Computer                                 |             | computer                       |
-| der Kalender                                 |             | calendar                       |
-| leiten                                       |             | to manage, to head something   |
+| beruflich                                    |             | professionally                 |
+| die Gebäude                                  |             | Building                       |
+| Breschechungsraum                            |             | Conference room                |
+| der Ausgang / die Ausgänge                   |             | exit                           |
+| der Empfang                                  |             | reception / front desk         |
+| der Lesesaal / doe Lesasäle                  |             | reading room                   |
+| die Garderobe / die Garderoben               |             | coat check, wardrobe           |
+| das Untergeschoss                            |             | basement floor                 |
+| zwischen                                     |             | between                        |
 
 

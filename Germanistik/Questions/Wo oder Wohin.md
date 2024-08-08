@@ -77,3 +77,52 @@ Beispiel:
 		Ich bin zu Hause. 
 	Wohin gehts du?
 		Ich gehe nach Hause. 
+
+Präpositionen mit:
+
++ Berg (Montain):
+	Wo bist du?
+		Es ist sehr kalt ==auf der== Zugspitze. 
+
+	Wohin geht ihr?
+		Wir gehen ==auf die== Zugspitze.
+
++ Insel / Inselgruppe: 
+	Wo bist du? (+ Dativ)
+		Ich bin ==auf den== Malediven. 
+	Wohin geht ihr? (+ Akkusativ)
+		Ich gehe ==auf die== Malediven. 
+		
++ Meer / Fluss / See / Strand:
+	Wo bist du? 
+		Ich bin am Meer. (am + dem = am)
+	Wohin gehst du?
+		Ich fahre ans Meer. (an + das = das)
+		
+![[Pasted image 20240808155548.png]]
+
++ Straße:
+	Wo wohnst du? 
+		Ich wohne in der Schillerstraße.
+	Wohin gehst du? 
+		Ich gehe in die Goethestraße. 
+		
++ Platz:
+	Wo sind die Kinder? 
+		Die Kinder sind am Spielplatz. 
+	Wohin gehst du? 
+		Ich gehe zum Spielplatz. 
+
++ Person (person)
+	Wo bist du? 
+		Ich bin bei meiner Oma. 
+	Wohin gehst du? 
+		Ich gehe zu meiner Oma. 
+
+![[Pasted image 20240808160134.png]]
+
++ Veranstaltung / aktivität (Event/activit):
+	Wo bist du? 
+		Ich bin auf einer Party. 
+	Wohin gehst du? 
+		Ich gehe zu einer Party. 
