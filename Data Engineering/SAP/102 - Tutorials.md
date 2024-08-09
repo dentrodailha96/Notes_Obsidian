@@ -8,9 +8,26 @@ https://community.sap.com/t5/technology-blogs-by-sap/how-to-delete-and-recreate-
 
 https://developers.sap.com/tutorials/abap-environment-trial-onboarding..html
 
+* If we create an object in ABAP (Eclipse), and need to delete it. Should follow the steps below: 
+
+1. In Eclipse, Click on the **Transport Organizer** which is located at the right side
+2. Search with your object in the Transport Organizer
+
+![[Pasted image 20240809101727.png]]
+** if there are more than one object, follow the steps below: 
+Transport Organizer  --> Transport Request --> Right click in the Object --> Sort and Compress.
+
+![[Pasted image 20240809113101.png]]
+
+### Create a communication system in SAP
++ [[What is a communication system]]? 
+https://developers.sap.com/tutorials/abap-custom-ui-bas-connect-s4hc.html
+
+https://www.youtube.com/watch?v=Qk9A-VMo8R0
 ### Create an ABAP Cloud Project
 
 https://developers.sap.com/tutorials/abap-environment-create-abap-cloud-project.html
+
 
 ### Create ABAP package, Database table and ABAP Class
 
