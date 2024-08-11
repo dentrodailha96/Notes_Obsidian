@@ -150,3 +150,15 @@ Verbkonjugation im Präsens:
 | Ihr           | könnt  |
 | sie           | können |
 | Sie           | können |
+
+### Wollen 
+
+|               | wollen |
+| ------------- | ------ |
+| Ich           | will   |
+| ==Du/Sie==    | willst |
+| ==Er/Sie/Es== | will   |
+| Wir           | wollen |
+| Ihr           | wollt  |
+| sie           | wollen |
+| Sie           | wollen |
