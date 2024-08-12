@@ -36,3 +36,11 @@ STEPS to create S/4HANA Cloud to BTP account
 	#### Errors
 	+ [[API Deployment]]
 
+## Support 
+
++ SAP for me -> Service & Support -> Cases 
+
+Thera is possible to open and close cases. 
+
+
+

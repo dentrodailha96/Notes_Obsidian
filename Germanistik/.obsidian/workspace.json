@@ -8,24 +8,30 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1b8aa5246513fb62",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/Wörterbuch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "8feee7ed30d7f8cc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verb/Trennbare Verben.md",
+                "file": "Verb/Imperativ.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d9865bc68842c227",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4997d3de17e11725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Wörterbuch.md",
                 "mode": "source",
                 "source": false
               }
@@ -159,33 +165,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1b8aa5246513fb62",
+  "active": "4997d3de17e11725",
   "lastOpenFiles": [
-    "Verb/das Präsens.md",
-    "Vocabulary/Wörterbuch.md",
+    "Verb/Imperativ.md",
+    "Pasted image 20240812154307.png",
+    "Pasted image 20240812154244.png",
+    "Pasted image 20240812154224.png",
     "Verb/Trennbare Verben.md",
+    "01 - Excalidraw/Prints/Pasted image 20240812154115.png",
+    "01 - Excalidraw/Prints/Pasted image 20240812154049.png",
+    "01 - Excalidraw/Prints/Pasted image 20240812153747.png",
+    "01 - Excalidraw/Prints/Pasted image 20240812153856.png",
+    "Vocabulary/Wörterbuch.md",
+    "Verb/das Präsens.md",
     "01 - Excalidraw/Prints/Pasted image 20240811163430.png",
     "01 - Excalidraw/Prints/Pasted image 20240811163203.png",
     "01 - Excalidraw/Prints/Pasted image 20240808162037.png",
     "Vocabulary/Wo ist ....md",
     "Declinations/Dativ.md",
     "Questions/Basic questions.md",
-    "01 - Excalidraw/Prints/Pasted image 20240808161947.png",
     "Vocabulary/Ordenungszahlen 1 bis 19.md",
     "Excalidraw/Drawing 2024-08-08 16.16.26.excalidraw.md",
     "Questions/Wo oder Wohin.md",
-    "01 - Excalidraw/Prints/Pasted image 20240808160134.png",
     "Verb/Simple past.md",
     "Verb/Haben und Sein.md",
-    "01 - Excalidraw/Prints/Pasted image 20240808155548.png",
     "Verb/Modalverben.md",
     "Declinations/Akkusativ.md",
     "Declinations/Nominativ.md",
     "Excalidraw/Drawing 2024-08-06 19.16.24.excalidraw.md",
     "Excalidraw",
-    "01 - Excalidraw/Prints/Pasted image 20240806183841.png",
     "Excalidraw/Drawing 2024-08-06 18.31.27.excalidraw.md",
-    "01 - Excalidraw/Prints/Pasted image 20240804211210.png",
     "Vocabulary/Monat.md",
     "Vocabulary/Die Wochentage.md",
     "Vocabulary/Charaktereirgenschaften.md",
@@ -194,10 +203,7 @@
     "Excalidraw/Drawing 2024-07-31 13.55.28.excalidraw.md",
     "Excalidraw/Drawing 2024-07-31 13.55.10.excalidraw.md",
     "Questions/Fragewörter.md",
-    "01 - Excalidraw/Prints/Pasted image 20240801164903.png",
-    "Questions/Fragen.md",
     "Untitled.canvas",
-    "01 - Excalidraw/Indirect.svg",
     "01 - Excalidraw/Prints",
     "Untitled",
     "Declinations",

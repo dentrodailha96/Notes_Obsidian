@@ -462,5 +462,14 @@
 | trennbar                                     |             | separable                      |
 | los\|gehen                                   |             | to set up                      |
 | die Werkstatt, die Werkstaetten              |             | workshop                       |
+| Geduld                                       |             | Patience                       |
+| Befehl                                       |             | Command                        |
+| Aufforderung                                 |             | Order                          |
+| Rat                                          |             | advice                         |
+| regelmaessig                                 |             | regulary                       |
+| Froh                                         |             | Happy                          |
+| der Allee                                    |             | wide street                    |
+| die Gasse                                    |             | small street                   |
+|                                              |             |                                |
 
 
