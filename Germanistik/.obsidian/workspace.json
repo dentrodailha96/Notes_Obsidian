@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verb/Imperativ.md",
+                "file": "Vocabulary/Wörterbuch.md",
                 "mode": "source",
                 "source": false
               }
@@ -31,7 +31,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/Directions.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +87,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a17f7f64d3e4626",
@@ -103,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/Directions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/Directions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md"
+                "file": "Vocabulary/Directions.md"
               }
             }
           }
@@ -167,16 +168,18 @@
   },
   "active": "4997d3de17e11725",
   "lastOpenFiles": [
+    "Vocabulary/Wörterbuch.md",
+    "Vocabulary/Directions.md",
+    "Verb/Simple past.md",
+    "01 - Excalidraw/Prints/Pasted image 20240812154224.png",
     "Verb/Imperativ.md",
-    "Pasted image 20240812154307.png",
-    "Pasted image 20240812154244.png",
-    "Pasted image 20240812154224.png",
+    "01 - Excalidraw/Prints/Pasted image 20240812154307.png",
+    "01 - Excalidraw/Prints/Pasted image 20240812154244.png",
     "Verb/Trennbare Verben.md",
     "01 - Excalidraw/Prints/Pasted image 20240812154115.png",
     "01 - Excalidraw/Prints/Pasted image 20240812154049.png",
     "01 - Excalidraw/Prints/Pasted image 20240812153747.png",
     "01 - Excalidraw/Prints/Pasted image 20240812153856.png",
-    "Vocabulary/Wörterbuch.md",
     "Verb/das Präsens.md",
     "01 - Excalidraw/Prints/Pasted image 20240811163430.png",
     "01 - Excalidraw/Prints/Pasted image 20240811163203.png",
@@ -187,7 +190,6 @@
     "Vocabulary/Ordenungszahlen 1 bis 19.md",
     "Excalidraw/Drawing 2024-08-08 16.16.26.excalidraw.md",
     "Questions/Wo oder Wohin.md",
-    "Verb/Simple past.md",
     "Verb/Haben und Sein.md",
     "Verb/Modalverben.md",
     "Declinations/Akkusativ.md",

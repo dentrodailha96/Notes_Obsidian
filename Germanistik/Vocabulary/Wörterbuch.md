@@ -470,6 +470,12 @@
 | Froh                                         |             | Happy                          |
 | der Allee                                    |             | wide street                    |
 | die Gasse                                    |             | small street                   |
-|                                              |             |                                |
+| Vergangenheit                                |             | Past                           |
+| Gegenwart                                    |             | Present                        |
+| Zukunft                                      |             | Future                         |
+| Richtungen                                   |             | Directions                     |
+| entlang                                      |             | along                          |
+| vorbei                                       |             | pass over                      |
+| überqueren                                   |             | cross over                     |
 
 

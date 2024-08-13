@@ -1,3 +1,4 @@
++ das Präteritum
 
 |           | Sein (to be) | Haben (to have) |
 | --------- | ------------ | --------------- |
@@ -5,6 +6,12 @@
 | Du        | warst        | hattest         |
 | Er/Sie/Es | war          | hatte           |
 | Wir       | waren        | hatten          |
-| Ihr       | wart         | hattent         |
+| Ihr       | wart         | hattet          |
 | sie       | waren        | hatten          |
 | Sie       | waren        | hatten          |
+
+### War oder hatte
+
++ Always in the second position
+
+
