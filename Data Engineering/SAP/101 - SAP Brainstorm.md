@@ -26,10 +26,6 @@
 
 ### [[102 - Tutorials]]
 
-STEPS to create S/4HANA Cloud to BTP account
-	1) Create a SAP BTP Cockpit and a [[Booster]] =[[ ABAP Environment]] 
-	2) 
-	3) 
 
 + [[Tenants Types]]
 

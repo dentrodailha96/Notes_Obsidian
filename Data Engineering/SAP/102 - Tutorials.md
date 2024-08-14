@@ -2,6 +2,12 @@
 
 https://developers.sap.com/tutorial-navigator.html
 
+BASICS: https://www.youtube.com/playlist?list=PLPVhB_hucPHx16aJKe325mX9y55xs-z67 (Blue Antoniette explaination)
+
+#### CREATE A TABLE IN ECLIPSE 
+
+https://developers.sap.com/tutorials/abap-environment-create-table..html
+https://developers.sap.com/tutorials/abap-environment-rap100-generate-ui-service..html
 ### Create a ABAP Cockpit and a [[Booster]]
 
 https://community.sap.com/t5/technology-blogs-by-sap/how-to-delete-and-recreate-your-sap-cloud-platform-trial-account/ba-p/13463508#comment-542391

@@ -21,3 +21,5 @@ Verben:
 | an\|rufen         | to call                         |
 | ein\|laden        | to invite                       |
 | zu\|machen        | to close sth                    |
+
+

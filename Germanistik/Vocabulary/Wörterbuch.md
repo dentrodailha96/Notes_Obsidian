@@ -477,5 +477,9 @@
 | entlang                                      |             | along                          |
 | vorbei                                       |             | pass over                      |
 | überqueren                                   |             | cross over                     |
+| dauern                                       |             | to last                        |
+| um\|steigen                                  |             | to change                      |
+| der Fahrer, die Fahrer                       |             | driver                         |
+| hin und zurück                               |             | there and back                 |
 
 
