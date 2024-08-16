@@ -24,7 +24,7 @@
 - Visual with the backend - Back
 - Long term SAP with Azure 
 
-### [[102 - Tutorials]]
+### [[1 - Tutorials]]
 
 
 + [[Tenants Types]]
