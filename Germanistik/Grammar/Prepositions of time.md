@@ -6,7 +6,7 @@ vor + dative
 Past events or actions that have been completed. 
 
 *Present perfect:* Nawin ist vor zwei Wochen nach Frankreich gezogen. 
-*[[Simple past]]:* Lisa hatte vor drei Wochen Urlaub. 
+*[[Vergangenheit]]:* Lisa hatte vor drei Wochen Urlaub. 
 
 * seit (since):
 

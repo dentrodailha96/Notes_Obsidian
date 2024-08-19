@@ -13,7 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Times of the day.md",
+                "file": "Vocabulary/Wörterbuch.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "6ee9fdd83262193f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dae922020db546d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Wo ist ....md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Times of the day.md",
+                "file": "Vocabulary/Wörterbuch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Times of the day.md",
+                "file": "Vocabulary/Wörterbuch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Times of the day.md"
+                "file": "Vocabulary/Wörterbuch.md"
               }
             }
           }
@@ -149,43 +167,43 @@
   },
   "active": "4997d3de17e11725",
   "lastOpenFiles": [
-    "Vocabulary/Wörterbuch.md",
-    "Vocabulary/Transport.md",
     "Declinations/Dativ.md",
+    "Grammar/Preposition.md",
+    "Vocabulary/Wo ist ....md",
+    "Vocabulary/Transport.md",
+    "Vocabulary/Times of the day.md",
+    "Vocabulary/Ordenungszahlen 1 bis 19.md",
+    "Vocabulary/Monat.md",
     "Vocabulary/Directions.md",
+    "Vocabulary/Die Wochentage.md",
+    "Vocabulary/Die Farben.md",
+    "Vocabulary/Charaktereirgenschaften.md",
+    "Verb/Vergangenheit.md",
     "Verb/Untrennbare Verbs.md",
-    "Verb/Simple past.md",
+    "Verb/Trennbare Verben.md",
+    "Verb/Modalverben.md",
+    "Verb/Möchten.md",
+    "Verb/Imperativ.md",
+    "Verb/Haben und Sein.md",
+    "Verb/das Präsens.md",
+    "Text/Email.md",
+    "Questions/Wo oder Wohin.md",
+    "Questions/Wieso Weshalb Warum.md",
+    "Questions/Sich Vorstellen.md",
+    "Questions/Kauszätze Weil vs Dann.md",
+    "Questions/Indirect Interrogative.md",
+    "Questions/Fragewörter.md",
+    "Pasted image 20240819120759.png",
+    "01 - Excalidraw/Prints/Pasted image 20240819111058.png",
+    "01 - Excalidraw/Prints/Pasted image 20240819112307.png",
+    "01 - Excalidraw/Prints/Pasted image 20240819112233.png",
+    "01 - Excalidraw/Prints/Pasted image 20240819111539.png",
+    "01 - Excalidraw/Prints/Pasted image 20240819111451.png",
+    "01 - Excalidraw/Prints/Pasted image 20240819111348.png",
+    "01 - Excalidraw/Prints/Pasted image 20240819111240.png",
     "01 - Excalidraw/Prints/Pasted image 20240814102710.png",
     "01 - Excalidraw/Prints/Pasted image 20240814102538.png",
-    "Verb/Trennbare Verben.md",
-    "01 - Excalidraw/Prints/Pasted image 20240814102434.png",
-    "01 - Excalidraw/Prints/Pasted image 20240812154224.png",
-    "Verb/Imperativ.md",
-    "01 - Excalidraw/Prints/Pasted image 20240812154307.png",
-    "01 - Excalidraw/Prints/Pasted image 20240812154244.png",
-    "01 - Excalidraw/Prints/Pasted image 20240812154115.png",
-    "01 - Excalidraw/Prints/Pasted image 20240812154049.png",
-    "01 - Excalidraw/Prints/Pasted image 20240812153747.png",
-    "01 - Excalidraw/Prints/Pasted image 20240812153856.png",
-    "Verb/das Präsens.md",
-    "Vocabulary/Wo ist ....md",
-    "Questions/Basic questions.md",
-    "Vocabulary/Ordenungszahlen 1 bis 19.md",
-    "Excalidraw/Drawing 2024-08-08 16.16.26.excalidraw.md",
-    "Questions/Wo oder Wohin.md",
-    "Verb/Haben und Sein.md",
-    "Verb/Modalverben.md",
-    "Declinations/Akkusativ.md",
-    "Declinations/Nominativ.md",
-    "Excalidraw/Drawing 2024-08-06 19.16.24.excalidraw.md",
     "Excalidraw",
-    "Excalidraw/Drawing 2024-08-06 18.31.27.excalidraw.md",
-    "Vocabulary/Monat.md",
-    "Vocabulary/Die Wochentage.md",
-    "Vocabulary/Charaktereirgenschaften.md",
-    "Vocabulary/Times of the day.md",
-    "Vocabulary/Word with ung.md",
-    "Excalidraw/Drawing 2024-07-31 13.55.28.excalidraw.md",
     "Untitled.canvas",
     "01 - Excalidraw/Prints",
     "Untitled",
