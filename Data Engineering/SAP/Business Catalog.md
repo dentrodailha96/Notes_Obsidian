@@ -1,0 +1,1 @@
++ Collection of related business application, reports and tasks that are grouped together.

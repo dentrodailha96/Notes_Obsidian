@@ -43,7 +43,7 @@ https://learning.sap.com/learning-journeys/learn-the-basics-of-sap-fiori/explain
 
 ![[SAP Fiori - Basics]]
 
-+ [[ABAP Development Tools]]
++ ABAP Development Tools
 
 + ABAP features
 	![[Pasted image 20240816080021.png]]

@@ -487,5 +487,7 @@
 | der Zettel                                   |             | Note                                   |
 | der Drucker                                  |             | impressora                             |
 | der Parkhause                                |             | the parking garage                     |
+| Dazu                                         |             | along with it                          |
+| deliebt                                      |             | popular                                |
 
 
