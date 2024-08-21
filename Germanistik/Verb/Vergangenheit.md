@@ -1,7 +1,5 @@
 + Past
 
-## Das Perfekt 
-
 1) das Plusquamperfekt (past perfect)
 2) das Präteritum (simpla past)
 ### War oder hatte
@@ -18,7 +16,7 @@
 | sie       | waren        | hatten          |
 | Sie       | waren        | hatten          |
 
-1) das Perfekt (present perfect)
+3) das Perfekt (present perfect)
 
 	## Sentence Structure
 ![[Pasted image 20240819111058.png]]
@@ -84,7 +82,71 @@ Verbs in Partizip II:
 
 ![[Pasted image 20240820121317.png]]
 
+### Verben
+
+![[Pasted image 20240821101046.png]]
+
+* Regelmäßige Verben
+
+![[Pasted image 20240821101116.png]]
+
+Machen: hat gemacht = ge- + mach + -t
+
+Lernen, arbeiten, reden 
+
+***** Verben mit den Endung "-ieren":  Studieren, fotografieren 
+
+![[Pasted image 20240821101609.png]]
+
+* Unregelmäßige Verben
+
+![[Pasted image 20240821101842.png]]
+
+Schreiben: hat geschrieben 
+
+Finden: hat gefunden 
+
+Kommen: ist gekommen
 
 
+| Verben    | Partizip II     |
+| --------- | --------------- |
+| Schreiben | hat geschrieben |
+| Denken    | hat danken      |
+| Finden    | hat gefunden    |
+| Kommen    | ist gekommen    |
+| essen     | hat gegessen    |
+| gehen     | hat gegangen    |
+| bringen   | hat gebracht    |
+| trinken   | hat getrunken   |
+| fahren    | ist gefahren    |
+| geben     | hat gegeben     |
+| helfen    | hat geholfen    |
+| nehmen    | hat genommen    |
+
+* Trennbare Verben
+
+![[Pasted image 20240821102331.png]]
 
 
+| Verben     | Partizip II      | Translation |
+| ---------- | ---------------- | ----------- |
+| eingekauft | hat eingekauft   |             |
+| aufstehen  | ist aufgestanden |             |
+| zumachen   | hat zugemacht    | close       |
+| mitkommen  | ist mitgekommen  |             |
+| fernsehen  | hat ferngesehen  |             |
+| anfangen   | hat angefangen   | begin       |
+
+* Untrennbare Verben
+
+![[Pasted image 20240821102715.png]]
+
+| Verben      | Partizip II     | Translation |
+| ----------- | --------------- | ----------- |
+| erklären    | hat erklärt     | to clarify  |
+| vestehen    | hat verstanden  |             |
+| bekommen    | hat bekommen    | to receive  |
+| gefallen    | hat gefallen    | to please   |
+| erzählen    | hat erzählt     | to tell     |
+| entscheiden | hat entschieden | to decide   |

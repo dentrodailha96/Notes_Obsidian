@@ -17,6 +17,7 @@
 | die Beilage, die Beilagen   | side dish      |
 | die Zitrone, die Zitronen   | lemon          |
 | der Fleisch                 | meat           |
+| der Kohlrabi, die Kohlrabis | cabbage        |
 
 **Fragen**
 	+ Was ist du gern zum Frühstrück? Ich essen gern Brot mit Käse zum Frühstrück.

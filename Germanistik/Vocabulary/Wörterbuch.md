@@ -489,5 +489,8 @@
 | der Parkhause                                |             | the parking garage                     |
 | Dazu                                         |             | along with it                          |
 | deliebt                                      |             | popular                                |
+| reden                                        |             | to talk                                |
+| gesund                                       |             | healthy                                |
+| der Pfannkuchen, die Pfannkuchen             |             | pancake                                |
 
 

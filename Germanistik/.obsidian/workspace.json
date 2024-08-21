@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4997d3de17e11725",
+            "id": "1df9188594508baf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Grammar/Welch-.md",
                 "mode": "source",
                 "source": false
               }
@@ -26,12 +26,24 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c3625b7be981b222",
+            "id": "fb0c68c4e1c809a7",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Essen und Küchen.md",
+                "file": "Verb/Vergangenheit.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4997d3de17e11725",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Wörterbuch.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +115,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Essen und Küchen.md",
+                "file": "Grammar/Welch-.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +132,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Essen und Küchen.md",
+                "file": "Grammar/Welch-.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +155,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Essen und Küchen.md"
+                "file": "Grammar/Welch-.md"
               }
             }
           }
@@ -165,18 +177,26 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c3625b7be981b222",
+  "active": "1e37fa8145b2d56c",
   "lastOpenFiles": [
-    "Grammar/Kein vs Nicht.md",
-    "Pasted image 20240820123942.png",
-    "Vocabulary/Wo ist ....md",
-    "Vocabulary/Wörterbuch.md",
+    "01 - Excalidraw/Prints/Pasted image 20240821112653.png",
+    "Grammar/Comparative Forms.md",
+    "Grammar/Welch-.md",
     "Vocabulary/Essen und Küchen.md",
-    "01 - Excalidraw/Prints/Pasted image 20240819120759.png",
     "Verb/Vergangenheit.md",
+    "Vocabulary/Wörterbuch.md",
+    "01 - Excalidraw/Prints/Pasted image 20240820123942.png",
+    "01 - Excalidraw/Prints/Pasted image 20240821102715.png",
+    "01 - Excalidraw/Prints/Pasted image 20240821102331.png",
+    "01 - Excalidraw/Prints/Pasted image 20240821101842.png",
+    "01 - Excalidraw/Prints/Pasted image 20240821101609.png",
+    "01 - Excalidraw/Prints/Pasted image 20240821101116.png",
+    "01 - Excalidraw/Prints/Pasted image 20240821101046.png",
+    "Grammar/Kein vs Nicht.md",
+    "Vocabulary/Wo ist ....md",
+    "01 - Excalidraw/Prints/Pasted image 20240819120759.png",
     "01 - Excalidraw/Prints/Pasted image 20240820121317.png",
     "01 - Excalidraw/Prints/Pasted image 20240820120930.png",
-    "01 - Excalidraw/Prints/Pasted image 20240820120659.png",
     "Declinations/Dativ.md",
     "Grammar/Preposition.md",
     "Vocabulary/Transport.md",
@@ -195,13 +215,6 @@
     "Verb/Haben und Sein.md",
     "Verb/das Präsens.md",
     "Text/Email.md",
-    "Questions/Wo oder Wohin.md",
-    "Questions/Wieso Weshalb Warum.md",
-    "01 - Excalidraw/Prints/Pasted image 20240819111058.png",
-    "01 - Excalidraw/Prints/Pasted image 20240819112307.png",
-    "01 - Excalidraw/Prints/Pasted image 20240819112233.png",
-    "01 - Excalidraw/Prints/Pasted image 20240819111539.png",
-    "01 - Excalidraw/Prints/Pasted image 20240819111451.png",
     "Excalidraw",
     "Untitled.canvas",
     "01 - Excalidraw/Prints",
