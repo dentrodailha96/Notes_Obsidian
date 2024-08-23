@@ -28,6 +28,7 @@ Transport Organizer  --> Transport Request --> Right click in the Object --> Sor
 ### Create a communication system in SAP
 + [[What is a communication system]]? 
 https://developers.sap.com/tutorials/abap-custom-ui-bas-connect-s4hc.html
+https://community.sap.com/t5/technology-blogs-by-sap/application-to-service-user-token-exchange/ba-p/13442713
 
 https://www.youtube.com/watch?v=Y2VuzJf6Q5o
 https://www.youtube.com/watch?v=Qk9A-VMo8R0
