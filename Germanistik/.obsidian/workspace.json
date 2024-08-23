@@ -4,24 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "048712e035de0826",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "1df9188594508baf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Grammar/Welch-.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
         "id": "6ee9fdd83262193f",
         "type": "tabs",
         "children": [
@@ -31,19 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verb/Vergangenheit.md",
+                "file": "Grammar/Adverbien.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "1baddce7c2c623dc",
+        "type": "tabs",
+        "children": [
           {
-            "id": "4997d3de17e11725",
+            "id": "bb254c2bec11379a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/Haushaltsarbeit.md",
                 "mode": "source",
                 "source": false
               }
@@ -115,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grammar/Welch-.md",
+                "file": "Grammar/Adverbien.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -132,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grammar/Welch-.md",
+                "file": "Grammar/Adverbien.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -155,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grammar/Welch-.md"
+                "file": "Grammar/Adverbien.md"
               }
             }
           }
@@ -177,26 +165,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1e37fa8145b2d56c",
+  "active": "fb0c68c4e1c809a7",
   "lastOpenFiles": [
+    "Vocabulary/Haushaltsarbeit.md",
+    "Grammar/Adverbien.md",
+    "Vocabulary/Wörterbuch.md",
+    "Pasted image 20240823085932.png",
+    "01 - Excalidraw/Prints/Pasted image 20240823082922.png",
+    "Verb/Vergangenheit.md",
+    "01 - Excalidraw/Prints/Pasted image 20240823082837.png",
+    "Excalidraw/Drawing 2024-08-23 08.39.28.excalidraw.md",
+    "Excalidraw",
+    "Grammar/Welch-.md",
     "01 - Excalidraw/Prints/Pasted image 20240821112653.png",
     "Grammar/Comparative Forms.md",
-    "Grammar/Welch-.md",
     "Vocabulary/Essen und Küchen.md",
-    "Verb/Vergangenheit.md",
-    "Vocabulary/Wörterbuch.md",
     "01 - Excalidraw/Prints/Pasted image 20240820123942.png",
     "01 - Excalidraw/Prints/Pasted image 20240821102715.png",
     "01 - Excalidraw/Prints/Pasted image 20240821102331.png",
     "01 - Excalidraw/Prints/Pasted image 20240821101842.png",
     "01 - Excalidraw/Prints/Pasted image 20240821101609.png",
     "01 - Excalidraw/Prints/Pasted image 20240821101116.png",
-    "01 - Excalidraw/Prints/Pasted image 20240821101046.png",
     "Grammar/Kein vs Nicht.md",
     "Vocabulary/Wo ist ....md",
-    "01 - Excalidraw/Prints/Pasted image 20240819120759.png",
-    "01 - Excalidraw/Prints/Pasted image 20240820121317.png",
-    "01 - Excalidraw/Prints/Pasted image 20240820120930.png",
     "Declinations/Dativ.md",
     "Grammar/Preposition.md",
     "Vocabulary/Transport.md",
@@ -213,9 +204,6 @@
     "Verb/Möchten.md",
     "Verb/Imperativ.md",
     "Verb/Haben und Sein.md",
-    "Verb/das Präsens.md",
-    "Text/Email.md",
-    "Excalidraw",
     "Untitled.canvas",
     "01 - Excalidraw/Prints",
     "Untitled",

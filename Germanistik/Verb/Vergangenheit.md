@@ -92,9 +92,11 @@ Verbs in Partizip II:
 
 Machen: hat gemacht = ge- + mach + -t
 
-Lernen, arbeiten, reden 
+haben Lernen, haben arbeiten, haben reden 
 
-***** Verben mit den Endung "-ieren":  Studieren, fotografieren 
+***** Verben mit den Endung "-ieren": *****
+
+haben Studieren, haben fotografieren 
 
 ![[Pasted image 20240821101609.png]]
 
@@ -109,20 +111,20 @@ Finden: hat gefunden
 Kommen: ist gekommen
 
 
-| Verben    | Partizip II     |
-| --------- | --------------- |
-| Schreiben | hat geschrieben |
-| Denken    | hat danken      |
-| Finden    | hat gefunden    |
-| Kommen    | ist gekommen    |
-| essen     | hat gegessen    |
-| gehen     | hat gegangen    |
-| bringen   | hat gebracht    |
-| trinken   | hat getrunken   |
-| fahren    | ist gefahren    |
-| geben     | hat gegeben     |
-| helfen    | hat geholfen    |
-| nehmen    | hat genommen    |
+| Verben    | Partizip II     | translation |
+| --------- | --------------- | ----------- |
+| Schreiben | hat geschrieben |             |
+| Denken    | hat danken      |             |
+| Finden    | hat gefunden    |             |
+| Kommen    | ist gekommen    |             |
+| essen     | hat gegessen    |             |
+| gehen     | hat gegangen    |             |
+| bringen   | hat gebracht    |             |
+| trinken   | hat getrunken   |             |
+| fahren    | ist gefahren    |             |
+| geben     | hat gegeben     |             |
+| helfen    | hat geholfen    |             |
+| nehmen    | hat genommen    | take        |
 
 * Trennbare Verben
 
@@ -131,7 +133,7 @@ Kommen: ist gekommen
 
 | Verben     | Partizip II      | Translation |
 | ---------- | ---------------- | ----------- |
-| eingekauft | hat eingekauft   |             |
+| eingekauft | hat eingekauft   | purchase    |
 | aufstehen  | ist aufgestanden |             |
 | zumachen   | hat zugemacht    | close       |
 | mitkommen  | ist mitgekommen  |             |

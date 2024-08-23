@@ -492,5 +492,9 @@
 | reden                                        |             | to talk                                |
 | gesund                                       |             | healthy                                |
 | der Pfannkuchen, die Pfannkuchen             |             | pancake                                |
+| kehren/fegen                                 |             | to sweep                               |
+| saugen                                       |             | to vacuum                              |
+| regelmäßig                                   |             | regular                                |
+| mit\|bringen                                 |             | to bring                               |
 
 
