@@ -496,5 +496,12 @@
 | saugen                                       |             | to vacuum                              |
 | regelmäßig                                   |             | regular                                |
 | mit\|bringen                                 |             | to bring                               |
+| Angeln                                       |             | to fish                                |
+| treiben                                      |             | do sports                              |
+| spazieren gehen                              |             | to go for a walk                       |
+| anstrengend                                  |             | extreme                                |
+| entspannend                                  |             | relaxing                               |
+| langweilig                                   |             | boring                                 |
+| häufig                                       |             | frequently                             |
 
 
