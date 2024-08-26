@@ -503,5 +503,9 @@
 | entspannend                                  |             | relaxing                               |
 | langweilig                                   |             | boring                                 |
 | häufig                                       |             | frequently                             |
+| die Verwandten                               |             | relatives                              |
+| unterwegs                                    |             | on the go, on the way                  |
+| ehrold                                       |             | relexed                                |
+| klettern                                     |             | to climb                               |
 
 
