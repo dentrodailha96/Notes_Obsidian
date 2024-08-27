@@ -1,1 +1,0 @@
-* https://learning.sap.com/learning-journeys/implementing-sap-s-4-hana-cloud-public-edition/setting-up-the-implementation-project-in-sap-cloud-alm

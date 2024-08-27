@@ -20,3 +20,14 @@ and SAP NetWeaver is the power tool that makes certain functions possible.
 
 ![[Pasted image 20240826172307.png]]
 
++ Granularity simply refers to defining services so that they relate to the
+individual steps of a business process. If you define these steps in just
+the right granular way, they can be more easily and flexibly rearranged
+and modified. Think of granularity as a fashion statement: If you put on a
+jumpsuit with pants and a shirt all in one piece, you can’t change the top
+when you want to dress things up. If you wear a separate top and pants,
+you’ve got more granularity, and more fashion flexibility.
++ Pull versus push: ERP System is proactively pushing information to you so that you don't have to.
++ 
+
+ 

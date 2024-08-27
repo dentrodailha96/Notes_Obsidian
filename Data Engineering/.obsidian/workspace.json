@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/1.3 - Integrate List Report into SAP Fiori Launchpad.md",
+                "file": "SAP/2 - Certification Studies.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAP/1.3 - Integrate List Report into SAP Fiori Launchpad.md",
+                "file": "SAP/2 - Certification Studies.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAP/1.3 - Integrate List Report into SAP Fiori Launchpad.md",
+                "file": "SAP/2 - Certification Studies.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAP/1.3 - Integrate List Report into SAP Fiori Launchpad.md"
+                "file": "SAP/2 - Certification Studies.md"
               }
             }
           }
@@ -161,43 +161,43 @@
   },
   "active": "fe8b6c3b2939cb73",
   "lastOpenFiles": [
-    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
-    "SAP/1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment.md",
+    "Pasted image 20240827174603.png",
+    "Pasted image 20240827173427.png",
+    "Pasted image 20240827170506.png",
     "SAP/ERP.md",
-    "Pasted image 20240826172307.png",
-    "Pasted image 20240826161628.png",
-    "Pasted image 20240826154650.png",
-    "Git/Pull vs Fetch.md",
-    "SAP/ABAP Environment.md",
+    "SAP/2 - Certification Studies.md",
+    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
     "SAP/1 - Tutorials.md",
+    "SAP/What is a communication system.md",
+    "SAP/User Creation and Authorization in the SAP S4HANA Cloud Starter System.md",
+    "SAP/How to Deploy Content in the SAP S4HANA Cloud.md",
+    "SAP/How to create a Business User in S4 Hana Cloud.md",
+    "SAP/How to bring instance to S4.md",
+    "SAP/1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment.md",
+    "SAP/Add data in SAP S4HANA Cloud Starter System.md",
     "SAP/1.3 - Integrate List Report into SAP Fiori Launchpad.md",
     "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
     "SAP/1.1 - Create an ABAP Project in Eclipse.md",
-    "SAP/What is a communication system.md",
+    "SAP/API Deployment.md",
+    "SAP/ABAP Environment.md",
+    "01 - Excalidraw/Prints/Pasted image 20240826154650.png",
+    "01 - Excalidraw/Prints/Pasted image 20240827100336.png",
+    "01 - Excalidraw/Prints/Pasted image 20240826172307.png",
+    "01 - Excalidraw/Prints/Pasted image 20240826161628.png",
+    "Git/Pull vs Fetch.md",
     "01 - Excalidraw/1.1 - Service Definition - Fiori App.md",
     "01 - Excalidraw/basica-authentication.md",
     "SAP/Booster.md",
     "SAP/Tenants Types.md",
     "SAP/UIAD Object.md",
-    "SAP/User Creation and Authorization in the SAP S4HANA Cloud Starter System.md",
-    "SAP/Add data in SAP S4HANA Cloud Starter System.md",
     "Git/How to push code to Github using CMD.md",
     "Excalidraw/Drawing 2024-08-19 18.40.27.excalidraw.md",
     "Excalidraw",
     "SAP/SAP Fiori.md",
-    "SAP/Business Catalog.md",
-    "SAP/ABAP Development Tools.md",
     "01 - Excalidraw/Prints/Pasted image 20240816131835.png",
-    "SAP/IAM Application.md",
     "01 - Excalidraw/Prints/Pasted image 20240816125854.png",
     "01 - Excalidraw/Prints/Pasted image 20240816125751.png",
     "01 - Excalidraw/Prints/Pasted image 20240816130657.png",
-    "SAP/1.2 - Fiori Understanding.md",
-    "01 - Excalidraw/1.1 - Project Selection - Fiori.md",
-    "01 - Excalidraw/SAP Fiori - Basics.md",
-    "01 - Excalidraw/Prints/Pasted image 20240816124537.png",
-    "01 - Excalidraw/Prints/Pasted Image 20240816125436_323.png",
-    "01 - Excalidraw/Prints/Pasted image 20240816124804.png",
     "Git",
     "SQL/Untitled",
     "01 - Excalidraw/Prints",

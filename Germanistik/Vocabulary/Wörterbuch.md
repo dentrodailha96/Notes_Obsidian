@@ -507,5 +507,7 @@
 | unterwegs                                    |             | on the go, on the way                  |
 | ehrold                                       |             | relexed                                |
 | klettern                                     |             | to climb                               |
+| schneiden                                    |             | to cut something                       |
+| am Stück                                     |             | in one piece                           |
 
 
