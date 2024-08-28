@@ -21,6 +21,10 @@
 | Scheibenkäse                | sliced cheese |
 | das Mehl                    | flour         |
 | der Schinken                | ham           |
+| die Traube / die Trauben    | uvas          |
+| die Birne                   | pera          |
+| die Zwiebel                 | onion         |
+| der Knowblauch              | garlic        |
 
 | Ort                            | Translation  |
 | ------------------------------ | ------------ |
@@ -50,4 +54,3 @@
 ### Sentences
 + Darf es sonst noch etwas sein? = Can I get zou anything else? 
 + Was hätten sie gern? = What would you like to have? 
-+ 

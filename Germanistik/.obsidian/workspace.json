@@ -8,19 +8,25 @@
         "type": "tabs",
         "children": [
           {
-            "id": "fb0c68c4e1c809a7",
+            "id": "c0ac0eb8cfb0e41b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Supermarket.md",
+                "file": "Vocabulary/Rezept.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "38a90845490d87c1",
+        "type": "tabs",
+        "children": [
           {
-            "id": "c0ac0eb8cfb0e41b",
+            "id": "8f21bf81e02d895f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -31,8 +37,7 @@
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/Rezept.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/Rezept.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md"
+                "file": "Vocabulary/Rezept.md"
               }
             }
           }
@@ -162,8 +167,15 @@
   },
   "active": "c0ac0eb8cfb0e41b",
   "lastOpenFiles": [
-    "Vocabulary/Supermarket.md",
     "Vocabulary/Wörterbuch.md",
+    "Vocabulary/Supermarket.md",
+    "Vocabulary/Rezept.md",
+    "01 - Excalidraw/Prints/Pasted image 20240828161915.png",
+    "Text/Letter writing - Invitation.md",
+    "01 - Excalidraw/Prints/Pasted image 20240828162154.png",
+    "01 - Excalidraw/Prints/Pasted image 20240828161952.png",
+    "Vocabulary/Wetter.md",
+    "01 - Excalidraw/Prints/Pasted image 20240828133054.png",
     "Verb/Vergangenheit.md",
     "Vocabulary/Transport.md",
     "01 - Excalidraw/Prints/Pasted image 20240825104211.png",
@@ -178,15 +190,11 @@
     "Grammar/Adverbien.md",
     "Vocabulary/Haushaltsarbeit.md",
     "01 - Excalidraw/Prints/Pasted image 20240823085932.png",
-    "01 - Excalidraw/Prints/Pasted image 20240823082922.png",
-    "01 - Excalidraw/Prints/Pasted image 20240823082837.png",
     "Excalidraw/Drawing 2024-08-23 08.39.28.excalidraw.md",
     "Excalidraw",
     "Grammar/Welch-.md",
-    "01 - Excalidraw/Prints/Pasted image 20240821112653.png",
     "Grammar/Comparative Forms.md",
     "Vocabulary/Essen und Küchen.md",
-    "01 - Excalidraw/Prints/Pasted image 20240820123942.png",
     "Grammar/Kein vs Nicht.md",
     "Vocabulary/Wo ist ....md",
     "Declinations/Dativ.md",
@@ -197,9 +205,6 @@
     "Vocabulary/Directions.md",
     "Vocabulary/Die Wochentage.md",
     "Vocabulary/Die Farben.md",
-    "Vocabulary/Charaktereirgenschaften.md",
-    "Verb/Untrennbare Verbs.md",
-    "Verb/Trennbare Verben.md",
     "Untitled.canvas",
     "01 - Excalidraw/Prints",
     "Declinations",

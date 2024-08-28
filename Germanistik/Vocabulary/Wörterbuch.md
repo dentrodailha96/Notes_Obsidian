@@ -509,5 +509,12 @@
 | klettern                                     |             | to climb                               |
 | schneiden                                    |             | to cut something                       |
 | am Stück                                     |             | in one piece                           |
+| frisch                                       |             | fresh                                  |
+| der Bauer, die Bauern                        |             | farmer                                 |
+| der Wochenmarkt, die Wochenmäarkte           |             | feira de rua                           |
+| günstig                                      |             | inexpensive                            |
+| im Angebot sein                              |             | on special, on sale                    |
+| wünsche                                      |             | wishes                                 |
+| dazu                                         |             | besides this                           |
 
 
