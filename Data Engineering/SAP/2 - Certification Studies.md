@@ -21,6 +21,13 @@ Prequisites:
 2) Access a Classic Schema from SAP BAS: https://developers.sap.com/tutorials/hana-cloud-access-cross-container-schema.html
 
 3) Create a Calculation View with Differential Privacy: https://developers.sap.com/tutorials/hana-cloud-calculation-view-differential-privacy.html
+
+3.1) Create table: 
+	> " Create SAP HAN Database Artifact"
+	choose the folder and cloud version then the artifact of creation:
+	![[Pasted image 20240829153713.png]]
+
+
 ## Create SAP HANA Cloud Models and Consume Them in SAP Analytics Cloud 
 
 https://developers.sap.com/group.hana-cloud-models-analytics-cloud.html
