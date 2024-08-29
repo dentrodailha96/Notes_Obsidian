@@ -4,34 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "6ee9fdd83262193f",
+        "id": "013f554381a2bd81",
         "type": "tabs",
         "children": [
           {
-            "id": "c0ac0eb8cfb0e41b",
+            "id": "f8231b0b53fbd21d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Rezept.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "38a90845490d87c1",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "8f21bf81e02d895f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/Urlaub.md",
                 "mode": "source",
                 "source": false
               }
@@ -103,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Rezept.md",
+                "file": "Vocabulary/Urlaub.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Rezept.md",
+                "file": "Vocabulary/Urlaub.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Rezept.md"
+                "file": "Vocabulary/Urlaub.md"
               }
             }
           }
@@ -165,11 +147,14 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0ac0eb8cfb0e41b",
+  "active": "f8231b0b53fbd21d",
   "lastOpenFiles": [
     "Vocabulary/Wörterbuch.md",
-    "Vocabulary/Supermarket.md",
+    "Vocabulary/Urlaub.md",
+    "Vocabulary/Gefallen und Missfallen ausdruecken.md",
+    "Pronounciation/When is the vowel long and when short.md",
     "Vocabulary/Rezept.md",
+    "Vocabulary/Supermarket.md",
     "01 - Excalidraw/Prints/Pasted image 20240828161915.png",
     "Text/Letter writing - Invitation.md",
     "01 - Excalidraw/Prints/Pasted image 20240828162154.png",
@@ -179,7 +164,6 @@
     "Verb/Vergangenheit.md",
     "Vocabulary/Transport.md",
     "01 - Excalidraw/Prints/Pasted image 20240825104211.png",
-    "Pronounciation/When is the vowel long and when short.md",
     "Pronounciation",
     "Untitled.md",
     "01 - Excalidraw/Prints/Pasted image 20240825101702.png",
@@ -203,8 +187,6 @@
     "Vocabulary/Ordenungszahlen 1 bis 19.md",
     "Vocabulary/Monat.md",
     "Vocabulary/Directions.md",
-    "Vocabulary/Die Wochentage.md",
-    "Vocabulary/Die Farben.md",
     "Untitled.canvas",
     "01 - Excalidraw/Prints",
     "Declinations",

@@ -516,5 +516,8 @@
 | im Angebot sein                              |             | on special, on sale                    |
 | wünsche                                      |             | wishes                                 |
 | dazu                                         |             | besides this                           |
+| der Strand/ die Straende                     |             | beach                                  |
+| der Berg/ die Berge                          |             | mountain                               |
+| die Insel/ die Inseln                        |             | island                                 |
 
 
