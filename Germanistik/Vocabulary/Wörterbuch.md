@@ -519,5 +519,8 @@
 | der Strand/ die Straende                     |             | beach                                  |
 | der Berg/ die Berge                          |             | mountain                               |
 | die Insel/ die Inseln                        |             | island                                 |
+| das Blatt/die Bläatter                       |             | leaf                                   |
+| verlieren                                    |             | to lose something                      |
+| windig                                       |             | windy                                  |
 
 

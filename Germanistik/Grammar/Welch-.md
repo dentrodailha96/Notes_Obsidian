@@ -8,3 +8,4 @@ In the accusative masculine singular, the ending is "-en". For feminine and neut
 
 ![[Pasted image 20240821112653.png]]
 
+![[Pasted image 20240830163247.png]]

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud.md",
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud.md",
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud.md",
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud.md"
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md"
               }
             }
           }
@@ -157,11 +157,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d2103746650dc45",
+  "active": "b346f8c2f337f28e",
   "lastOpenFiles": [
     "01 - Excalidraw/Prints/Pasted image 20240829171611.png",
     "SAP/3 - Connect CF to SAP Fiori.md",
-    "SAP/4 - Grand access in S4 HANA Cloud.md",
+    "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
     "SAP/2 - Certification Studies.md",
     "01 - Excalidraw/Prints/Pasted image 20240827170506.png",
     "01 - Excalidraw/Prints/Pasted image 20240829164648.png",

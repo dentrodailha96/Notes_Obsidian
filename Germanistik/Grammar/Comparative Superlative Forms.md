@@ -1,3 +1,6 @@
+![[Pasted image 20240830164647.png]]
+
+
 Superlative:
 
 | Comparative Form |             | translation |
@@ -11,3 +14,14 @@ Superlative:
 | gut              | superlative | good        |
 | besser           | comparative | better      |
 | am besten        | superlative | best        |
+![[Pasted image 20240830164439.png]]
+
+schlimm = horrible
+gern = gladly
+spannender = more exciting 
+langweinlinger = more boring 
+bekanntensten = most famous
+
+![[Pasted image 20240830164542.png]]
+
+
