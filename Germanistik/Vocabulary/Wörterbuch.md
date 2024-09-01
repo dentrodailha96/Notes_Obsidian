@@ -522,5 +522,10 @@
 | das Blatt/die Bläatter                       |             | leaf                                   |
 | verlieren                                    |             | to lose something                      |
 | windig                                       |             | windy                                  |
+| der Ausflug, dieAusflüge                     |             | excursions                             |
+| die Hochzeit, die Hochzeiten                 |             | wedding                                |
+| gefeiert                                     |             | celebrated                             |
+| fliegen                                      |             | fly                                    |
+| nehmen                                       |             | take                                   |
 
 
