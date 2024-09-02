@@ -11,8 +11,12 @@
             "id": "b346f8c2f337f28e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "SAP/3 - Connect CF to SAP Fiori.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -91,6 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "SAP/3 - Connect CF to SAP Fiori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "SAP/3 - Connect CF to SAP Fiori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +134,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "SAP/3 - Connect CF to SAP Fiori.md"
+              }
             }
           }
         ]
@@ -152,6 +160,9 @@
   "active": "b346f8c2f337f28e",
   "lastOpenFiles": [
     "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+    "SAP/1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment.md",
+    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
+    "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
     "01 - Excalidraw/Prints/Pasted image 20240829171611.png",
     "SAP/3 - Connect CF to SAP Fiori.md",
     "SAP/2 - Certification Studies.md",
@@ -159,12 +170,9 @@
     "01 - Excalidraw/Prints/Pasted image 20240829164648.png",
     "01 - Excalidraw/Prints/Pasted image 20240829164242.png",
     "01 - Excalidraw/Prints/Pasted image 20240829163948.png",
-    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
     "SAP/1 - Tutorials.md",
     "SAP/1.1 - Create an ABAP Project in Eclipse.md",
-    "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
     "SAP/1.3 - Integrate List Report into SAP Fiori Launchpad.md",
-    "SAP/1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment.md",
     "01 - Excalidraw/Prints/Pasted image 20240829153713.png",
     "SAP/ERP.md",
     "01 - Excalidraw/Prints/Pasted image 20240827174603.png",
