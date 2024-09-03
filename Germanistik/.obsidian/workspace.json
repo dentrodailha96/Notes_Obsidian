@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/4 seasons.md",
+                "file": "Vocabulary/die Kleidung.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "3a17f7f64d3e4626",
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/4 seasons.md",
+                "file": "Vocabulary/die Kleidung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/4 seasons.md",
+                "file": "Vocabulary/die Kleidung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/4 seasons.md"
+                "file": "Vocabulary/die Kleidung.md"
               }
             }
           }
@@ -138,17 +139,26 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
   "active": "f8231b0b53fbd21d",
   "lastOpenFiles": [
+    "Pasted image 20240903205638.png",
+    "01 - Excalidraw/Prints/Pasted image 20240903203811.png",
+    "Vocabulary/die Kleidung.md",
+    "Vocabulary/Mit dem Taxi fahren.md",
+    "01 - Excalidraw/Prints/Pasted image 20240903203915.png",
+    "01 - Excalidraw/Prints/Pasted image 20240903203854.png",
+    "Verb/Vergangenheit.md",
+    "Vocabulary/Wörterbuch.md",
+    "Vocabulary/4 seasons.md",
     "Vocabulary/Wetter.md",
     "01 - Excalidraw/Prints/Pasted image 20240901222529.png",
     "01 - Excalidraw/Prints/Pasted image 20240902121545.png",
@@ -157,19 +167,13 @@
     "Vocabulary/Im Kaufhaus.md",
     "Pasted image 20240901222438.png",
     "01 - Excalidraw/Prints/Pasted image 20240902121445.png",
-    "Verb/Vergangenheit.md",
     "01 - Excalidraw/Prints/Pasted image 20240901224300.png",
     "Verb/das Präsens.md",
-    "Vocabulary/Wörterbuch.md",
     "Grammar/Demosntratiartikel.md",
-    "01 - Excalidraw/Prints/Pasted image 20240830164439.png",
     "Grammar/Artikel.md",
     "Grammar/Comparative Superlative Forms.md",
-    "01 - Excalidraw/Prints/Pasted image 20240830164647.png",
-    "01 - Excalidraw/Prints/Pasted image 20240830164542.png",
     "Grammar/Plural - Form.md",
     "Grammar/Preposition.md",
-    "Vocabulary/4 seasons.md",
     "Grammar/Welch-.md",
     "Declinations/Akkusativ.md",
     "Declinations/Nominativ.md",
@@ -183,8 +187,6 @@
     "Vocabulary/Transport.md",
     "Pronounciation",
     "Untitled.md",
-    "Vocabulary/Verabredungen.md",
-    "Grammar/Adverbien.md",
     "Excalidraw",
     "Untitled.canvas",
     "01 - Excalidraw/Prints",
