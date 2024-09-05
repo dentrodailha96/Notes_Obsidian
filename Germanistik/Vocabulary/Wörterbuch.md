@@ -527,5 +527,7 @@
 | gefeiert                                     |             | celebrated                             |
 | fliegen                                      |             | fly                                    |
 | nehmen                                       |             | take                                   |
+| bunt                                         |             | colorful                               |
+| Beide                                        |             | both                                   |
 
 

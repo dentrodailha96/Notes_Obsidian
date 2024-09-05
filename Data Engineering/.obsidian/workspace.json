@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/3 - Connect CF to SAP Fiori.md",
+                "file": "Git/Pull vs Fetch.md",
                 "mode": "source",
                 "source": false
               }
@@ -95,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAP/3 - Connect CF to SAP Fiori.md",
+                "file": "Git/Pull vs Fetch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAP/3 - Connect CF to SAP Fiori.md",
+                "file": "Git/Pull vs Fetch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAP/3 - Connect CF to SAP Fiori.md"
+                "file": "Git/Pull vs Fetch.md"
               }
             }
           }
@@ -159,22 +159,24 @@
   },
   "active": "b346f8c2f337f28e",
   "lastOpenFiles": [
+    "Git/How to push code to Github using CMD.md",
     "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
-    "SAP/1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment.md",
-    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
-    "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
-    "01 - Excalidraw/Prints/Pasted image 20240829171611.png",
     "SAP/3 - Connect CF to SAP Fiori.md",
     "SAP/2 - Certification Studies.md",
+    "SAP/1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment.md",
+    "SAP/1.1 - Create an ABAP Project in Eclipse.md",
+    "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
+    "SAP/1.3 - Integrate List Report into SAP Fiori Launchpad.md",
+    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
+    "SAP/ABAP Environment.md",
+    "SAP/ERP.md",
+    "01 - Excalidraw/Prints/Pasted image 20240829171611.png",
     "01 - Excalidraw/Prints/Pasted image 20240827170506.png",
     "01 - Excalidraw/Prints/Pasted image 20240829164648.png",
     "01 - Excalidraw/Prints/Pasted image 20240829164242.png",
     "01 - Excalidraw/Prints/Pasted image 20240829163948.png",
     "SAP/1 - Tutorials.md",
-    "SAP/1.1 - Create an ABAP Project in Eclipse.md",
-    "SAP/1.3 - Integrate List Report into SAP Fiori Launchpad.md",
     "01 - Excalidraw/Prints/Pasted image 20240829153713.png",
-    "SAP/ERP.md",
     "01 - Excalidraw/Prints/Pasted image 20240827174603.png",
     "01 - Excalidraw/Prints/Pasted image 20240827173427.png",
     "SAP/What is a communication system.md",
@@ -184,7 +186,6 @@
     "SAP/How to bring instance to S4.md",
     "SAP/Add data in SAP S4HANA Cloud Starter System.md",
     "SAP/API Deployment.md",
-    "SAP/ABAP Environment.md",
     "01 - Excalidraw/Prints/Pasted image 20240826154650.png",
     "01 - Excalidraw/Prints/Pasted image 20240827100336.png",
     "Git/Pull vs Fetch.md",
@@ -193,7 +194,6 @@
     "SAP/Booster.md",
     "SAP/Tenants Types.md",
     "SAP/UIAD Object.md",
-    "Git/How to push code to Github using CMD.md",
     "Excalidraw",
     "Git",
     "SQL/Untitled",

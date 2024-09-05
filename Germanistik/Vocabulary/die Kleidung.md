@@ -2,13 +2,13 @@ die Turnschuhe = sneakers
 der Mantel, die Mäntel = overall
 das Top, die Tops = top
 die Pullover = Pullover
-der Hut, die Huete = hat
-die Muetze, die Muetzen = beanie, knit cap
+der Hut, die Hüte = hat
+die Muetze, die Mützen = beanie, knit cap
 das Hemd, die Hemden = shirt
 der Schuh, die Schuhe = shoes
 die Sandale, die Sandalen = sandals 
 die Jacke, die Jacke = jacket 
-die Hose, die Hoesen = pants
+die Hose, die Hösen = pants
 #### adjectives for clothes 
 
 schick = fancy, dressy 
@@ -16,7 +16,7 @@ weit = wide
 lang = long
 dick = thick, heavy 
 duenn = thin
-haesslicher = ugly
+hässlicher = ugly
 kurze = short
 dunkel = dark
 hell = light 
