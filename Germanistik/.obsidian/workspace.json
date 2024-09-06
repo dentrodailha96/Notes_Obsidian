@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/die Kleidung.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/die Kleidung.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/die Kleidung.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md"
+                "file": "Vocabulary/die Kleidung.md"
               }
             }
           }
@@ -149,10 +149,16 @@
   },
   "active": "f8231b0b53fbd21d",
   "lastOpenFiles": [
+    "Vocabulary/Die Wochentage.md",
+    "Grammar/Zeitadverbien.md",
+    "01 - Excalidraw/Prints/Pasted image 20240906140110.png",
+    "01 - Excalidraw/Prints/Pasted image 20240906135922.png",
+    "01 - Excalidraw/Prints/Pasted image 20240906135529.png",
+    "01 - Excalidraw/Prints/Pasted image 20240906135349.png",
+    "Vocabulary/Wörterbuch.md",
     "Vocabulary/die Kleidung.md",
     "Declinations/Akkusativ.md",
     "Declinations/Nominativ.md",
-    "Vocabulary/Wörterbuch.md",
     "Vocabulary/Die Farben.md",
     "Vocabulary/Urlaub.md",
     "Vocabulary/Verabredungen.md",
@@ -170,11 +176,7 @@
     "Vocabulary/Wetter.md",
     "01 - Excalidraw/Prints/Pasted image 20240901222529.png",
     "01 - Excalidraw/Prints/Pasted image 20240902121545.png",
-    "01 - Excalidraw/Prints/Pasted image 20240901224400.png",
-    "01 - Excalidraw/Prints/Pasted image 20240901224233.png",
     "Vocabulary/Im Kaufhaus.md",
-    "Pasted image 20240901222438.png",
-    "01 - Excalidraw/Prints/Pasted image 20240902121445.png",
     "Verb/das Präsens.md",
     "Grammar/Demosntratiartikel.md",
     "Grammar/Artikel.md",
@@ -183,8 +185,6 @@
     "Grammar/Preposition.md",
     "Grammar/Welch-.md",
     "Declinations/Dativ.md",
-    "Vocabulary/Gefallen und Missfallen ausdruecken.md",
-    "Pronounciation/When is the vowel long and when short.md",
     "Pronounciation",
     "Excalidraw",
     "Untitled.canvas",
