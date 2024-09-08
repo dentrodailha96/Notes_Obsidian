@@ -529,5 +529,6 @@
 | nehmen                                       |             | take                                   |
 | bunt                                         |             | colorful                               |
 | Beide                                        |             | both                                   |
+| hübsch                                       |             | beautiful, pretty                      |
 
 

@@ -10,6 +10,9 @@ die Sandale, die Sandalen = sandals
 die Jacke, die Jacke = jacket 
 die Hose, die Hösen = pants
 der Ärmel, die Ärmel = sleeve
+die Handschule = gloves
+das Halstuch, die Halstücher = scarf
+der Hosenanzug, die Hosenanzüge = pantsuit
 #### adjectives for clothes 
 
 schick = fancy, dressy 
@@ -25,6 +28,10 @@ günstig = favourable
 billig = cheap
 teuer = expensive 
 eng = tight
+geblümtes = floral
+kariertes = squared 
+gepunktetes = dotted
+
 
 ![[Pasted image 20240903205638.png]]
 

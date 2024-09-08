@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/die Kleidung.md",
+                "file": "Declinations/Akkusativ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/die Kleidung.md",
+                "file": "Declinations/Akkusativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/die Kleidung.md",
+                "file": "Declinations/Akkusativ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/die Kleidung.md"
+                "file": "Declinations/Akkusativ.md"
               }
             }
           }
@@ -149,23 +149,24 @@
   },
   "active": "f8231b0b53fbd21d",
   "lastOpenFiles": [
+    "Vocabulary/die Kleidung.md",
+    "Declinations/Akkusativ.md",
+    "Declinations/Nominativ.md",
+    "Vocabulary/Wörterbuch.md",
+    "Grammar/Adjektivendungen.md",
+    "Vocabulary/Beim Arzt.md",
     "Vocabulary/Die Wochentage.md",
     "Grammar/Zeitadverbien.md",
     "01 - Excalidraw/Prints/Pasted image 20240906140110.png",
     "01 - Excalidraw/Prints/Pasted image 20240906135922.png",
     "01 - Excalidraw/Prints/Pasted image 20240906135529.png",
     "01 - Excalidraw/Prints/Pasted image 20240906135349.png",
-    "Vocabulary/Wörterbuch.md",
-    "Vocabulary/die Kleidung.md",
-    "Declinations/Akkusativ.md",
-    "Declinations/Nominativ.md",
     "Vocabulary/Die Farben.md",
     "Vocabulary/Urlaub.md",
     "Vocabulary/Verabredungen.md",
     "Vocabulary/Wo ist ....md",
     "Vocabulary/Word with ung.md",
     "Vocabulary/Charaktereirgenschaften.md",
-    "Vocabulary/Untitled.md",
     "01 - Excalidraw/Prints/Pasted image 20240903205638.png",
     "01 - Excalidraw/Prints/Pasted image 20240903203811.png",
     "Vocabulary/Mit dem Taxi fahren.md",
@@ -184,7 +185,6 @@
     "Grammar/Plural - Form.md",
     "Grammar/Preposition.md",
     "Grammar/Welch-.md",
-    "Declinations/Dativ.md",
     "Pronounciation",
     "Excalidraw",
     "Untitled.canvas",
