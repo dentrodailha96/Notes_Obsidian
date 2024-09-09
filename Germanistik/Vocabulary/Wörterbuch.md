@@ -530,5 +530,6 @@
 | bunt                                         |             | colorful                               |
 | Beide                                        |             | both                                   |
 | hübsch                                       |             | beautiful, pretty                      |
+| die Portemonnaie                             |             | wallet                                 |
 
 
