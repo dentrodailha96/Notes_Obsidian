@@ -13,19 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Pull vs Fetch.md",
+                "file": "SAP/SAP Datasphere.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "bef7a49d505e7979",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "01 - Excalidraw/Prints/Pasted image 20240827170506.png"
               }
             }
           }
@@ -95,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Git/Pull vs Fetch.md",
+                "file": "SAP/SAP Datasphere.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -112,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Git/Pull vs Fetch.md",
+                "file": "SAP/SAP Datasphere.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -135,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Git/Pull vs Fetch.md"
+                "file": "SAP/SAP Datasphere.md"
               }
             }
           }
@@ -157,8 +147,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b346f8c2f337f28e",
+  "active": "8d2103746650dc45",
   "lastOpenFiles": [
+    "01 - Excalidraw/Prints/Pasted image 20240909195123.png",
+    "01 - Excalidraw/Prints/Pasted image 20240827170506.png",
+    "SAP/SAP Datasphere.md",
+    "Git/Pull vs Fetch.md",
     "Git/How to push code to Github using CMD.md",
     "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
     "SAP/3 - Connect CF to SAP Fiori.md",
@@ -171,7 +165,6 @@
     "SAP/ABAP Environment.md",
     "SAP/ERP.md",
     "01 - Excalidraw/Prints/Pasted image 20240829171611.png",
-    "01 - Excalidraw/Prints/Pasted image 20240827170506.png",
     "01 - Excalidraw/Prints/Pasted image 20240829164648.png",
     "01 - Excalidraw/Prints/Pasted image 20240829164242.png",
     "01 - Excalidraw/Prints/Pasted image 20240829163948.png",
@@ -188,12 +181,10 @@
     "SAP/API Deployment.md",
     "01 - Excalidraw/Prints/Pasted image 20240826154650.png",
     "01 - Excalidraw/Prints/Pasted image 20240827100336.png",
-    "Git/Pull vs Fetch.md",
     "01 - Excalidraw/1.1 - Service Definition - Fiori App.md",
     "01 - Excalidraw/basica-authentication.md",
     "SAP/Booster.md",
     "SAP/Tenants Types.md",
-    "SAP/UIAD Object.md",
     "Excalidraw",
     "Git",
     "SQL/Untitled",
