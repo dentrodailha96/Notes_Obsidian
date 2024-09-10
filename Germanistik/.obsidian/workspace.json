@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Declinations/Akkusativ.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Declinations/Akkusativ.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Declinations/Akkusativ.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md"
+                "file": "Declinations/Akkusativ.md"
               }
             }
           }
@@ -149,6 +149,9 @@
   },
   "active": "f8231b0b53fbd21d",
   "lastOpenFiles": [
+    "Vocabulary/der Familienstand.md",
+    "Pasted image 20240910133725.png",
+    "Vocabulary/Wörterbuch.md",
     "Vocabulary/Word with ung.md",
     "01 - Excalidraw/Prints/Pasted image 20240909204915.png",
     "Vocabulary/Formal letter.md",
@@ -156,7 +159,6 @@
     "Declinations/Akkusativ.md",
     "Vocabulary/die Kleidung.md",
     "Declinations/Nominativ.md",
-    "Vocabulary/Wörterbuch.md",
     "Grammar/Adjektivendungen.md",
     "Vocabulary/Beim Arzt.md",
     "Vocabulary/Die Wochentage.md",
@@ -174,7 +176,6 @@
     "01 - Excalidraw/Prints/Pasted image 20240903203811.png",
     "Vocabulary/Mit dem Taxi fahren.md",
     "01 - Excalidraw/Prints/Pasted image 20240903203915.png",
-    "01 - Excalidraw/Prints/Pasted image 20240903203854.png",
     "Verb/Vergangenheit.md",
     "Vocabulary/4 seasons.md",
     "Vocabulary/Wetter.md",
@@ -183,7 +184,6 @@
     "Grammar/Demosntratiartikel.md",
     "Grammar/Artikel.md",
     "Grammar/Comparative Superlative Forms.md",
-    "Grammar/Plural - Form.md",
     "Pronounciation",
     "Excalidraw",
     "Untitled.canvas",

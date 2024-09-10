@@ -531,5 +531,6 @@
 | Beide                                        |             | both                                   |
 | hübsch                                       |             | beautiful, pretty                      |
 | die Portemonnaie                             |             | wallet                                 |
+| ausfüllen                                    |             | to fill up                             |
 
 
