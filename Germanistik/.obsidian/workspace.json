@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declinations/Akkusativ.md",
+                "file": "Vocabulary/Wörterbuch.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Declinations/Akkusativ.md",
+                "file": "Vocabulary/Wörterbuch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Declinations/Akkusativ.md",
+                "file": "Vocabulary/Wörterbuch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Declinations/Akkusativ.md"
+                "file": "Vocabulary/Wörterbuch.md"
               }
             }
           }
@@ -149,14 +149,19 @@
   },
   "active": "f8231b0b53fbd21d",
   "lastOpenFiles": [
-    "Vocabulary/der Familienstand.md",
-    "Pasted image 20240910133725.png",
+    "Verb/Modalverben.md",
     "Vocabulary/Wörterbuch.md",
+    "Text/Geschwester.md",
+    "Vocabulary/die Bank.md",
+    "Declinations/Akkusativ.md",
+    "Vocabulary/Die Post.md",
+    "01 - Excalidraw/Prints/Pasted image 20240912144842.png",
+    "Vocabulary/der Familienstand.md",
+    "01 - Excalidraw/Prints/Pasted image 20240910133725.png",
     "Vocabulary/Word with ung.md",
     "01 - Excalidraw/Prints/Pasted image 20240909204915.png",
     "Vocabulary/Formal letter.md",
     "01 - Excalidraw/Prints/Pasted image 20240909204841.png",
-    "Declinations/Akkusativ.md",
     "Vocabulary/die Kleidung.md",
     "Declinations/Nominativ.md",
     "Grammar/Adjektivendungen.md",
@@ -175,15 +180,11 @@
     "01 - Excalidraw/Prints/Pasted image 20240903205638.png",
     "01 - Excalidraw/Prints/Pasted image 20240903203811.png",
     "Vocabulary/Mit dem Taxi fahren.md",
-    "01 - Excalidraw/Prints/Pasted image 20240903203915.png",
     "Verb/Vergangenheit.md",
     "Vocabulary/4 seasons.md",
     "Vocabulary/Wetter.md",
     "Vocabulary/Im Kaufhaus.md",
     "Verb/das Präsens.md",
-    "Grammar/Demosntratiartikel.md",
-    "Grammar/Artikel.md",
-    "Grammar/Comparative Superlative Forms.md",
     "Pronounciation",
     "Excalidraw",
     "Untitled.canvas",

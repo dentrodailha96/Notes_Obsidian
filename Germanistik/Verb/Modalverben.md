@@ -56,3 +56,26 @@ ich kann sehr gut Deutsch.
 | wir       | möchten  |
 | ihr       | möchtet  |
 | sie/Sie   | möchten  |
+#### Neue ModelVerben
+
++ Wollen = would like 
+
+|           | wollen |
+| --------- | ------ |
+| ich       | will   |
+| du        | willst |
+| er/es/sie | will   |
+| wir       | wollen |
+| ihr       | wollt  |
+| sie/Sie   | wollen |
+
++ Sollen = should 
+
+|           | Sollen |
+| --------- | ------ |
+| ich       | soll   |
+| du        | sollts |
+| er/es/sie | soll   |
+| wir       | sollen |
+| ihr       | sollt  |
+| sie/Sie   | sollen |
