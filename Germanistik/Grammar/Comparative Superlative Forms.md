@@ -24,4 +24,6 @@ bekanntensten = most famous
 
 ![[Pasted image 20240830164542.png]]
 
+weniger = less than 
 
+![[Pasted image 20240924100504.png]]

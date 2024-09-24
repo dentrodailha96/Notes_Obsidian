@@ -509,30 +509,21 @@
 | weinen                                       | verb        | to cry                                 |
 | werden                                       |             | to become                              |
 | werden                                       |             | become                                 |
-| werden                                       |             | to become                              |
-| werden                                       |             | become                                 |
-| wichtig                                      |             | important                              |
 | wichtig                                      |             | important                              |
 | wieder                                       |             | again                                  |
 | wieder                                       |             | again                                  |
-| wiederholen                                  | verb        | to repeat                              |
 | wiederholen                                  | verb        | to repeat                              |
 | windig                                       |             | windy                                  |
 | wissen                                       |             | to know                                |
-| wissen                                       |             | to know                                |
 | wünsche                                      |             | wishes                                 |
 | wünted                                       |             | angry                                  |
-| wünted                                       |             | angry                                  |
-| zuerst                                       |             | first                                  |
 | zuerst                                       |             | first                                  |
 | Zukunft                                      |             | Future                                 |
 | zuletzt                                      |             | lastly, finally                        |
-| zuletzt                                      |             | lastly, finally                        |
-| züruck                                       | verb        | return                                 |
 | züruck                                       | verb        | return                                 |
 | Zurückgekommen                               | Verb        | comeback                               |
-| Zurückgekommen                               | Verb        | comeback                               |
 | zwischen                                     |             | between                                |
-| zwischen                                     |             | between                                |
+| manche                                       |             | some                                   |
+
 
 

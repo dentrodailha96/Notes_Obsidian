@@ -13,6 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Grammar/Comparative Superlative Forms.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "51301a6af6ebe7cc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3972823420efd03d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Vocabulary/Wörterbuch.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Grammar/Comparative Superlative Forms.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Grammar/Comparative Superlative Forms.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md"
+                "file": "Grammar/Comparative Superlative Forms.md"
               }
             }
           }
@@ -147,10 +165,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8231b0b53fbd21d",
+  "active": "1e37fa8145b2d56c",
   "lastOpenFiles": [
-    "Verb/Modalverben.md",
+    "01 - Excalidraw/Prints/Pasted image 20240924100504.png",
+    "Vocabulary/die Sportart und der Körper.md",
+    "Grammar/Comparative Superlative Forms.md",
+    "01 - Excalidraw/Prints/Pasted image 20240924093733.png",
     "Vocabulary/Wörterbuch.md",
+    "Vocabulary/Wohnungssuche.md",
+    "01 - Excalidraw/Prints/Pasted image 20240924093800.png",
+    "Verb/Modalverben.md",
     "Text/Geschwester.md",
     "Vocabulary/die Bank.md",
     "Declinations/Akkusativ.md",
@@ -177,14 +201,8 @@
     "Vocabulary/Verabredungen.md",
     "Vocabulary/Wo ist ....md",
     "Vocabulary/Charaktereirgenschaften.md",
-    "01 - Excalidraw/Prints/Pasted image 20240903205638.png",
-    "01 - Excalidraw/Prints/Pasted image 20240903203811.png",
     "Vocabulary/Mit dem Taxi fahren.md",
     "Verb/Vergangenheit.md",
-    "Vocabulary/4 seasons.md",
-    "Vocabulary/Wetter.md",
-    "Vocabulary/Im Kaufhaus.md",
-    "Verb/das Präsens.md",
     "Pronounciation",
     "Excalidraw",
     "Untitled.canvas",
