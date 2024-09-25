@@ -34,3 +34,11 @@ Besonderheiten bei der Deklination (special cases)
 | Feminin   | der netten Frau                            | einer netten Frau  | meiner netten Frau   | keiner netten Frau      | netter Frau   |
 | Neutral   | dem kleinen Kind                           | einem kleinen Kind | meinem kleinen Kind  | keinem kleinen Kind     | kleinem Kind  |
 | Plural    | den süßen Kindern                          | -                  | meinen süßen Kindern | keinen frenchen Kindern | süßen Kindern |
+
+## Adjektiv
+
++ sportlich = fit
++ entspannend = releaxing
++ anstrengend = stressing 
++ gewonnen = win
++ verloren = lost

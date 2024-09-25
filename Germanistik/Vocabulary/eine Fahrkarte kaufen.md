@@ -7,7 +7,8 @@
 + der Schalter = couter 
 + die Verspätung = delay 
 + der Fahrplan / die Fahrpläne = schedule 
-
++ Die Mannschaft = team 
 ## Verben 
 Muss man umsteigen? = Must we change (trains)?
 + umsteigen / ist umgestiegen = to change trains/buses
+

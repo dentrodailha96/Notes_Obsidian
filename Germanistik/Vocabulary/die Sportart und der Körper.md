@@ -25,4 +25,4 @@
 ## Verben 
 + erzählt (hat erzählt) = tell a story 
 + verletzen (hat verletzt) = to hurt 
-
++ ein Tor schießen = to shoot a goal
