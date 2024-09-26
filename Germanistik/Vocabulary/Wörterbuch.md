@@ -524,6 +524,19 @@
 | Zurückgekommen                               | Verb        | comeback                               |
 | zwischen                                     |             | between                                |
 | manche                                       |             | some                                   |
+| weiter                                       | Adverb      | more, continue                         |
+| ausruhen                                     | Verb        | to rest                                |
+| springen                                     | Verb        | to jump                                |
+| Rauch nicht                                  |             | Don't smoke                            |
+| tun                                          | Verb        | to do something                        |
+| Alltag                                       |             | everyday life                          |
+| fühlen                                       | Verb        | to feel                                |
+| die Bewegung, die Bewegungen                 |             | moviment                               |
+| die Ernährung                                |             | nutrition                              |
+| dagegen                                      |             | against it                             |
+| genug                                        |             | enough                                 |
+| aus\|ruhen                                   | Verb        | to relax                               |
+| mindestens                                   |             | at least, minimum                      |
 
 
 

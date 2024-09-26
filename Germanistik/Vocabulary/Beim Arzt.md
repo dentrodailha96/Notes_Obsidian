@@ -9,6 +9,7 @@ Volkaben:
 + Husten = cough 
 + die Grippe = flu
 + die Arbeitsunfähigkeitsbescheinigung = certificate of incapacity for work
++ die Schmerz, die Schmerzen = pain
 
 Verben 
 + den Patienten untersuchen = to examine the patient 

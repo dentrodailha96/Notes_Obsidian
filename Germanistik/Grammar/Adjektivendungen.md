@@ -42,3 +42,9 @@ Besonderheiten bei der Deklination (special cases)
 + anstrengend = stressing 
 + gewonnen = win
 + verloren = lost
++ hoch = high 
++ höher = higher 
+
+
+## Intensity Adverb 
++ weiter = more, continue

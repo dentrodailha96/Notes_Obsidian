@@ -4,6 +4,7 @@
 
 - der Schläger, die Schläger = bat, club, racket
 - die Verpflegung, die Verpflegungen = food, board, meals, snacks
+- das Krafttraining / die Krafttrainings = weight training, strength training 
 - der Rücken = back
 - der Arm = arms
 - der Kopf = head

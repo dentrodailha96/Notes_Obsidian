@@ -27,3 +27,14 @@ bekanntensten = most famous
 weniger = less than 
 
 ![[Pasted image 20240924100504.png]]
+
+### Komparative und Superlative 
+
+
+| Normal | Komparative | Superlative |
+| ------ | ----------- | ----------- |
+| gut    | besser      | am besser   |
+| hoch   | höher       | am höchsten |
+| langer | länger      | am längsten |
+| groß   | größer      | am größten  |
+| liebe  | lieber      | am liebsten |
