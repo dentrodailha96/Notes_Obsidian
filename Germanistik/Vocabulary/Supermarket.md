@@ -25,6 +25,8 @@
 | die Birne                   | pera          |
 | die Zwiebel                 | onion         |
 | der Knowblauch              | garlic        |
+| der Senf                    | mustard       |
+| die Süßigkeiten             | sweets        |
 
 | Ort                            | Translation  |
 | ------------------------------ | ------------ |

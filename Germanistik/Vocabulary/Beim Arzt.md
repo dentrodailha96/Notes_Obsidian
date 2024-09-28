@@ -6,10 +6,12 @@ Volkaben:
 + die Tropfen = drops 
 + die Salbe / die Salben = ointment 
 + das Rezept / die Rezepte = prescription 
-+ Husten = cough 
++ Der Husten / die Husten = cough 
 + die Grippe = flu
 + die Arbeitsunfähigkeitsbescheinigung = certificate of incapacity for work
 + die Schmerz, die Schmerzen = pain
++ die Schnupfen, die Schnupfen = a cold (runny nose)
++ die Erkältung, die Erkältungen = cold
 
 Verben 
 + den Patienten untersuchen = to examine the patient 

@@ -13,25 +13,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/die Sportart und der Körper.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c547dc1f42321371",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Beim Arzt.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "51301a6af6ebe7cc",
+        "id": "c0e15b57f5810554",
         "type": "tabs",
         "children": [
           {
-            "id": "3972823420efd03d",
+            "id": "9346c063370a3af2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/die Sportart und der Körper.md",
+                "file": "Vocabulary/Wörterbuch.md",
                 "mode": "source",
                 "source": false
               }
@@ -66,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:excalidraw",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -103,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/Beim Arzt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/Beim Arzt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md"
+                "file": "Vocabulary/Beim Arzt.md"
               }
             }
           }
@@ -165,14 +178,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8231b0b53fbd21d",
+  "active": "c547dc1f42321371",
   "lastOpenFiles": [
-    "Verb/Imperativ.md",
-    "Verb/Vergangenheit.md",
-    "Verb/das Präsens.md",
+    "Verb/Modalverben.md",
+    "Vocabulary/Beim Arzt.md",
     "Vocabulary/Wörterbuch.md",
     "Vocabulary/die Sportart und der Körper.md",
-    "Vocabulary/Beim Arzt.md",
+    "01 - Excalidraw/Prints/Pasted image 20240928215012.png",
+    "Verb/Imperativ.md",
+    "01 - Excalidraw/Prints/Pasted image 20240928215133.png",
+    "01 - Excalidraw/Prints/Pasted image 20240928215108.png",
+    "Vocabulary/Supermarket.md",
+    "Verb/Vergangenheit.md",
+    "Verb/das Präsens.md",
     "Grammar/Comparative Superlative Forms.md",
     "Grammar/Adjektivendungen.md",
     "Grammar/Adverbien.md",
@@ -181,7 +199,6 @@
     "01 - Excalidraw/Prints/Pasted image 20240924093733.png",
     "Vocabulary/Wohnungssuche.md",
     "01 - Excalidraw/Prints/Pasted image 20240924093800.png",
-    "Verb/Modalverben.md",
     "Text/Geschwester.md",
     "Vocabulary/die Bank.md",
     "Declinations/Akkusativ.md",
@@ -197,12 +214,7 @@
     "Declinations/Nominativ.md",
     "Vocabulary/Die Wochentage.md",
     "Grammar/Zeitadverbien.md",
-    "01 - Excalidraw/Prints/Pasted image 20240906140110.png",
-    "01 - Excalidraw/Prints/Pasted image 20240906135922.png",
-    "01 - Excalidraw/Prints/Pasted image 20240906135529.png",
     "Vocabulary/Die Farben.md",
-    "Vocabulary/Urlaub.md",
-    "Vocabulary/Verabredungen.md",
     "Pronounciation",
     "Excalidraw",
     "Untitled.canvas",

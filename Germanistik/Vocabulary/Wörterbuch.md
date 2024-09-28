@@ -2,8 +2,9 @@
 | Word                                         | Type        | Meaning                                |
 | -------------------------------------------- | ----------- | -------------------------------------- |
 | ab\|heben                                    | Verb        | to withdraw                            |
-| ab\|sagen                                    |             | to cancel something                    |
+| ab\|sagen$                                   |             | to cancel something                    |
 | allein                                       |             | alone                                  |
+| Alltag                                       |             | everyday life                          |
 | als                                          |             | than                                   |
 | am Stück                                     |             | in one piece                           |
 | anderen                                      |             | others                                 |
@@ -21,8 +22,10 @@
 | Aufforderung                                 |             | Order                                  |
 | aus\|drucken                                 |             | inpress                                |
 | aus\|gehen                                   |             | to go out                              |
+| aus\|ruhen                                   | Verb        | to relax                               |
 | ausfüllen                                    |             | to fill up                             |
 | ausgibten                                    | verb        | to spend                               |
+| aus\|ruhen                                   | Verb        | to rest                                |
 | Automarken                                   |             | car brands                             |
 | bald                                         |             | soon                                   |
 | basteln                                      | Verb        | DIY                                    |
@@ -45,6 +48,7 @@
 | buchen                                       |             | to book something                      |
 | bunt                                         |             | colorful                               |
 | Dafür                                        |             | for that                               |
+| dagegen                                      |             | against it                             |
 | Damals                                       |             | back then                              |
 | danach                                       |             | after that                             |
 | daneben                                      |             | next to it                             |
@@ -176,12 +180,14 @@
 | die Bescheingung                             |             | certificate                            |
 | die Bestätigung / die Bestätigungen          |             | confirmation                           |
 | die Bestätigung / die Bestätigungen          |             | confirmation                           |
+| die Bewegung, die Bewegungen                 |             | moviment                               |
 | die Eigenschaften                            | noun        | Traits                                 |
 | die Eigenschaften                            | noun        | Traits                                 |
 | die Einzahlung / die Einzahlungen            |             | deposit                                |
 | die Einzahlung / die Einzahlungen            |             | deposit                                |
 | die Erde                                     |             | earth                                  |
 | die Erde                                     |             | earth                                  |
+| die Ernährung                                |             | nutrition                              |
 | Die Farben                                   |             | Colour                                 |
 | Die Farben                                   |             | Colour                                 |
 | die Freundschft                              |             | friendship                             |
@@ -292,6 +298,7 @@
 | Froh                                         |             | Happy                                  |
 | früh                                         |             | early                                  |
 | früh                                         |             | early                                  |
+| fühlen                                       | Verb        | to feel                                |
 | ganz                                         |             | complete, entire, super                |
 | ganz                                         |             | complete, entire, super                |
 | geben                                        |             | to give                                |
@@ -305,6 +312,7 @@
 | Gegenwart                                    |             | Present                                |
 | geizig                                       |             | like to save                           |
 | geizig                                       |             | like to save                           |
+| genug                                        |             | enough                                 |
 | germütlich                                   |             | cozy                                   |
 | germütlich                                   |             | cozy                                   |
 | geschlossen                                  |             | close                                  |
@@ -359,13 +367,14 @@
 | liegen                                       |             | to be located                          |
 | liegen                                       |             | to be located                          |
 | liegen                                       |             | to lie, to be in a horizontal position |
-| los\|gehen                                   |             | to set up                              |
+| los\|gehen$                                  |             | to set up                              |
 | machen                                       |             | to do                                  |
 | machen                                       |             | to do                                  |
 | malen                                        | Verb        | to paint                               |
 | malen                                        | Verb        | to paint                               |
 | man                                          |             | people                                 |
 | man                                          |             | people                                 |
+| manche                                       |             | some                                   |
 | Mehrzahl                                     |             | Plural                                 |
 | Mehrzahl                                     |             | Plural                                 |
 | meist                                        |             | most of the time                       |
@@ -374,7 +383,9 @@
 | meistens                                     |             | most of the time                       |
 | Mengenangaben                                |             | quantity                               |
 | Mengenangaben                                |             | quantity                               |
-| mit\|bringen                                 |             | to bring                               |
+| mindestens                                   |             | at least, minimum                      |
+| mit\|bringen$                                |             | to bring                               |
+| Mitgebracht                                  |             | brought along                          |
 | möglich                                      |             | possible                               |
 | möglich                                      |             | possible                               |
 | Möglichkeit                                  |             | possibility                            |
@@ -401,6 +412,7 @@
 | pass auf                                     |             | watch out                              |
 | pass auf                                     |             | watch out                              |
 | Rat                                          |             | advice                                 |
+| Rauch nicht                                  |             | Don't smoke                            |
 | rauchen                                      |             | to smoke                               |
 | rauchen                                      |             | to smoke                               |
 | Räume                                        |             | Rooms                                  |
@@ -431,8 +443,6 @@
 | sich freuen                                  |             | to be pleased                          |
 | sicher                                       | Adjective   | secure                                 |
 | sicher                                       |             | certainly                              |
-| sicher                                       | Adjective   | secure                                 |
-| sicher                                       |             | certainly                              |
 | sollen                                       |             | should, to be supposed to do           |
 | spät                                         |             | late                                   |
 | spät                                         |             | late                                   |
@@ -442,9 +452,8 @@
 | Spatzieren                                   | verb        | take a walk /skroll                    |
 | spazieren gehen                              |             | to go for a walk                       |
 | spießig                                      |             | bourgeois (old, traditional)           |
-| spießig                                      |             | bourgeois (old, traditional)           |
 | sprechen                                     | Verb        | to speak                               |
-| sprechen                                     | Verb        | to speak                               |
+| springen                                     | Verb        | to jump                                |
 | stecken                                      |             | to stick inside                        |
 | stecken                                      |             | to stick inside                        |
 | tailen                                       |             | to share                               |
@@ -458,6 +467,7 @@
 | treiben                                      |             | do sports                              |
 | trennbar                                     |             | separable                              |
 | trennbar                                     |             | separable                              |
+| tun                                          | Verb        | to do something                        |
 | überprüfen                                   |             | to check something                     |
 | überprüfen                                   |             | to check something                     |
 | überqueren                                   |             | cross over                             |
@@ -469,7 +479,7 @@
 | uebermorgen                                  |             | the day after tomorrow                 |
 | um                                           | preposition | around, round                          |
 | um                                           | preposition | around, round                          |
-| um\|steigen                                  |             | to change                              |
+| um\|steigen$                                 |             | to change                              |
 | umziehen                                     |             | move                                   |
 | umziehen                                     |             | move                                   |
 | unabhängig                                   |             | independent                            |
@@ -507,6 +517,7 @@
 | waschen                                      |             | to wash                                |
 | weinen                                       | verb        | to cry                                 |
 | weinen                                       | verb        | to cry                                 |
+| weiter                                       | Adverb      | more, continue                         |
 | werden                                       |             | to become                              |
 | werden                                       |             | become                                 |
 | wichtig                                      |             | important                              |
@@ -523,20 +534,15 @@
 | züruck                                       | verb        | return                                 |
 | Zurückgekommen                               | Verb        | comeback                               |
 | zwischen                                     |             | between                                |
-| manche                                       |             | some                                   |
-| weiter                                       | Adverb      | more, continue                         |
-| ausruhen                                     | Verb        | to rest                                |
-| springen                                     | Verb        | to jump                                |
-| Rauch nicht                                  |             | Don't smoke                            |
-| tun                                          | Verb        | to do something                        |
-| Alltag                                       |             | everyday life                          |
-| fühlen                                       | Verb        | to feel                                |
-| die Bewegung, die Bewegungen                 |             | moviment                               |
-| die Ernährung                                |             | nutrition                              |
-| dagegen                                      |             | against it                             |
-| genug                                        |             | enough                                 |
-| aus\|ruhen                                   | Verb        | to relax                               |
-| mindestens                                   |             | at least, minimum                      |
+| ab\|nehmen                                   |             | to lose weight                         |
+| Treffen                                      |             | to meet                                |
+| die Vorsicht                                 |             | caution, be careful                    |
+| kennenlernen                                 |             | to meet each other (dating)            |
+| stürzen                                      |             | to fall                                |
+| geschwollen                                  |             | swollen (inchado)                      |
+| bluten                                       |             | to bleed                               |
+| abwechselnd                                  |             | alternate                              |
+| die Laune, die Launen                        |             | mood                                   |
 
 
 

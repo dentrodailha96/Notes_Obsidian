@@ -69,7 +69,22 @@ ich kann sehr gut Deutsch.
 | ihr       | wollt  |
 | sie/Sie   | wollen |
 
++ muss = must 
+
+The verb _müssen_ expresses an objective necessity and sounds more urgent: If one does not do what is necessary, there will be serious consequences.
+
+|           | Müssen |
+| --------- | ------ |
+| ich       | muss   |
+| du        | musst  |
+| er/es/sie | muss   |
+| wir       | müssen |
+| ihr       | müsst  |
+| sie/Sie   | müssen |
+
 + Sollen = should 
+
+The verb _sollen_ is generally used to report a request or an order given by someone else. What the person at whom the order is directed thinks of it is not relevant in the sentence.
 
 |           | Sollen |
 | --------- | ------ |

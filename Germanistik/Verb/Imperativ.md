@@ -25,4 +25,12 @@
 ### Besondere Imperativformen 
 
 ![[Pasted image 20240812154224.png]]![[Pasted image 20240812154244.png]]
-![[Pasted image 20240812154307.png]]
+
+
+## Nicos Weg
+
+![[Pasted image 20240928215012.png]]
+
+![[Pasted image 20240928215108.png]]
+
+![[Pasted image 20240928215133.png]]
