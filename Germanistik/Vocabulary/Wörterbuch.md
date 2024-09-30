@@ -549,7 +549,8 @@
 | Bis gleich!                                  | Expression  | See you in a little while              |
 | vorbei\|kommen                               | Verb        | to come by                             |
 | gar nicht                                    | Expression  | not at all                             |
-|                                              |             |                                        |
+| Gern geschehen                               | Expression  | My preasure! You're welcome!           |
+| Plötzlich                                    | Adverb      | Suddenly                               |
 
 
 

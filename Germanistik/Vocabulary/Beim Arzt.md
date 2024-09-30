@@ -17,6 +17,8 @@
 + die Versichertenkarte, die Versicherkarten = insurance card 
 + die Behandlung, die Behandlungen = treatment, procedure
 + der Zahnartz, die Zahnärtze = dentist 
++ der Unfall = accident 
++ die Gehirnerschütterung, die Gehirnerschütterungen = concussion
 
 ## Verben 
 
@@ -24,4 +26,5 @@
 + den Blutdruk messen = to measure the blood pressure
 + medikamente verschreiben = prescribe medication 
 + zeigen = to show
-+ 
++ tun weh / wehgetan = hurted 
++ untersuchen =examinate
