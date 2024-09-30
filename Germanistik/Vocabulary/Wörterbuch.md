@@ -543,6 +543,13 @@
 | bluten                                       |             | to bleed                               |
 | abwechselnd                                  |             | alternate                              |
 | die Laune, die Launen                        |             | mood                                   |
+| Egal                                         | expression  | no matter                              |
+| an\|schauen                                  | Verb        | to look at something                   |
+| röntgen                                      | Verb        | Xray something                         |
+| Bis gleich!                                  | Expression  | See you in a little while              |
+| vorbei\|kommen                               | Verb        | to come by                             |
+| gar nicht                                    | Expression  | not at all                             |
+|                                              |             |                                        |
 
 
 

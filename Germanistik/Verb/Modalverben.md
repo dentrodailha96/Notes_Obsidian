@@ -94,3 +94,13 @@ The verb _sollen_ is generally used to report a request or an order given by s
 | wir       | sollen |
 | ihr       | sollt  |
 | sie/Sie   | sollen |
++ dürfen = to be allowed to
+
+|           | Dürfen |
+| --------- | ------ |
+| ich       | darf   |
+| du        | darfst |
+| er/es/sie | darf   |
+| wir       | dürfen |
+| ihr       | dürft  |
+| sie/Sie   | dürfen |

@@ -1,4 +1,5 @@
-Volkaben:
+## Volkaben:
+
 + der Patient / die Patienten = patient
 + die Arztpraxis = doctor's office 
 + die Tablette / die Tabletten = tablet 
@@ -12,8 +13,15 @@ Volkaben:
 + die Schmerz, die Schmerzen = pain
 + die Schnupfen, die Schnupfen = a cold (runny nose)
 + die Erkältung, die Erkältungen = cold
++ die Krankenversicherung, die Krankenversicherungen = health insurance
++ die Versichertenkarte, die Versicherkarten = insurance card 
++ die Behandlung, die Behandlungen = treatment, procedure
++ der Zahnartz, die Zahnärtze = dentist 
 
-Verben 
+## Verben 
+
 + den Patienten untersuchen = to examine the patient 
 + den Blutdruk messen = to measure the blood pressure
 + medikamente verschreiben = prescribe medication 
++ zeigen = to show
++ 
