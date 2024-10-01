@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Databricks/Apache Spark.md",
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Databricks/Apache Spark.md",
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Databricks/Apache Spark.md",
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Databricks/Apache Spark.md"
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md"
               }
             }
           }
@@ -149,12 +149,15 @@
   },
   "active": "db47da9a0f9f48dc",
   "lastOpenFiles": [
-    "Pasted image 20240930124709.png",
+    "Pasted image 20241001110238.png",
+    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
+    "SAP/1.1 - Create an ABAP Project in Eclipse.md",
+    "Databricks/Apache Spark.md",
+    "01 - Excalidraw/Prints/Pasted image 20240930124709.png",
     "01 - Excalidraw/Prints/Pasted image 20240930122801.png",
     "01 - Excalidraw/Prints/Pasted image 20240930122105.png",
     "01 - Excalidraw/Prints/Pasted image 20240930115602.png",
     "01 - Excalidraw/Prints/Pasted image 20240930115458.png",
-    "Databricks/Apache Spark.md",
     "Databricks/101 - Databricks Basics.md",
     "Databricks/Delta lake.md",
     "SAP/SAP Fiori.md",
@@ -162,7 +165,6 @@
     "Databricks/Data lakehouse.md",
     "Databricks/Cluster.md",
     "Databricks/Untitled.md",
-    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
     "SAP/ABAP Environment.md",
     "01 - Excalidraw/Prints/Pasted image 20240729101839.png",
     "SAP/SAP S4HANA Cloud.md",
@@ -181,10 +183,8 @@
     "01 - Excalidraw/Prints/Pasted image 20240827170506.png",
     "Git/How to push code to Github using CMD.md",
     "SAP/3 - Connect CF to SAP Fiori.md",
-    "SAP/2 - Certification Studies.md",
     "01 - Excalidraw/Prints/Pasted image 20240829171611.png",
     "01 - Excalidraw/Prints/Pasted image 20240829164648.png",
-    "01 - Excalidraw/Prints/Pasted image 20240829164242.png",
     "Excalidraw",
     "Git",
     "SQL/Untitled",

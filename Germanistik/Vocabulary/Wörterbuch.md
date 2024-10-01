@@ -551,6 +551,7 @@
 | gar nicht                                    | Expression  | not at all                             |
 | Gern geschehen                               | Expression  | My preasure! You're welcome!           |
 | Plötzlich                                    | Adverb      | Suddenly                               |
+| auf\|wacht                                   | Verb        | Wake up                                |
 
 
 
