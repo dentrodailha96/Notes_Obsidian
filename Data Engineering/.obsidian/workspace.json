@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "7bf334a66f0f7b15",
+        "id": "f60e2c3608e3b8f9",
         "type": "tabs",
         "children": [
           {
-            "id": "db47da9a0f9f48dc",
+            "id": "d75aac527b150616",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+                "file": "Data Engineering/Concepts/DevOps.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 422.5
+    "width": 309.5
   },
   "right": {
     "id": "e9b0657c01a7d431",
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+                "file": "Data Engineering/Concepts/DevOps.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+                "file": "Data Engineering/Concepts/DevOps.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md"
+                "file": "Data Engineering/Concepts/DevOps.md"
               }
             }
           }
@@ -147,9 +147,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "db47da9a0f9f48dc",
+  "active": "d75aac527b150616",
   "lastOpenFiles": [
-    "Pasted image 20241001110238.png",
+    "Data Engineering/Projects/How to Build a Data Engineering project.md",
+    "Data Engineering/Concepts/DevOps.md",
+    "Data Engineering/Concepts/Data processors.md",
+    "Data Engineering/Concepts/Scheduler.md",
+    "Data Engineering/Concepts/Orchestrator.md",
+    "Data Engineering/Concepts/Data Model.md",
+    "Data Engineering/Concepts/The multi-hop architecture.md",
+    "Data Engineering/Concepts/Data Mesh.md",
+    "01 - Excalidraw/Prints/Pasted image 20241002121506.png",
+    "Data Engineering/Concepts",
+    "01 - Excalidraw/Prints/Pasted image 20241002104750.png",
+    "01 - Excalidraw/Prints/Pasted image 20241002104139.png",
+    "Git/Codespace.md",
+    "01 - Excalidraw/Prints/Pasted image 20241002102117.png",
+    "Git/101 - Git.md",
+    "Excalidraw/Drawing 2024-10-01 13.11.41.excalidraw.md",
+    "Data Engineering/Projects/Real State Project.md",
+    "Untitled.md",
+    "Excalidraw",
+    "Data Engineering/Projects",
+    "Data Engineering",
+    "Databricks/101 - Databricks Basics.md",
+    "01 - Excalidraw/Drawings/1.1 - Project Selection - Fiori.md",
+    "Azure/Project learning.md",
+    "01 - Excalidraw/Drawings/SAP Fiori - Basics.md",
+    "01 - Excalidraw/Drawings",
+    "01 - Excalidraw/Drawings/SAP - Project Bundle.md",
+    "01 - Excalidraw/Prints/Pasted image 20241001110238.png",
+    "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+    "Azure",
     "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
     "SAP/1.1 - Create an ABAP Project in Eclipse.md",
     "Databricks/Apache Spark.md",
@@ -158,42 +187,14 @@
     "01 - Excalidraw/Prints/Pasted image 20240930122105.png",
     "01 - Excalidraw/Prints/Pasted image 20240930115602.png",
     "01 - Excalidraw/Prints/Pasted image 20240930115458.png",
-    "Databricks/101 - Databricks Basics.md",
     "Databricks/Delta lake.md",
     "SAP/SAP Fiori.md",
     "().md",
     "Databricks/Data lakehouse.md",
-    "Databricks/Cluster.md",
-    "Databricks/Untitled.md",
-    "SAP/ABAP Environment.md",
-    "01 - Excalidraw/Prints/Pasted image 20240729101839.png",
-    "SAP/SAP S4HANA Cloud.md",
-    "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
-    "SAP/0 - SAP Brainstorm.md",
-    "SAP/1 - Tutorials.md",
-    "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
-    "Git/Pull vs Fetch.md",
-    "Git/101 - Git.md",
-    "SAP/How to create a Business User in S4 Hana Cloud.md",
-    "SAP/SAP Cloud ALM.md",
-    "SAP/UIAD Object.md",
-    "SAP/API Deployment.md",
-    "SAP/SAP Datasphere.md",
-    "01 - Excalidraw/Prints/Pasted image 20240909195123.png",
-    "01 - Excalidraw/Prints/Pasted image 20240827170506.png",
-    "Git/How to push code to Github using CMD.md",
-    "SAP/3 - Connect CF to SAP Fiori.md",
-    "01 - Excalidraw/Prints/Pasted image 20240829171611.png",
-    "01 - Excalidraw/Prints/Pasted image 20240829164648.png",
-    "Excalidraw",
     "Git",
     "SQL/Untitled",
     "01 - Excalidraw/Prints",
     "How to create a Business User in S",
-    "Databricks/Untitled.canvas",
-    "01 - Excalidraw",
-    "SQL",
-    "SAP",
-    "Databricks"
+    "Databricks/Untitled.canvas"
   ]
 }
