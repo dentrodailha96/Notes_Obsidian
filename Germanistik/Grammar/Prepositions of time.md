@@ -15,3 +15,5 @@ Nico lernt seit einem Monat Deutsch.
 An action or status that began in past but hat not yet finished. 
 
 *Present:* Nico wohnt seit drei Wochen bei Inge.
+
+![[Pasted image 20241002203539.png]]

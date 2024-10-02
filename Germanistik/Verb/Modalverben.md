@@ -104,3 +104,13 @@ The verb _sollen_ is generally used to report a request or an order given by s
 | wir       | dürfen |
 | ihr       | dürft  |
 | sie/Sie   | dürfen |
++ können
+
+|           | Können |
+| --------- | ------ |
+| ich       | kann   |
+| du        | kannst |
+| er/es/sie | kann   |
+| wir       | können |
+| ihr       | könnt  |
+| sie/Sie   | können |
