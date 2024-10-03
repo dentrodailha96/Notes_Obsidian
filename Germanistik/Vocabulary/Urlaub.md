@@ -12,7 +12,7 @@
 | Verb          | Translation                 | Partizip II        |
 | ------------- | --------------------------- | ------------------ |
 | Urlaub machen | take vacation               |                    |
-| uebernachten  | to spend the night          |                    |
+| übernachten   | to spend the night          |                    |
 | zelten        | to camp in a  tent          | gezeltet           |
 | besichtigen   | to visit tourist attraction |                    |
 | faulenzen     | to lounge around            | habeb + gefaulenzt |

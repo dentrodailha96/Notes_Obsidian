@@ -1,4 +1,5 @@
 ## adjectivdeklination im [[Nominativ]]
++ After the indefinite article an adjective takes the same ending as the definite article (-er/-e/-es). In the plural, the adjective takes the ending "e".
 
 z.B.: Sandra ist schön = Sandra ist eine schön**e** Frau 
 
@@ -18,6 +19,9 @@ Besonderheiten bei der Deklination (special cases)
 | Plural    | die dunkel Räumes      | dunkle Räume       |
 
 ## adjectivendungen im [[Akkusativ]]
++ Most adjective endings in the nominative and accusative are the same. There is one exception to the rule: adjectives before masculine nouns in the singular take the ending "-en".
+Beispiel:
+	einen grünen Papagei - den grünen Papagei. 
 
 |           | Bestimmte          | Unbestimmte         | Possessivartickel - the masculin is always "-en"       | Negativartikle       | Ohne Artikel |
 | --------- | ------------------ | ------------------- | ------------------------------------------------- | -------------------- | ------------ |

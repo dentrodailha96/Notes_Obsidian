@@ -3,7 +3,7 @@
 https://www.startdataengineering.com/post/parts-of-dataengineering/
 ## Parts of a project
 
-1) Define Requirements:
+1) Define Requirements ([[SLAs]]):
 	+ https://www.startdataengineering.com/post/n-questions-data-pipeline-req/
 	
 	*Identify the end users interests:*
@@ -57,3 +57,13 @@ https://www.startdataengineering.com/post/parts-of-dataengineering/
 	
 8) Infrastructure:
 	+ [[DevOps]]
+
+### Choosing the tools
+
+|Requirement|Source|Orchestrator|Scheduler|Executor|Destination|Monitor & Alert|
+|:--|---|---|---|---|---|---|
+|Batch w Pipeline Frequency: 1h|-|Airflow (MWAA, Astronomer, Cloud composer), dbt, Dagster, Prefect, custom python|Airflow, dbt cloud, Databricks scheduler, Dagster, Prefect, cron|-|-|custom alerts, Datadog, newrelic, AWS cloudwatch,|
+|Data Size: 10GB|-|-|-|Python, Airflow worker, k8s pod, Spark, Snowflake, Redshift, Dask, Databricks, AWS EMR,|-|papertrail, datadog, newrelic|
+|Data processing speed: <=10m|-|-|-|Python, Airflow operator, k8s pod, Spark, Snowflake, Redshift, Databricks, AWS EMR,|-|papertrail, datadog, newrelic|
+|Query pattern: Analytical|-|-|-|-|Data warehouse, Redshift, Snowflake, Bigquery, Clickhouse, Delta lake,|Alerts on query failures|
+|Latency req: 10s|-|-|-|-|Data warehouse, Redshift, Snowflake, Bigquery, Clickhouse, Delta lake,|Alerts on query timeouts|

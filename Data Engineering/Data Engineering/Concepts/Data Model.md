@@ -4,4 +4,8 @@
 #### Types:
 + Kimball
 + Data Vault
-+ Snowflake, start schema
++ Snowflake, star schema
+
+### Kimball's 
++ Star Schema
++ 
