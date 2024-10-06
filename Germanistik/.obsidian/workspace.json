@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verb/Vergangenheit.md",
+                "file": "Vocabulary/Wörterbuch.md",
                 "mode": "source",
                 "source": false
               }
@@ -25,14 +25,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Grammar/Comparison with als and wie.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -61,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "anders",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -160,10 +159,19 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86ef8b4e8c6d95fb",
+  "active": "9346c063370a3af2",
   "lastOpenFiles": [
     "Verb/Vergangenheit.md",
+    "Grammar/Comparison with als and wie.md",
+    "01 - Excalidraw/Prints/Pasted image 20241006183420.png",
+    "Grammar/Comparative Superlative Forms.md",
+    "01 - Excalidraw/Prints/Pasted image 20241006182158.png",
     "Vocabulary/Wörterbuch.md",
+    "Declinations/Dativ.md",
+    "01 - Excalidraw/Prints/Pasted image 20241006182509.png",
+    "01 - Excalidraw/Prints/Pasted image 20241006182436.png",
+    "Verb/Extra Verbs.md",
+    "01 - Excalidraw/Prints/Pasted image 20241006180804.png",
     "Grammar/Adjektivendungen.md",
     "Verb/das Perfekt.md",
     "Verb/das Präsens.md",
@@ -185,19 +193,9 @@
     "01 - Excalidraw/Prints/Pasted image 20240928215133.png",
     "01 - Excalidraw/Prints/Pasted image 20240928215108.png",
     "Vocabulary/Supermarket.md",
-    "Grammar/Comparative Superlative Forms.md",
     "Grammar/Adverbien.md",
     "Vocabulary/eine Fahrkarte kaufen.md",
-    "01 - Excalidraw/Prints/Pasted image 20240924100504.png",
-    "01 - Excalidraw/Prints/Pasted image 20240924093733.png",
     "Vocabulary/Wohnungssuche.md",
-    "01 - Excalidraw/Prints/Pasted image 20240924093800.png",
-    "Text/Geschwester.md",
-    "Vocabulary/die Bank.md",
-    "Vocabulary/Die Post.md",
-    "01 - Excalidraw/Prints/Pasted image 20240912144842.png",
-    "01 - Excalidraw/Prints/Pasted image 20240910133725.png",
-    "Vocabulary/Word with ung.md",
     "Pronounciation",
     "Excalidraw",
     "Untitled.canvas",

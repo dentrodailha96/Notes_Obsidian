@@ -374,6 +374,15 @@
 | züruck                                       | verb        | return                                 |
 | Zurückgekommen                               | Verb        | comeback                               |
 | zwischen                                     |             | between                                |
+| vermissen                                    | Verb        | to miss something, someone             |
+| fehlen                                       | Verb        | to miss, to be missing to be lacking   |
+| die Verwandten                               | Substantive | relatives                              |
+| anders                                       | Adjective   | different                              |
+| wichtig                                      | Adjective   | important                              |
+| einfach                                      | Adjective   | simple, easy                           |
+| Die Lebensmittel                             | Subtantive  | Groceries                              |
+| leichter                                     | Adjective   | easier                                 |
+| schwerer                                     | Adjective   | harder                                 |
 
 
 
