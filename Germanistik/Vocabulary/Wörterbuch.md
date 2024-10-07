@@ -383,6 +383,216 @@
 | Die Lebensmittel                             | Subtantive  | Groceries                              |
 | leichter                                     | Adjective   | easier                                 |
 | schwerer                                     | Adjective   | harder                                 |
+| wünsche                                      | Verb        | to wish                                |
+|                                              |             |                                        |
+| dort                                         |             | there                                  |
+| draußen                                      |             | outside                                |
+| draußen gehen                                |             | to go outside                          |
+| dreckig                                      |             | dirty                                  |
+| drinnen                                      |             | inside                                 |
+| dunkel                                       |             | dark                                   |
+| durch                                        | preposition | through                                |
+| Egal                                         | expression  | no matter                              |
+| ehrold                                       |             | relexed                                |
+| eigentlich                                   |             | actually                               |
+| Einfach                                      |             | Simply                                 |
+| eingeben                                     |             | input                                  |
+| Eingentlich                                  | Adverb      | Actually                               |
+| einkaufen                                    | Verb        | to shopping                            |
+| entlang                                      | preposition | along (usually after a noun)           |
+| entspannend                                  |             | relaxing                               |
+| Erfolg                                       |             | success                                |
+| Erscheinen                                   | verb        | to be released (a book)                |
+| erzählen                                     |             | told                                   |
+| etwas                                        |             | about/roughly                          |
+| etwas nach/sehen                             | Verb        | to have a look                         |
+| etwas vereinbarten                           | Verb        | to agree on something                  |
+| fast immer                                   |             | almost always                          |
+| feiern                                       | Verb        | celebrate                              |
+| fest                                         |             | fixed, permanent                       |
+| fliegen                                      |             | fly                                    |
+| fliehen                                      | verb        | to flee                                |
+| flüchtlinge                                  |             | refugees                               |
+| Flughafen                                    |             | airport                                |
+| Freut                                        |             | Happy                                  |
+| freut, freute, hat gefreut                   | Verb        | to be excited about something          |
+| frisch                                       |             | fresh                                  |
+| Froh                                         |             | Happy                                  |
+| früh                                         |             | early                                  |
+| früh                                         |             | early                                  |
+| fühlen                                       | Verb        | to feel                                |
+| ganz                                         |             | complete, entire, super                |
+| gar nicht                                    | Expression  | not at all                             |
+| geben                                        |             | to give                                |
+| Geduld                                       |             | Patience                               |
+| gefeiert                                     |             | celebrated                             |
+| gegange                                      | Verb        | gone                                   |
+| gegen                                        | preposition | against                                |
+| Gegenwart                                    |             | Present                                |
+| geizig                                       |             | like to save                           |
+| genug                                        |             | enough                                 |
+| germütlich                                   |             | cozy                                   |
+| Gern geschehen                               | Expression  | My preasure! You're welcome!           |
+| geschlossen                                  |             | close                                  |
+| geschwollen                                  |             | swollen (inchado)                      |
+| gestorben                                    |             | died                                   |
+| gesund                                       |             | healthy                                |
+| günstig                                      |             | inexpensive                            |
+| halb                                         |             | half                                   |
+| häufig                                       |             | frequently                             |
+| Heimat                                       | noun        | Hometown                               |
+| Himmelsrichtungen                            |             | geographical directions                |
+| hin und zurück                               |             | there and back                         |
+| hübsch                                       |             | beautiful, pretty                      |
+| im Angebot sein                              |             | on special, on sale                    |
+| im Stau                                      |             | in a traffic jam                       |
+| immer noch                                   | verb        | still                                  |
+| in der Mitte (von)                           |             | in the middle                          |
+| in der Nähe (von)                            |             | near                                   |
+| Jahrenszeiten                                |             | seasons                                |
+| kehren/fegen                                 |             | to sweep                               |
+| kennengelernt                                | Verb        | met                                    |
+| kennenlernen                                 |             | to meet each other (dating)            |
+| kleidung                                     |             | clothing                               |
+| kleidung                                     |             | clothing                               |
+| klettern                                     |             | to climb                               |
+| kommt drauf an                               |             | That depends                           |
+| langweilig                                   |             | boring                                 |
+| laufen                                       | Verb        | to run                                 |
+| ledig                                        |             | single                                 |
+| leider                                       |             | unfortunately                          |
+| leihenfolge                                  | noun        | Series                                 |
+| leisten                                      |             | afford                                 |
+| leiten                                       |             | to manage, to head something           |
+| liegen                                       |             | to be located                          |
+| liegen                                       |             | to lie, to be in a horizontal position |
+| los\|gehen$                                  |             | to set up                              |
+| machen                                       |             | to do                                  |
+| malen                                        | Verb        | to paint                               |
+| man                                          |             | people                                 |
+| manche                                       |             | some                                   |
+| Mehrzahl                                     |             | Plural                                 |
+| meist                                        |             | most of the time                       |
+| meistens                                     |             | most of the time                       |
+| Mengenangaben                                |             | quantity                               |
+| mindestens                                   |             | at least, minimum                      |
+| mit\|bringen$                                |             | to bring                               |
+| Mitgebracht                                  |             | brought along                          |
+| möglich                                      |             | possible                               |
+| Möglichkeit                                  |             | possibility                            |
+| nach                                         |             | after                                  |
+| nach                                         |             | after                                  |
+| nach (place) gehen                           |             | to go (place)                          |
+| Nachbarn                                     |             | neighbors                              |
+| nehme                                        |             | to take                                |
+| nehmen                                       |             | take                                   |
+| nie                                          |             | never                                  |
+| Normalerwiese                                |             | Normally                               |
+| Notwendigkeit                                |             | necessity                              |
+| oft                                          |             | often                                  |
+| organisieren                                 |             | to organize something                  |
+| pass auf                                     |             | watch out                              |
+| Plötzlich                                    | Adverb      | Suddenly                               |
+| Rat                                          |             | advice                                 |
+| Rauch nicht                                  |             | Don't smoke                            |
+| rauchen                                      |             | to smoke                               |
+| Räume                                        |             | Rooms                                  |
+| reden                                        |             | to talk                                |
+| regelmäßig                                   |             | regular                                |
+| reisen                                       |             | to travel                              |
+| Richtungen                                   |             | Directions                             |
+| röntgen                                      | Verb        | Xray something                         |
+| Sache                                        |             | thing                                  |
+| sauer                                        |             | mad / angry                            |
+| saugen                                       |             | to vacuum                              |
+| schick                                       |             | fancy                                  |
+| schick                                       |             | fancy                                  |
+| schieben                                     | verb        | to push                                |
+| schlucken                                    |             | to swallow                             |
+| schneiden                                    |             | to cut something                       |
+| selbst                                       |             | self                                   |
+| selten                                       |             | seldom/raramente                       |
+| sich freuen                                  |             | to be pleased                          |
+| sicher                                       | Adjective   | secure                                 |
+| sicher                                       |             | certainly                              |
+| sollen                                       |             | should, to be supposed to do           |
+| spät                                         |             | late                                   |
+| später                                       |             | later                                  |
+| Spatzieren                                   | verb        | take a walk /skroll                    |
+| spazieren gehen                              |             | to go for a walk                       |
+| spießig                                      |             | bourgeois (old, traditional)           |
+| sprechen                                     | Verb        | to speak                               |
+| springen                                     | Verb        | to jump                                |
+| stecken                                      |             | to stick inside                        |
+| stecken                                      |             | to stick inside                        |
+| stürzen                                      |             | to fall                                |
+| tailen                                       |             | to share                               |
+| Teilzeit                                     | noun        | Part time                              |
+| telefonieren                                 |             | to telephone                           |
+| trauring                                     | Adjective   | sab                                    |
+| Treffen                                      |             | to meet                                |
+| treiben                                      |             | do sports                              |
+| trennbar                                     |             | separable                              |
+| trennbar                                     |             | separable                              |
+| tun                                          | Verb        | to do something                        |
+| überprüfen                                   |             | to check something                     |
+| überqueren                                   |             | cross over                             |
+| überweisen                                   |             | to transfer                            |
+| überziehen                                   | Verb        | to overdraw                            |
+| uebermorgen                                  |             | the day after tomorrow                 |
+| um                                           | preposition | around, round                          |
+| um\|steigen$                                 |             | to change                              |
+| umziehen                                     |             | move                                   |
+| unabhängig                                   |             | independent                            |
+| Unterricht                                   |             | instructions                           |
+| unterschreiben                               |             | to sing something                      |
+| unterwegs                                    |             | on the go, on the way                  |
+| vereinbaren                                  |             | agree                                  |
+| Vergangenheit                                |             | Past                                   |
+| verlieren                                    |             | to lose something                      |
+| Verprochen                                   |             | Promise                                |
+| vielleicht                                   |             | perhaps, maybe                         |
+| viertel nach                                 |             | quarter past                           |
+| viertel vor                                  |             | quarter to                             |
+| Vokabeln                                     |             | Vocabulary                             |
+| Vollverben                                   |             | mainverb                               |
+| vorbei                                       |             | pass over                              |
+| vorbei\|kommen                               | Verb        | to come by                             |
+| vorgestern                                   |             | the day before yesterday               |
+| Wähl                                         | Verb        | choose                                 |
+| wandern                                      | Verb        | to hike                                |
+| warten                                       |             | to wait                                |
+| waschen                                      |             | to wash                                |
+| weinen                                       | verb        | to cry                                 |
+| weiter                                       | Adverb      | more, continue                         |
+| werden                                       |             | to become                              |
+| werden                                       |             | become                                 |
+| wichtig                                      |             | important                              |
+| wieder                                       |             | again                                  |
+| wiederholen                                  | verb        | to repeat                              |
+| windig                                       |             | windy                                  |
+| wissen                                       |             | to know                                |
+| wünsche                                      |             | wishes                                 |
+| wünted                                       |             | angry                                  |
+| zuerst                                       |             | first                                  |
+| Zukunft                                      |             | Future                                 |
+| zuletzt                                      |             | lastly, finally                        |
+| züruck                                       | verb        | return                                 |
+| Zurückgekommen                               | Verb        | comeback                               |
+| zwischen                                     |             | between                                |
+| vermissen                                    | Verb        | to miss something, someone             |
+| fehlen                                       | Verb        | to miss, to be missing to be lacking   |
+| die Verwandten                               | Substantive | relatives                              |
+| anders                                       | Adjective   | different                              |
+| wichtig                                      | Adjective   | important                              |
+| einfach                                      | Adjective   | simple, easy                           |
+| Die Lebensmittel                             | Subtantive  | Groceries                              |
+| leichter                                     | Adjective   | easier                                 |
+| schwerer                                     | Adjective   | harder                                 |
+| wünsche                                      | Verb        | to wish                                |
+| eigener, eigene, eigenes                     | Substantive | own                                    |
+| die Ausflüge                                 | Substantive | Excursions                             |
+| beenden                                      | Verb        | to end, to finish                      |
 
 
 

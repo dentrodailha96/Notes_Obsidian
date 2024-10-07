@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Text/Wishes.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anders",
+                "query": "ausbil",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Text/Wishes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Text/Wishes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md"
+                "file": "Text/Wishes.md"
               }
             }
           }
@@ -161,20 +161,21 @@
   },
   "active": "9346c063370a3af2",
   "lastOpenFiles": [
+    "Verb/das Präsens.md",
+    "Verb/das Perfekt.md",
+    "Text/Wishes.md",
     "Verb/Vergangenheit.md",
+    "Verb/Extra Verbs.md",
+    "Vocabulary/Wörterbuch.md",
     "Grammar/Comparison with als and wie.md",
     "01 - Excalidraw/Prints/Pasted image 20241006183420.png",
     "Grammar/Comparative Superlative Forms.md",
     "01 - Excalidraw/Prints/Pasted image 20241006182158.png",
-    "Vocabulary/Wörterbuch.md",
     "Declinations/Dativ.md",
     "01 - Excalidraw/Prints/Pasted image 20241006182509.png",
     "01 - Excalidraw/Prints/Pasted image 20241006182436.png",
-    "Verb/Extra Verbs.md",
     "01 - Excalidraw/Prints/Pasted image 20241006180804.png",
     "Grammar/Adjektivendungen.md",
-    "Verb/das Perfekt.md",
-    "Verb/das Präsens.md",
     "Vocabulary/Urlaub.md",
     "Vocabulary/der Familienstand.md",
     "Vocabulary/Die Wochentage.md",
