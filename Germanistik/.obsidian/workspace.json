@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Text/Wishes.md",
+                "file": "Questions/Fragen.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ausbil",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -97,7 +97,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Text/Wishes.md",
+                "file": "Questions/Fragen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Text/Wishes.md",
+                "file": "Questions/Fragen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,7 +137,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Text/Wishes.md"
+                "file": "Questions/Fragen.md"
               }
             }
           }
@@ -161,15 +161,22 @@
   },
   "active": "9346c063370a3af2",
   "lastOpenFiles": [
-    "Verb/das Präsens.md",
-    "Verb/das Perfekt.md",
-    "Text/Wishes.md",
+    "Questions/Basic questions.md",
+    "Vocabulary/Wo ist ....md",
+    "Grammar/Preposition.md",
+    "Grammar/Comparative Superlative Forms.md",
+    "Verb/Imperativ.md",
     "Verb/Vergangenheit.md",
+    "Verb/Haben und Sein.md",
     "Verb/Extra Verbs.md",
+    "Questions/Fragen.md",
+    "Verb/das Präsens.md",
+    "Vocabulary/Times of the day.md",
+    "Text/Wishes.md",
+    "Verb/das Perfekt.md",
     "Vocabulary/Wörterbuch.md",
     "Grammar/Comparison with als and wie.md",
     "01 - Excalidraw/Prints/Pasted image 20241006183420.png",
-    "Grammar/Comparative Superlative Forms.md",
     "01 - Excalidraw/Prints/Pasted image 20241006182158.png",
     "Declinations/Dativ.md",
     "01 - Excalidraw/Prints/Pasted image 20241006182509.png",
@@ -184,19 +191,12 @@
     "Grammar/Artikel.md",
     "Verb/Modalverben.md",
     "Grammar/Prepositions of time.md",
-    "Grammar/Preposition.md",
     "Vocabulary/Beim Arzt.md",
     "Verb/Untrennbare Verbs.md",
     "01 - Excalidraw/Prints/Pasted image 20241001114518.png",
-    "Vocabulary/die Sportart und der Körper.md",
     "01 - Excalidraw/Prints/Pasted image 20240928215012.png",
-    "Verb/Imperativ.md",
     "01 - Excalidraw/Prints/Pasted image 20240928215133.png",
     "01 - Excalidraw/Prints/Pasted image 20240928215108.png",
-    "Vocabulary/Supermarket.md",
-    "Grammar/Adverbien.md",
-    "Vocabulary/eine Fahrkarte kaufen.md",
-    "Vocabulary/Wohnungssuche.md",
     "Pronounciation",
     "Excalidraw",
     "Untitled.canvas",

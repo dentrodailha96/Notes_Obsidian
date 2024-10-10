@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering/Concepts/Orchestrator.md",
+                "file": "SAP/SAPUI5.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Data Engineering/Concepts/Orchestrator.md",
+                "file": "SAP/SAPUI5.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Data Engineering/Concepts/Orchestrator.md",
+                "file": "SAP/SAPUI5.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Engineering/Concepts/Orchestrator.md"
+                "file": "SAP/SAPUI5.md"
               }
             }
           }
@@ -147,18 +147,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d75aac527b150616",
+  "active": "8d2103746650dc45",
   "lastOpenFiles": [
+    "SAP/0 - SAP Brainstorm.md",
+    "SAP/SAPUI5.md",
+    "01 - Excalidraw/Prints/Pasted image 20241003091554.png",
+    "Data Engineering/Projects/Quiz app.md",
+    "Data Engineering/Projects/How to Build a Data Engineering project.md",
+    "Data Engineering/Concepts/Parse HTML.md",
+    "Git/Git.md",
+    "Git/How to push code to Github using CMD.md",
+    "Git/Create a git repository from VSCode.md",
+    "Data Engineering/Concepts/Orchestrator.md",
     "Data Engineering/Concepts/Scheduler.md",
     "Data Engineering/Concepts/SLAs.md",
     "Data Engineering/Concepts/Data processors.md",
     "Data Engineering/Concepts/DevOps.md",
     "Data Engineering/Concepts/Data Model.md",
-    "Data Engineering/Projects/How to Build a Data Engineering project.md",
-    "Pasted image 20241003091554.png",
     "Data Engineering/Concepts/Data Mesh.md",
     "Data Engineering/Concepts/The multi-hop architecture.md",
-    "Data Engineering/Concepts/Orchestrator.md",
     "01 - Excalidraw/Prints/Pasted image 20241002121506.png",
     "Data Engineering/Concepts",
     "01 - Excalidraw/Prints/Pasted image 20241002104750.png",
@@ -179,17 +186,11 @@
     "01 - Excalidraw/Drawings",
     "01 - Excalidraw/Drawings/SAP - Project Bundle.md",
     "01 - Excalidraw/Prints/Pasted image 20241001110238.png",
-    "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
     "Azure",
-    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
-    "SAP/1.1 - Create an ABAP Project in Eclipse.md",
-    "Databricks/Apache Spark.md",
     "01 - Excalidraw/Prints/Pasted image 20240930124709.png",
     "01 - Excalidraw/Prints/Pasted image 20240930122801.png",
     "01 - Excalidraw/Prints/Pasted image 20240930122105.png",
     "01 - Excalidraw/Prints/Pasted image 20240930115602.png",
-    "Databricks/Delta lake.md",
-    "SAP/SAP Fiori.md",
     "Git",
     "SQL/Untitled",
     "01 - Excalidraw/Prints",

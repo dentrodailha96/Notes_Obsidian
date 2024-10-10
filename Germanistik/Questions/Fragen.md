@@ -9,6 +9,9 @@
 |  Woher   | Where From |
 | Wie viel |  How much  |
 |  Wieso   |    Why     |
+|   Wer    |    Who     |
+|  Wohin   |   Where    |
+
 Zum Beispiel: 
 	Wo **wohne** sie(subject)? (verb second position)
 	
