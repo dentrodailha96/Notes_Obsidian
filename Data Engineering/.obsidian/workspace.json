@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/SAP CBC.md",
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAP/SAP CBC.md",
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAP/SAP CBC.md",
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAP/SAP CBC.md"
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md"
               }
             }
           }
@@ -149,16 +149,28 @@
   },
   "active": "d75aac527b150616",
   "lastOpenFiles": [
+    "SAP/5 - How to create Business Roles in SAP Fiori App.md",
+    "SAP/Booster.md",
+    "SAP/1 - Tutorials.md",
+    "SAP/1.1 - Create an ABAP Project in Eclipse.md",
+    "SAP/CAP Application.md",
+    "SAP/3 - Connect CF to SAP Fiori.md",
+    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
+    "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
+    "Pasted image 20241014152842.png",
+    "Pasted image 20241014152523.png",
+    "Pasted image 20241014151529.png",
+    "SAP/SAP Fiori.md",
+    "SAP/0 - SAP Brainstorm.md",
+    "SAP/SAP CBC.md",
     "SAP/Tenants Types.md",
     "SAP/How to Deploy Content in the SAP S4HANA Cloud.md",
     "01 - Excalidraw/Prints/Pasted image 20241010114517.png",
     "SAP/SAP Profile Management.md",
-    "SAP/SAP CBC.md",
     "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
     "01 - Excalidraw/Prints/Pasted image 20241010151853.png",
     "SAP/SAP S4HANA Cloud.md",
     "SAP/SAPUI5.md",
-    "SAP/0 - SAP Brainstorm.md",
     "01 - Excalidraw/Prints/Pasted image 20241003091554.png",
     "Data Engineering/Projects/Quiz app.md",
     "Data Engineering/Projects/How to Build a Data Engineering project.md",
@@ -169,28 +181,16 @@
     "Data Engineering/Concepts/Orchestrator.md",
     "Data Engineering/Concepts/Scheduler.md",
     "Data Engineering/Concepts/SLAs.md",
-    "Data Engineering/Concepts/Data processors.md",
-    "Data Engineering/Concepts/DevOps.md",
-    "Data Engineering/Concepts/Data Model.md",
-    "Data Engineering/Concepts/Data Mesh.md",
-    "Data Engineering/Concepts/The multi-hop architecture.md",
     "01 - Excalidraw/Prints/Pasted image 20241002121506.png",
     "Data Engineering/Concepts",
     "01 - Excalidraw/Prints/Pasted image 20241002104750.png",
     "01 - Excalidraw/Prints/Pasted image 20241002104139.png",
-    "Git/Codespace.md",
     "01 - Excalidraw/Prints/Pasted image 20241002102117.png",
-    "Git/101 - Git.md",
-    "Excalidraw/Drawing 2024-10-01 13.11.41.excalidraw.md",
-    "Data Engineering/Projects/Real State Project.md",
     "Excalidraw",
     "Data Engineering/Projects",
     "Data Engineering",
     "01 - Excalidraw/Drawings",
-    "01 - Excalidraw/Prints/Pasted image 20241001110238.png",
     "Azure",
-    "01 - Excalidraw/Prints/Pasted image 20240930124709.png",
-    "01 - Excalidraw/Prints/Pasted image 20240930122801.png",
     "Git",
     "SQL/Untitled",
     "01 - Excalidraw/Prints",
