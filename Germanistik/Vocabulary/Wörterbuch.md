@@ -593,6 +593,7 @@
 | eigener, eigene, eigenes                     | Substantive | own                                    |
 | die Ausflüge                                 | Substantive | Excursions                             |
 | beenden                                      | Verb        | to end, to finish                      |
+| dringend                                     | Substantive | dringend                               |
 
 
 
