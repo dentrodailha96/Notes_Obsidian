@@ -42,12 +42,13 @@ Beispiel:
 ## Adjektiv
 
 + sportlich = fit
-+ entspannend = releaxing
++ entspannend = relaxing
 + anstrengend = stressing 
 + gewonnen = win
 + verloren = lost
 + hoch = high 
 + höher = higher 
++ gemütlich = cozy
 
 
 ## Intensity Adverb 

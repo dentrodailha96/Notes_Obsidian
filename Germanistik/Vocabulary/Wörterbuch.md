@@ -594,6 +594,7 @@
 | die Ausflüge                                 | Substantive | Excursions                             |
 | beenden                                      | Verb        | to end, to finish                      |
 | dringend                                     | Substantive | dringend                               |
+| die Eigenschaft                              | Substantive | trait, characteristic                  |
 
 
 

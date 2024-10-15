@@ -15,7 +15,6 @@
 
 - [[How to create a Business User in S4 Hana Cloud]]
 - [[How to bring instance to S4]]
-- [[Add data in SAP S4HANA Cloud Starter System]]
 - [[How to Deploy Content in the SAP S4HANA Cloud]]
 - [[User Creation and Authorization in the SAP S4HANA Cloud Starter System]]
 

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+                "file": "SAP/0 - SAP Brainstorm.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+                "file": "SAP/0 - SAP Brainstorm.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+                "file": "SAP/0 - SAP Brainstorm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md"
+                "file": "SAP/0 - SAP Brainstorm.md"
               }
             }
           }
@@ -149,6 +149,7 @@
   },
   "active": "d75aac527b150616",
   "lastOpenFiles": [
+    "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
     "SAP/5 - How to create Business Roles in SAP Fiori App.md",
     "SAP/Booster.md",
     "SAP/1 - Tutorials.md",
@@ -167,7 +168,6 @@
     "SAP/How to Deploy Content in the SAP S4HANA Cloud.md",
     "01 - Excalidraw/Prints/Pasted image 20241010114517.png",
     "SAP/SAP Profile Management.md",
-    "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
     "01 - Excalidraw/Prints/Pasted image 20241010151853.png",
     "SAP/SAP S4HANA Cloud.md",
     "SAP/SAPUI5.md",
