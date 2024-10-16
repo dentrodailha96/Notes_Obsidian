@@ -376,7 +376,7 @@
 | zwischen                                     |             | between                                |
 | vermissen                                    | Verb        | to miss something, someone             |
 | fehlen                                       | Verb        | to miss, to be missing to be lacking   |
-| die Verwandten                               | Substantive | relatives                              |
+| die Verwandten                               | noun | relatives                              |
 | anders                                       | Adjective   | different                              |
 | wichtig                                      | Adjective   | important                              |
 | einfach                                      | Adjective   | simple, easy                           |
@@ -582,7 +582,7 @@
 | zwischen                                     |             | between                                |
 | vermissen                                    | Verb        | to miss something, someone             |
 | fehlen                                       | Verb        | to miss, to be missing to be lacking   |
-| die Verwandten                               | Substantive | relatives                              |
+| die Verwandten                               | noun | relatives                              |
 | anders                                       | Adjective   | different                              |
 | wichtig                                      | Adjective   | important                              |
 | einfach                                      | Adjective   | simple, easy                           |
@@ -590,11 +590,14 @@
 | leichter                                     | Adjective   | easier                                 |
 | schwerer                                     | Adjective   | harder                                 |
 | wünsche                                      | Verb        | to wish                                |
-| eigener, eigene, eigenes                     | Substantive | own                                    |
-| die Ausflüge                                 | Substantive | Excursions                             |
+| eigener, eigene, eigenes                     | noun | own                                    |
+| die Ausflüge                                 | noun | Excursions                             |
 | beenden                                      | Verb        | to end, to finish                      |
-| dringend                                     | Substantive | dringend                               |
-| die Eigenschaft                              | Substantive | trait, characteristic                  |
+| dringend                                     | noun | dringend                               |
+| die Eigenschaft                              | noun | trait, characteristic                  |
+| ernähren                                     | Verb        | eat                                    |
+| die Zukunft                                  | noun | Future                                 |
+| die Meinung, die Meinungen                   | noun | opinion                                |
 
 
 

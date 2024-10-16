@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/0 - SAP Brainstorm.md",
+                "file": "SAP/SAP CBC.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAP/0 - SAP Brainstorm.md",
+                "file": "SAP/SAP CBC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAP/0 - SAP Brainstorm.md",
+                "file": "SAP/SAP CBC.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAP/0 - SAP Brainstorm.md"
+                "file": "SAP/SAP CBC.md"
               }
             }
           }
@@ -149,43 +149,43 @@
   },
   "active": "d75aac527b150616",
   "lastOpenFiles": [
-    "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
-    "SAP/5 - How to create Business Roles in SAP Fiori App.md",
-    "SAP/Booster.md",
-    "SAP/1 - Tutorials.md",
-    "SAP/1.1 - Create an ABAP Project in Eclipse.md",
-    "SAP/CAP Application.md",
-    "SAP/3 - Connect CF to SAP Fiori.md",
-    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
-    "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
-    "Pasted image 20241014152842.png",
-    "Pasted image 20241014152523.png",
-    "Pasted image 20241014151529.png",
-    "SAP/SAP Fiori.md",
-    "SAP/0 - SAP Brainstorm.md",
+    "SAP/6 - How to grant access to Cloud Identity Service.md",
     "SAP/SAP CBC.md",
-    "SAP/Tenants Types.md",
-    "SAP/How to Deploy Content in the SAP S4HANA Cloud.md",
-    "01 - Excalidraw/Prints/Pasted image 20241010114517.png",
-    "SAP/SAP Profile Management.md",
-    "01 - Excalidraw/Prints/Pasted image 20241010151853.png",
+    "SAP/5 - How to create Business Roles in SAP Fiori App.md",
+    "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+    "SAP/What is a communication system.md",
+    "SAP/User Creation and Authorization in the SAP S4HANA Cloud Starter System.md",
+    "SAP/Identity Provisioning.md",
+    "SAP/SAP Cloud Identify Services.md",
+    "SAP/SAP Transactions.md",
     "SAP/SAP S4HANA Cloud.md",
-    "SAP/SAPUI5.md",
+    "SAP/SAP Profile Management.md",
+    "SAP/SAP Fiori.md",
+    "SAP/SAP Datasphere.md",
+    "SAP/SAP Cloud ALM.md",
+    "SAP/IAM Application.md",
+    "SAP/How to Deploy Content in the SAP S4HANA Cloud.md",
+    "SAP/How to create a Business User in S4 Hana Cloud.md",
+    "SAP/How to bring instance to S4.md",
+    "SAP/ERP.md",
+    "SAP/Cloud Foundry Environment.md",
+    "SAP/CDS View.md",
+    "SAP/CAP Application.md",
+    "SAP/Business Catalog.md",
+    "SAP/Booster.md",
+    "SAP/API Deployment.md",
+    "SAP/ABAP Environment.md",
+    "01 - Excalidraw/Prints/Pasted image 20240826154650.png",
+    "01 - Excalidraw/Prints/Pasted image 20241014151529.png",
+    "01 - Excalidraw/Prints/Pasted image 20241014152842.png",
+    "01 - Excalidraw/Prints/Pasted image 20241014152523.png",
+    "01 - Excalidraw/Prints/Pasted image 20241010114517.png",
+    "01 - Excalidraw/Prints/Pasted image 20241010151853.png",
     "01 - Excalidraw/Prints/Pasted image 20241003091554.png",
-    "Data Engineering/Projects/Quiz app.md",
-    "Data Engineering/Projects/How to Build a Data Engineering project.md",
-    "Data Engineering/Concepts/Parse HTML.md",
-    "Git/Git.md",
-    "Git/How to push code to Github using CMD.md",
-    "Git/Create a git repository from VSCode.md",
-    "Data Engineering/Concepts/Orchestrator.md",
-    "Data Engineering/Concepts/Scheduler.md",
-    "Data Engineering/Concepts/SLAs.md",
     "01 - Excalidraw/Prints/Pasted image 20241002121506.png",
     "Data Engineering/Concepts",
     "01 - Excalidraw/Prints/Pasted image 20241002104750.png",
     "01 - Excalidraw/Prints/Pasted image 20241002104139.png",
-    "01 - Excalidraw/Prints/Pasted image 20241002102117.png",
     "Excalidraw",
     "Data Engineering/Projects",
     "Data Engineering",
