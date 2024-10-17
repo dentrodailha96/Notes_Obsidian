@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/SAP CBC.md",
+                "file": "Git/Git.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SAP/SAP CBC.md",
+                "file": "Git/Git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SAP/SAP CBC.md",
+                "file": "Git/Git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SAP/SAP CBC.md"
+                "file": "Git/Git.md"
               }
             }
           }
@@ -149,8 +149,14 @@
   },
   "active": "d75aac527b150616",
   "lastOpenFiles": [
-    "SAP/6 - How to grant access to Cloud Identity Service.md",
+    "Git/Git Hub.md",
+    "Git/Pull vs Fetch.md",
+    "Git/How to push code to Github using CMD.md",
+    "Git/How to clone code to computer.md",
+    "Git/Codespace.md",
+    "Git/Git.md",
     "SAP/SAP CBC.md",
+    "SAP/6 - How to grant access to Cloud Identity Service.md",
     "SAP/5 - How to create Business Roles in SAP Fiori App.md",
     "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
     "SAP/What is a communication system.md",
@@ -169,12 +175,6 @@
     "SAP/How to bring instance to S4.md",
     "SAP/ERP.md",
     "SAP/Cloud Foundry Environment.md",
-    "SAP/CDS View.md",
-    "SAP/CAP Application.md",
-    "SAP/Business Catalog.md",
-    "SAP/Booster.md",
-    "SAP/API Deployment.md",
-    "SAP/ABAP Environment.md",
     "01 - Excalidraw/Prints/Pasted image 20240826154650.png",
     "01 - Excalidraw/Prints/Pasted image 20241014151529.png",
     "01 - Excalidraw/Prints/Pasted image 20241014152842.png",
