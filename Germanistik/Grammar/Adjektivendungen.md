@@ -3,12 +3,12 @@
 
 z.B.: Sandra ist schön = Sandra ist eine schön**e** Frau 
 
-|           | Bestimmte       | Unbestimmte      | Possessivartickel | Ohen Artikel |
-| --------- | --------------- | ---------------- | ----------------- | ------------ |
-| Maskullin | der Nette Mann  | ein netter Mann  | mein junger Sohn  | netter Mann  |
-| Feminin   | die schöne Frau | eine schöne Frau | mein neue Tasche  | schöner Frau |
-| Neutral   | das kleine Kind | ein kleines Kind | mein kleines Baby | kleines Kind |
-| Plural    | die roten Rosen | -                | mein alten Bücher | alte Bücher  |
+|           | Bestimmte           | Unbestimmte          | Possessivartickel     | Ohen Artikel |
+| --------- | ------------------- | -------------------- | --------------------- | ------------ |
+| Maskullin | der nett==e== Mann  | ein nett==er== Mann  | mein jung==er== Sohn  | netter Mann  |
+| Feminin   | die schön==e== Frau | eine schön==e== Frau | mein neu==e== Tasche  | schöner Frau |
+| Neutral   | das klein==e== Kind | ein klein==es== Kind | mein klein==es== Baby | kleines Kind |
+| Plural    | die rot==en== Rosen | -                    | mein alt==en== Bücher | alte Bücher  |
 Besonderheiten bei der Deklination (special cases)
 
 |           | -el (dunkel) / -er (B) | (unB)              |

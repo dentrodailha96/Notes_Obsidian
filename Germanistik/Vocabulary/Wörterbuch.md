@@ -601,6 +601,11 @@
 | die Aussprache                               | noun        | pronunciation                          |
 | die Wörtern                                  | noun        | words                                  |
 | wissen Sie vielleicht                        | expression  | you may know                           |
+| verdienen                                    | Verb        | to earn                                |
+| leisten können                               | Verb        | to be able to afford                   |
+| geizig                                       | adjective   | miserly, stingy                        |
+| Geizhals                                     | adjective   | scrooge (pao duro)                     |
+| aus\|geben                                   | Verb        | to expend                              |
 
 
 
