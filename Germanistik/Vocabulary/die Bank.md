@@ -25,3 +25,9 @@ wechseln (hat gewechselt) = to exchange
 überweisen (hat überweisen) = to transfer
 eröffnen = to open 
 schließen = to close 
+leihen = to lend somebody
+
+
+### Expression 
+Was meinst du damit? = What do you mean by that? 
+dabei = included

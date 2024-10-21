@@ -606,6 +606,13 @@
 | geizig                                       | adjective   | miserly, stingy                        |
 | Geizhals                                     | adjective   | scrooge (pao duro)                     |
 | aus\|geben                                   | Verb        | to expend                              |
+| davon                                        | adverb      | of that                                |
+| meldebescheinigung                           | noun        | registration certificate               |
+| die Anmeldung, die Anmeldungen               | noun        | registration                           |
+| das Geschlecht, die Geschlechter             | noun        | gender                                 |
+| der Familienstand                            | noun        | marital status                         |
+| ledig                                        | noun        | single                                 |
+|                                              |             |                                        |
 
 
 

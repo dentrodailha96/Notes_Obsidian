@@ -23,12 +23,12 @@ Besonderheiten bei der Deklination (special cases)
 Beispiel:
 	einen grünen Papagei - den grünen Papagei. 
 
-|           | Bestimmte          | Unbestimmte         | Possessivartickel - the masculin is always "-en"       | Negativartikle       | Ohne Artikel |
-| --------- | ------------------ | ------------------- | ------------------------------------------------- | -------------------- | ------------ |
-| Maskullin | den großen Hund    | einen großen Hung   | meinen g                                               | keinen großen Hund   | -en          |
-| Feminin   | die schwarze Katze | eine schwarze Katze | meine                                                  | keine schwarze Katze | -e           |
-| Neutral   | das schicke Auto   | ein schickes Auto                                                            | kein schickes Auto   | -es          |
-| Plural    | die neuen schule   | -                                                                            | kein neuen Schule    | -e           |
+|           | Bestimmte              | Unbestimmte               | Possessivartickel - the masculin is always "-en" | Negativartikle       | Ohne Artikel |
+| --------- | ---------------------- | ------------------------- | ------------------------------------------------ | -------------------- | ------------ |
+| Maskullin | den groß==en== Hund    | ein==en== groß==en== Hung | meinen                                           | keinen großen Hund   | -en          |
+| Feminin   | die schwarz==e== Katze | eine schwarz==e== Katze   | meine                                            | keine schwarze Katze | -e           |
+| Neutral   | das schick==e== Auto   | ein schick==es== Auto     | mein schickes Auto                               | kein/-es             | -es          |
+| Plural    | die neu==en== schule   | -                         | mein==e== neu==en== Schule                       | keine/-e             | -e           |
 
 ## adjectivedungen im [[Dativ]] 
 
