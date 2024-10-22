@@ -612,7 +612,10 @@
 | das Geschlecht, die Geschlechter             | noun        | gender                                 |
 | der Familienstand                            | noun        | marital status                         |
 | ledig                                        | noun        | single                                 |
-|                                              |             |                                        |
+| Rechnungen                                   | noun        | bills                                  |
+| die Erinnerung, die Erinnerungen             | noun        | reminder                               |
+| ausschalten                                  | Verb        | to turn off                            |
+| achten                                       |             | regard                                 |
 
 
 

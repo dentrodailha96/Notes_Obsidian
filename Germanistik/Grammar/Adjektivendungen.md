@@ -32,12 +32,12 @@ Beispiel:
 
 ## adjectivedungen im [[Dativ]] 
 
-|           | Bestimmte (always en changing the article) | Unbestimmte        | Possessivartickel    | Negativartikle          | Ohne Artikel  |
-| --------- | ------------------------------------------ | ------------------ | -------------------- | ----------------------- | ------------- |
-| Maskullin | dem alten Mann                             | einem alten Mann   | meinem alten Mann    | keinem alten Mann       | altem mann    |
-| Feminin   | der netten Frau                            | einer netten Frau  | meiner netten Frau   | keiner netten Frau      | netter Frau   |
-| Neutral   | dem kleinen Kind                           | einem kleinen Kind | meinem kleinen Kind  | keinem kleinen Kind     | kleinem Kind  |
-| Plural    | den süßen Kindern                          | -                  | meinen süßen Kindern | keinen frenchen Kindern | süßen Kindern |
+|           | Bestimmte (always en changing the article) | Unbestimmte                | Possessivartickel                | Negativartikle                      | Ohne Artikel          |
+| --------- | ------------------------------------------ | -------------------------- | -------------------------------- | ----------------------------------- | --------------------- |
+| Maskullin | de==m== alt==en== Mann                     | ein==em== alt==en== Mann   | mein==em== alt==en== Mann        | kein==em== alt==en== Mann           | alt==em== mann        |
+| Feminin   | d==er== nett==en== Frau                    | ein==er== nett==en== Frau  | mein==er== nett==en== Frau       | kein==er== nett==en== Frau          | nett==er== Frau       |
+| Neutral   | d==em== klein==en== Kind                   | ein==em== klein==en== Kind | mein==em== klein==en== Kind      | kein==em== klein==en== Kind         | klein==em== Kind      |
+| Plural    | d==en== süß==en== Kinder==n==              | -                          | mein==en== süß==en== Kinder==n== | kein==en== french==en== Kinder==n== | süß==en== Kinder==n== |
 
 ## Adjektiv
 

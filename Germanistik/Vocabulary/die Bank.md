@@ -14,6 +14,16 @@ der Kontoauszug = account statement
 der Kontostand = account balance 
 die Einnahme = income 
 die Soll / das Haben = debit/credit 
+der Bargeld = cash 
+
+der Dauerauftrag, die Daueraufträge = standing order
+die Vorkasse = advanced payment, prepayment
+die Lastschrift, die Lasttschriften = direct debit
+die At, die Arten = kind, type, form 
+die Kreditkartenzahlung = credit payment
+der Betrag, die Beträge = amout
+der Kontostand, die Kontostände = account balance
+die Mahnung, die Mahnungen = warning, overdue notice 
 ## Verben
 zur Bank gehen = to go to the bank
 in/bei/auf der Bank sein = to go in the bank 
@@ -26,6 +36,12 @@ wechseln (hat gewechselt) = to exchange
 eröffnen = to open 
 schließen = to close 
 leihen = to lend somebody
+ab|buchen = to debit or to charge something
+ein|zahlen = to deposit 
+ein|richten = to set up 
+ein|gehen = to enter or apply
+ab|gehen = to be deducted
+schauen = to look 
 
 
 ### Expression 
