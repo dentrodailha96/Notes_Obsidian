@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/Cheatsheet.md",
+                "file": "Databricks/Databricks Repo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Cheatsheet"
+              "title": "Databricks Repo"
             }
           }
         ]
@@ -165,8 +165,20 @@
   },
   "active": "d75aac527b150616",
   "lastOpenFiles": [
-    "Git/101 - Git.md",
+    "Databricks/Notebook.md",
+    "Databricks/Data lakehouse.md",
+    "Pasted image 20241022162555.png",
+    "Databricks/Tables.md",
+    "Pasted image 20241022154554.png",
+    "01 - Excalidraw/Prints/Pasted image 20241022124111.png",
+    "01 - Excalidraw/Prints/Pasted image 20241022123529.png",
+    "Pasted image 20241022123503.png",
+    "Databricks/101 - Databricks Basics.md",
+    "Databricks/Cluster.md",
+    "Databricks/Distributed file System - DBFS.md",
+    "Databricks/Apache Spark.md",
     "Git/Cheatsheet.md",
+    "Git/101 - Git.md",
     "01 - Excalidraw/Prints/Pasted image 20241018121755.png",
     "01 - Excalidraw/Prints/Pasted image 20241018122553.png",
     "01 - Excalidraw/Prints/Pasted image 20241018122709.png",
@@ -176,13 +188,10 @@
     "Git/Pull vs Fetch.md",
     "Pasted image 20241018121801.png",
     "Git/Stages.md",
-    "01 - Excalidraw/Prints/Pasted image 20241018112007.png",
     "Git/Head.md",
     "Git/Git.md",
     "Git/Commits.md",
-    "01 - Excalidraw/Prints/Pasted image 20241018115652.png",
     "Git/Branches.md",
-    "01 - Excalidraw/Prints/Pasted image 20241018111440.png",
     "Git/Git Hub.md",
     "Git/How to push code to Github using CMD.md",
     "Git/Codespace.md",
@@ -192,15 +201,6 @@
     "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
     "SAP/What is a communication system.md",
     "SAP/User Creation and Authorization in the SAP S4HANA Cloud Starter System.md",
-    "SAP/Identity Provisioning.md",
-    "SAP/SAP Cloud Identify Services.md",
-    "SAP/SAP Transactions.md",
-    "SAP/SAP S4HANA Cloud.md",
-    "SAP/SAP Profile Management.md",
-    "SAP/SAP Fiori.md",
-    "SAP/SAP Datasphere.md",
-    "01 - Excalidraw/Prints/Pasted image 20240826154650.png",
-    "01 - Excalidraw/Prints/Pasted image 20241014151529.png",
     "Data Engineering/Concepts",
     "Excalidraw",
     "Data Engineering/Projects",
