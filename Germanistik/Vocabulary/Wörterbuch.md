@@ -616,6 +616,11 @@
 | die Erinnerung, die Erinnerungen             | noun        | reminder                               |
 | ausschalten                                  | Verb        | to turn off                            |
 | achten                                       |             | regard                                 |
+| fertig                                       |             | done                                   |
+| genung                                       |             | enough                                 |
+| statt                                        |             | instead of                             |
+| der Geräte                                   | noun        | devices                                |
+| zuletzt                                      |             | lastly, finally                        |
 
 
 

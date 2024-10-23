@@ -24,6 +24,9 @@ die Kreditkartenzahlung = credit payment
 der Betrag, die Beträge = amout
 der Kontostand, die Kontostände = account balance
 die Mahnung, die Mahnungen = warning, overdue notice 
+der Zahlungsart = payment method
+die Fehlermeldung = Error message
+die Bestätigung, die Bestätigungen = confirmation
 ## Verben
 zur Bank gehen = to go to the bank
 in/bei/auf der Bank sein = to go in the bank 
@@ -40,10 +43,14 @@ ab|buchen = to debit or to charge something
 ein|zahlen = to deposit 
 ein|richten = to set up 
 ein|gehen = to enter or apply
+ein|geben = to input 
 ab|gehen = to be deducted
 schauen = to look 
-
-
+auf|genommen = recorded 
+schulden = to owe
+heraus|gekommen = to come out
 ### Expression 
 Was meinst du damit? = What do you mean by that? 
 dabei = included
+"Geld überweisen" = money transfer
+"Rechnung benzahlen" = pay bill
