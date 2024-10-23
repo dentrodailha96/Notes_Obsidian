@@ -20,6 +20,13 @@ https://learn.microsoft.com/en-us/azure/databricks/connect/external-systems/jdbc
 
 ![[Pasted image 20241022123529.png]]
 
+» WAREHOUSE:
++ Workspace admin or user with unrestricted cluster creation permissions.
+![[Pasted image 20241023153717.png]]
+ + Auto Stop feature stops the warehouse if it's idle for a specified number of minutes. 
++ SQL Warehouse is the resource to compute SQL queries and managing data workload in Databricks. 
++ Characteristics: Elasticity, Dedicated Compute, Concurrency, Caching, Query Optimization.
+
 » CREATE TABLE: 
  + EXTERNAL TABLE: when creating an external table you must also provide a location clause. AND when it is dropped, the files at the location will NOT BE dropped. 
  + Support adding descriptive comment for the table:

@@ -13,3 +13,6 @@
 * [[Distributed file System - DBFS]] 
 * [[Databricks Repo]]
 * [[Cluster]]
+* [[Auto loader]]
++ Databricks uses [[The multi-hop architecture]].
++ [[Catalog Explorer]]
