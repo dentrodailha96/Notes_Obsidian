@@ -7,7 +7,7 @@
 * They have build in version control, but also there is the [[Databricks Repo]].
 
 
-### SQL 
+### [[SQL ]]
 
 + A view in databricks is a virtual table that has no physical data. A SQL query against the actual tables.
 + Temporary view are visible only to the session that created them and dropped when the session ends. 
@@ -27,8 +27,8 @@ https://learn.microsoft.com/en-us/azure/databricks/connect/external-systems/jdbc
 + SQL Warehouse is the resource to compute SQL queries and managing data workload in Databricks. 
 + Characteristics: Elasticity, Dedicated Compute, Concurrency, Caching, Query Optimization.
 
-» CREATE TABLE: 
- + EXTERNAL TABLE: when creating an external table you must also provide a location clause. AND when it is dropped, the files at the location will NOT BE dropped. 
+» CREATE TABLE AS SELECT (CTAS): 
+ + EXTERNAL TABLE: when creating an external table you must also provide a location clause. AND when it is dropped, the files at the location will NOT BE dropped.  
  + Support adding descriptive comment for the table:
 ![[Pasted image 20241022124111.png]]
 

@@ -21,7 +21,7 @@
 » Pipelines: 
 + Require declare a target schema to publish to the Hive metastore or a target catalog and target schema to publish to Unity Catalog. 
 
-» Triggers pipelines update each table with whatever data is currently available and then they shut down. 
+» [[Triggers]] pipelines update each table with whatever data is currently available and then they shut down. 
 + In Development mode the development process is eased by reusing a cluster to avoid the overhead of restarts, and *the cluster runs for two hours when the development mode is enabled.* 
 + In Production mode the terminates the cluster immediately when the pipeline is stopped, restarts the cluster for recoverable errors, retries execution in case of specific errors. *Once an update is started, it continues to run until the pipeline is shut down.*
 
@@ -33,8 +33,6 @@
 + CREATE TABLE: In DLT pipelines, we use the `**CREATE LIVE TABLE**` syntax to create a table with SQL. To query another live table, prepend the `**LIVE.**` keyword to the table name.
 
 ![[Pasted image 20241023153327.png]]
-
-
 
 » Expectations are optional clauses you add to DLT dataset declarations that apply data quality check on each record passing through a query.
 
