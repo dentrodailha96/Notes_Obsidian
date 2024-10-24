@@ -4,26 +4,6 @@
     "type": "split",
     "children": [
       {
-        "id": "ce65ab5333330df8",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "66591ffbd8daa665",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/Wörterbuch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wörterbuch"
-            }
-          }
-        ]
-      },
-      {
         "id": "2066eade1bc3ee00",
         "type": "tabs",
         "children": [
@@ -33,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/die Bank.md",
+                "file": "Vocabulary/der Familienstand.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "die Bank"
+              "title": "der Familienstand"
             }
           }
         ]
@@ -72,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "niec",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,8 +73,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -186,8 +165,18 @@
   },
   "active": "83bd3dd70acfe37b",
   "lastOpenFiles": [
-    "Vocabulary/Wörterbuch.md",
+    "Vocabulary/Familiengeschichten.md",
+    "Vocabulary/der Familienstand.md",
+    "01 - Excalidraw/Prints/Pasted image 20241024172838.png",
+    "Declinations/Genitiv.md",
+    "01 - Excalidraw/Prints/Pasted image 20241024173721.png",
+    "01 - Excalidraw/Prints/Pasted image 20241024173423.png",
+    "Declinations/Dativ.md",
+    "Declinations/Nominativ.md",
+    "01 - Excalidraw/Prints/Pasted image 20241024173055.png",
+    "Pasted image 20241024173027.png",
     "Vocabulary/die Bank.md",
+    "Vocabulary/Wörterbuch.md",
     "01 - Excalidraw/Prints/Pasted image 20241023095351.png",
     "Grammar/Wenn.md",
     "01 - Excalidraw/Prints/Pasted image 20241023100148.png",
@@ -195,18 +184,11 @@
     "Pasted image 20241023095534.png",
     "01 - Excalidraw/Prints/Pasted image 20241023095031.png",
     "Vocabulary/Word with ung.md",
-    "01 - Excalidraw/Prints/Pasted image 20241022091202.png",
     "Grammar/Adjektivendungen.md",
-    "Declinations/Dativ.md",
-    "01 - Excalidraw/Prints/Pasted image 20241018103204.png",
-    "01 - Excalidraw/Prints/Pasted image 20241018102834.png",
     "Declinations/Akkusativ.md",
-    "Declinations/Nominativ.md",
     "Grammar/Subordinate Clauses.md",
     "Questions/Indirect Interrogative.md",
-    "01 - Excalidraw/Prints/Pasted image 20241017163408.png",
     "Questions/Kauszätze Weil vs Denn.md",
-    "01 - Excalidraw/Prints/Pasted image 20241017155459.png",
     "Verb/das Futur I.md",
     "Vocabulary/Plans.md",
     "Vocabulary/Die Farben.md",
@@ -219,8 +201,6 @@
     "Verb/das Präteritum.md",
     "Vocabulary/Charaktereigenschaften.md",
     "Verb/das Perfekt.md",
-    "Verb/Vergangenheit.md",
-    "Verb/Haben und Sein.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",
