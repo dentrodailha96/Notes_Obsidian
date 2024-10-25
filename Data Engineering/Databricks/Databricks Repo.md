@@ -1,4 +1,4 @@
-- Provides source control for the fata projects by integrating with GitHub providers. 
+- Provides source control for data projects by integrating with GitHub providers. 
 - GitHub and Azure DevOps
 
 The following tasks are not supported by Databricks Repos, and must be performed in your Git provider:

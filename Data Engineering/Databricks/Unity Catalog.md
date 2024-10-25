@@ -13,6 +13,7 @@
 * Through Unity Catalog it's possible to ==grant and revoke== access to securable objects at any level in the hierarchy, including the metastore itself. 
 
 >> Usage privilege: controlling access to resources and ensuring that only authorized users can view or manage different parts of the Databricks environment.
+>> [[Catalog Explorer]]
 >Workspace Permissions
 >Cluster Permissions 
 >Job Permissions 

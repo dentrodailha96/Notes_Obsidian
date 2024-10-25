@@ -3,7 +3,7 @@
 * It's possible to create a collaboration (more than one person developing).
 * Magic Command are built in commands that provide the same output regardless of the notebook language. 
 * Create: Workspace -> Create notebook (it's possible to create a folder to create a notebook)
-* %run: runs notebooks in other notebooks. You can override the default language in a cell by using the language magic command at the beginning of a cell. The supported magic commands are: `%python`, `%sql`, `%scala`, and `%r`.
+* %run: runs notebooks in other notebooks. You can overwrite the default language in a cell by using the language magic command at the beginning of a cell. The supported magic commands are: `%python`, `%sql`, `%scala`, and `%r`.
 * They have build in version control, but also there is the [[Databricks Repo]].
 
 
@@ -22,9 +22,10 @@ https://learn.microsoft.com/en-us/azure/databricks/connect/external-systems/jdbc
 
 » WAREHOUSE:
 + Workspace admin or user with unrestricted cluster creation permissions.
+
 ![[Pasted image 20241023153717.png]]
  + Auto Stop feature stops the warehouse if it's idle for a specified number of minutes. 
-+ SQL Warehouse is the resource to compute SQL queries and managing data workload in Databricks. 
+1. SQL Warehouse is the resource to compute SQL queries and managing data workload in Databricks. 
 + Characteristics: Elasticity, Dedicated Compute, Concurrency, Caching, Query Optimization.
 
 » CREATE TABLE AS SELECT (CTAS): 

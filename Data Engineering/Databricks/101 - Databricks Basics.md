@@ -8,7 +8,7 @@
 
 ![[lakehouse_platform]]
 
-* Databricks is based in Spark, where the data is distributed in a cluster. 
+* Databricks is based in [[Apache Spark]], where the data is distributed in a cluster. 
 * Support of Batch and Stream processing
 * [[Distributed file System - DBFS]] 
 * [[Databricks Repo]]
@@ -16,3 +16,4 @@
 * [[Auto loader]]
 + Databricks uses [[The multi-hop architecture]].
 + [[Catalog Explorer]]
+
