@@ -49,7 +49,27 @@ Beispiel:
 + hoch = high 
 + höher = higher 
 + gemütlich = cozy
++ frech = naughty
 
 
 ## Intensity Adverb 
 + weiter = more, continue
+
+## adjectivedungen im [[Genitiv]]
+
+» Mit bestimmte artikel:
+
+![[Pasted image 20241025154403.png]]
+
+» Mit unbestimmte artikel:
+
+![[Pasted image 20241025154614.png]]
+
+» possessiv 
+
+![[Pasted image 20241025154833.png]]
+
+» Ohne Artikel:
+
+![[Pasted image 20241025155036.png]]
+
