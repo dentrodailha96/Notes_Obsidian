@@ -2,11 +2,14 @@
 
 » Tables whose data is stored in an external storage path by using a LOCATION clause. When you run "DROP TABLE" on an external table, only the table's metadata is deleted, while the underlying data files are kept.
 
+### Managed tables
+
+Are tables whose metadata and the data are managed by Databricks. When you run DROP TABLE on a managed table, both the metadata and the underlying data files are deleted. 
+
 ### Delta table
 + Delta lake is integrated with Spark Structured Streaming through readStream and whiteStream. 
 
 » SOURCE: While a streaming query is active against a Delta table, new records are processed idempotently as new table versions commit to the source table.
-
 
 ### Delta Live Tables
 
@@ -22,7 +25,7 @@
 + Require declare a target schema to publish to the Hive metastore or a target catalog and target schema to publish to Unity Catalog. 
 
 » [[Triggers]] pipelines update each table with whatever data is currently available and then they shut down. 
-+ In Development mode the development process is eased by reusing a cluster to avoid the overhead of restarts, and *the cluster runs for two hours when the development mode is enabled.* 
++ In Development mode the development process is eased by reusing a cluster to avoid the overhead of restarts, and *the cluster runs for two hours when the development mode is enabled.* Also, allows disabling pipeline retries so you can immediately detect and fix errors.  
 + In Production mode the terminates the cluster immediately when the pipeline is stopped, restarts the cluster for recoverable errors, retries execution in case of specific errors. *Once an update is started, it continues to run until the pipeline is shut down.*
 
 » QUERIES:
@@ -34,6 +37,10 @@
 
 ![[Pasted image 20241023153327.png]]
 
+* CREATE STREAMING LIVE TABLE: stream data from other tables in the same pipeline by using STREAM(LIVE.).
+![[Pasted image 20241028102852.png]]
+
+
 » Expectations are optional clauses you add to DLT dataset declarations that apply data quality check on each record passing through a query.
 
 An expectation consists of three things:
@@ -43,6 +50,7 @@ An expectation consists of three things:
 - An action to take when a record fails the expectation, meaning the boolean returns false.
 
 + ON VIOLATION DROP ROW: Feature available in DLT where you can check the quality of  your dataset at the time of your load to target table and take action like dropping those invalid record that did not meet your conditions making the job fail. 
++ `ON VIOLATION FAIL UPDATE`, records that violate the expectation will cause the pipeline to fail. When a pipeline fails because of an expectation violation, you must fix the pipeline code to handle the invalid data correctly before re-running the pipeline.
 +  ==CONTRAINS: By default, records violating the constraint will be kept, and reported as invalid in the event log.==
 
 » LIMITATIONS: 

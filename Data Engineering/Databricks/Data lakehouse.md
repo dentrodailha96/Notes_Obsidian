@@ -10,7 +10,9 @@ A data lake is a unified analytics platform that combines the best elements of d
 + Serverless Compute resources run in a serverless compute plane.
 + Classic Databricks compute are cloud services. These clouds are located in Cluster Virutal Machines. 
 
-» Workspace storage bucket:
+» The storage account hosting the customer data is provisioned in the data plane in the Databricks customer's cloud account.
+
+» Workspace storage bucket (computer plane - data processing):
 + Workspace system data is generated as you use databricks features as notebooks, jobs, commands. 
 + DBFS (Databricks file system): Storing and accessing data using DBFS root or DBFS mounts. 
 + Unity catalog workspace catalog: All users in the workspace can create assets in the default schema in this catalog. 

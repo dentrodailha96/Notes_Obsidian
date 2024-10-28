@@ -7,11 +7,12 @@
 * They have build in version control, but also there is the [[Databricks Repo]].
 
 
-### [[SQL ]]
+### SQL 
 
 + A view in databricks is a virtual table that has no physical data. A SQL query against the actual tables.
-+ Temporary view are visible only to the session that created them and dropped when the session ends. 
-+ Global Temporary view that can be accessed in other sessions on the same cluster. They are temporary tied to the cluster: global_temp
++ It's possible to set a schedule to automatically refresh a query from the "query's page".
++ ==Temporary view== are visible only to the session that created them and dropped when the session ends. 
++ ==Global Temporary view== that can be accessed in other sessions on the same cluster. They are temporary tied to the cluster: global_temp
 
 » Query databases using JDBC:
 https://learn.microsoft.com/en-us/azure/databricks/connect/external-systems/jdbc
@@ -32,16 +33,29 @@ https://learn.microsoft.com/en-us/azure/databricks/connect/external-systems/jdbc
  + EXTERNAL TABLE: when creating an external table you must also provide a location clause. AND when it is dropped, the files at the location will NOT BE dropped.  
  + Support adding descriptive comment for the table:
 ![[Pasted image 20241022124111.png]]
+* CTAS statements don't support manual schema declaration. 
 
 » MERGE INTO: merge a set of updates, insertions, and deletions based on a source table into a target Delta table. *Avoiding inserting the duplicate records when writing into Delta Tables.*
 
-» CREATE SCHEMA: creating a database with no specific location clause, the database will be created in the warehouse directory "dbfs:/user/hive/warehouse".
+» CREATE SCHEMA: ==creating a database== with no specific location clause, the database will be created in the warehouse directory "**dbfs:/user/hive/warehouse**". And if we create a table without specifying a directory, it will be created under "**db_hr.db**".
++ `CREATE SCHEMA` is an alias for `CREATE DATABASE` statement. While usage of SCHEMA and DATABASE is interchangeable, SCHEMA is preferred.
+
+» INSERT INTO function:
+INSERT INTO (*table*) VALUES (*entries*)
+
+» TRANSFORM function:
+
+transform(input_array, lambd_function)
+
+Transforms elements in an array expr using the function func. It is a higher order function that returns an output array from an input array by transforming each element in the array using a given lambda function
 
 » FILTER structure: 
 
  filter(input_array, lamda_function)
 
 It is a higher order function that returns an output array from an input array by extracting elements for which the predicate of a lambda function holds.
+
+
 
 ### Python 
 » CREATE FUNCTION (UDF): 

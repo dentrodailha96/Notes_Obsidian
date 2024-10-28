@@ -10,3 +10,6 @@ Code:
 » Auto loader Sources: Amazon, Azure Data Lake Storage, Google Cloud Storage, Azure Blob Storage, ADLS, Databricks File System.
 
 » You do not need to provide a schema or checkpoint location because Delta Live Tables automatically manages these settings for your pipelines. Aka.: *"Auto loader monitors a source location, in which files accumulate, to identify and ingest only new arriving files with each command run. While the files that have already been ingested in previous runs are skipped."*
+
+» Checkpointing: 
+tracking of files in a specific location. This provides exactly-once ingestion guarantees. 

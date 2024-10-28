@@ -6,3 +6,8 @@
 
 ![[Pasted image 20241023182025.png]]
 
+### Extra commands 
+
+* The `DESCRIBE DATABASE` or `DESCRIBE SCHEMA` returns the metadata of an existing database (schema). The metadata information includes the database’s name, comment, and location on the filesystem. If the optional `EXTENDED` option is specified, database properties are also returned.
+
+* The `USAGE` does not give any abilities, but it's an additional requirement to perform any action on a schema (database) object.

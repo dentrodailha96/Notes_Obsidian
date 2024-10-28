@@ -1,5 +1,5 @@
-![[Pasted image 20240830164647.png]]
 
+![[Pasted image 20240830164647.png]]
 
 Superlative:
 
@@ -30,11 +30,42 @@ weniger = less than
 
 ### Komparative und Superlative 
 
+![[Pasted image 20241028171358.png]]
 
-| Normal | Komparative | Superlative |
-| ------ | ----------- | ----------- |
-| gut    | besser      | am besser   |
-| hoch   | höher       | am höchsten |
-| langer | länger      | am längsten |
-| groß   | größer      | am größten  |
-| liebe  | lieber      | am liebsten |
+| Normal | Komparative | Superlative | translation |
+| ------ | ----------- | ----------- | ----------- |
+| gut    | besser      | am besser   |             |
+| hoch   | höher       | am höchsten | high        |
+| langer | länger      | am längsten |             |
+| groß   | größer      | am größten  |             |
+| liebe  | lieber      | am liebsten |             |
+
+
+![[Pasted image 20241028171739.png]]
+
+#### Besonderheiten 
+
+![[Pasted image 20241028171833.png]]
+
+| Adjektiv | Translation |
+| -------- | ----------- |
+| breit    | wide        |
+| wild     | wild        |
+| hübsch   | pretty      |
+| mild     | gentle      |
+| rasch    | quickly     |
+
+![[Pasted image 20241028172120.png]]
+
+| Adjektiv | Translation |
+| -------- | ----------- |
+| arm      | poor        |
+| dumm     | foolish     |
+| gesund   | healthy     |
+| krank    | sick        |
+| scharf   | spicy       |
+| warm     | warm        |
+
+![[Pasted image 20241028172445.png]]
+
+![[Pasted image 20241028172503.png]]

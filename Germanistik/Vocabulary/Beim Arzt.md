@@ -20,6 +20,13 @@
 + der Unfall = accident 
 + die Gehirnerschütterung, die Gehirnerschütterungen = concussion
 
+* der Rollator = andador 
+* der Rollstuhl = cadeira de rodas 
+* die Lupe = lupa
+* die Brille = óculos 
+* der Gehstock = bengala
+* das Hörgerät = hearing aid
+
 ## Verben 
 
 + den Patienten untersuchen = to examine the patient 
