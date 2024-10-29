@@ -8,17 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a8b042ceb7a3f55d",
+            "id": "02d958b13e70035c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Beim Arzt.md",
+                "file": "Text/Expressions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Beim Arzt"
+              "title": "Expressions"
+            }
+          },
+          {
+            "id": "6d295221bad8e958",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Wörterbuch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wörterbuch"
             }
           }
         ]
@@ -73,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -164,10 +177,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6592dd5166c29c5c",
+  "active": "02d958b13e70035c",
   "lastOpenFiles": [
-    "01 - Excalidraw/Prints/Pasted image 20241028172120.png",
+    "Vocabulary/Wörterbuch.md",
+    "Text/Expressions.md",
     "Grammar/Comparative Superlative Forms.md",
+    "01 - Excalidraw/Prints/Pasted image 20241029154404.png",
+    "01 - Excalidraw/Prints/Pasted image 20241029154232.png",
+    "Vocabulary/Beim Arzt.md",
+    "01 - Excalidraw/Prints/Pasted image 20241028172120.png",
     "01 - Excalidraw/Prints/Pasted image 20241028172503.png",
     "01 - Excalidraw/Prints/Pasted image 20241028172445.png",
     "Pasted image 20241028172324.png",
@@ -176,18 +194,15 @@
     "Pasted image 20241028171603.png",
     "Pasted image 20241028171639.png",
     "Grammar/Comparison with als and wie.md",
-    "01 - Excalidraw/Prints/Pasted image 20241028171358.png",
     "Grammar/Preposition.md",
     "Declinations/Dativ.md",
     "Vocabulary/Beschreibe.md",
     "Grammar/Adjektivendungen.md",
     "Declinations/Genitiv.md",
-    "01 - Excalidraw/Prints/Pasted image 20241025154403.png",
     "Vocabulary/der Familienstand.md",
     "Vocabulary/Familiengeschichten.md",
     "Declinations/Nominativ.md",
     "Vocabulary/die Bank.md",
-    "Vocabulary/Wörterbuch.md",
     "Grammar/Wenn.md",
     "Vocabulary/Word with ung.md",
     "Declinations/Akkusativ.md",
@@ -200,7 +215,6 @@
     "Grammar/Dass.md",
     "Vocabulary/die Sportart und der Körper.md",
     "Vocabulary/Charaktereirgenschaften.md",
-    "Grammar/zwar … aber Satz.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",

@@ -621,6 +621,8 @@
 | statt                                        |             | instead of                             |
 | der Geräte                                   | noun        | devices                                |
 | zuletzt                                      |             | lastly, finally                        |
+| die Pflegeheim                               |             | nurse house                            |
+| hoffen                                       | Verb        | to hope                                |
 
 
 

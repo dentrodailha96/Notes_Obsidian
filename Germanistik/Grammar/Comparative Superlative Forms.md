@@ -69,3 +69,38 @@ weniger = less than
 ![[Pasted image 20241028172445.png]]
 
 ![[Pasted image 20241028172503.png]]
+
+
+### How to make comparisons 
+
+#### Vergleiche
+» Positiv (Grundform):
+Heute ist es ==so/genauso/nicht so== warm ==wie== gestern.
+
+| expression | translate |
+| ---------- | --------- |
+| so         | as        |
+| genauso    | as        |
+| nicht so   | not as    |
+| fast so    | almost as |
+| doppelt so | twice     |
+| halb so    | half as   |
+
+» Komparativ 
+Mario läuft schneller ==als== Peter. 
+
+als = than 
+
+» Superlativ 
+
+Rudi läuft ==am== schnell==sten==.
+
+München ist ==die== schöns==te== Stadt. 
+
+### Adjektivdeklination 
+
+![[Pasted image 20241029154232.png]]
+
+![[Pasted image 20241029154404.png]]
+
+
