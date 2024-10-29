@@ -13,13 +13,21 @@ Are tables whose metadata and the data are managed by Databricks. When you run D
 
 ### Delta Live Tables
 
-» CONCEPT: Declarative framework for building reliable, maintainable and testable data processing pipelines. Define streaming tables and materialize views that the system should create and keep up to date. 
+» CONCEPT: Declarative ETL framework for building reliable, maintainable and testable data processing pipelines. Define streaming tables and materialize views that the system should create and keep up to date. 
 	==AKA.: Manages how your data is transformed based on queries you define for each processing step.==
 
 » DTL Datasets:
 + Streaming table: Each record is processed exactly once. Append-only source. Streaming tables are optimal for pipelines that require data freshness and low latency (minimal delay). Streaming tables can also be useful for massive scale transformations, as results can be incrementally calculated as new data arrives, keeping results up to date without needing to fully recompute all source data with each update.
 + Materialized views: processed data with expected results from the dataset. It will run transformations, aggregations or pre-computing slow queries and frequently used computations. This view makes possible to store the result of a query and update it time to time, avoiding to run the query every time that is needed. 
 + Views: Records are processed when the query runs, usually used for data checks. Delta Live Tables does not publish views to the catalog, so views can be referenced only within the pipeline in which they are defined.
+
+» Change Data Capture (CDC): this simplifies changes, it is logged at the source as events that contains both the data of the records along with metadata information: 
++ Operation column indicating weather the specified record was inserted, updated or deleted
++ Sequence column that is usually a timestamp indicating the order in which changes happens. 
+
+==You can use the `APPLY CHANGES INTO` statement to use Delta Live Tables CDC functionality==
+
++ The `APPLY CHANGES` API is supported in the Delta Live Tables SQL and Python interfaces. The `APPLY CHANGES FROM SNAPSHOT` API is supported in the Delta Live Tables Python interface.
 
 » Pipelines: 
 + Require declare a target schema to publish to the Hive metastore or a target catalog and target schema to publish to Unity Catalog. 
@@ -39,7 +47,6 @@ Are tables whose metadata and the data are managed by Databricks. When you run D
 
 * CREATE STREAMING LIVE TABLE: stream data from other tables in the same pipeline by using STREAM(LIVE.).
 ![[Pasted image 20241028102852.png]]
-
 
 » Expectations are optional clauses you add to DLT dataset declarations that apply data quality check on each record passing through a query.
 

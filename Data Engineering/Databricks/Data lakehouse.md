@@ -8,7 +8,9 @@ A data lake is a unified analytics platform that combines the best elements of d
 ![[Pasted image 20241022162555.png]]
 
 + Serverless Compute resources run in a serverless compute plane.
-+ Classic Databricks compute are cloud services. These clouds are located in Cluster Virutal Machines. 
++ Classic Databricks compute are cloud services. *These clouds are located in Cluster Virutal Machines.* 
++ The cluster virtual machines and storage are located in customer's cloud account. 
+![[lakehouse_platform]]
 
 » The storage account hosting the customer data is provisioned in the data plane in the Databricks customer's cloud account.
 

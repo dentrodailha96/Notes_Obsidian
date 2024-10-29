@@ -1,4 +1,4 @@
-+ Also called Data Explorer
++ Also called ==Data Explorer==
 + UI to manage data, schemas, tables, models etc. The primary functions are finding data assets (find schemas, tables, preview data) and managing unity catalog and delta sharing (grant and revoke permissions of objects).
 
 #### Grant permissions 

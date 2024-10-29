@@ -3,7 +3,7 @@
 ### Transaction Log
 
 * All ACID actions are recorded in the transaction log as ordered, atomicity (one action at the time).
-* When a user creates a Delta Lake table, that table’s transaction log is automatically created in the `**_delta_log**` subdirectory. Each commit is written out as a JSON file.
+* When a user creates a Delta Lake table, that table’s transaction log is automatically created in the `**_delta_log**` subdirectory. *Each commit is written out as a JSON file.*
 
 ![[Pasted image 20241028090247.png]]
 

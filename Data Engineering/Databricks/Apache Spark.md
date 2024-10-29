@@ -20,3 +20,6 @@ Cluster Managers:
 ### Architecture
 ![[Pasted image 20240930124709.png]]
 
+### Commands 
+
+»» `spark.table()` function returns the specified Spark SQL table as a PySpark DataFrame.
