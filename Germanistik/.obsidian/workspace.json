@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Text/Expressions.md",
+                "file": "Grammar/Obwohl.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Expressions"
+              "title": "Obwohl"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/Chores.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wörterbuch"
+              "title": "Chores"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -177,9 +178,15 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02d958b13e70035c",
+  "active": "6d295221bad8e958",
   "lastOpenFiles": [
     "Vocabulary/Wörterbuch.md",
+    "Vocabulary/Chores.md",
+    "Grammar/Obwohl.md",
+    "Pasted image 20241030134901.png",
+    "Pasted image 20241030134837.png",
+    "Pasted image 20241030134152.png",
+    "Pasted image 20241030133821.png",
     "Text/Expressions.md",
     "Grammar/Comparative Superlative Forms.md",
     "01 - Excalidraw/Prints/Pasted image 20241029154404.png",
@@ -189,10 +196,6 @@
     "01 - Excalidraw/Prints/Pasted image 20241028172503.png",
     "01 - Excalidraw/Prints/Pasted image 20241028172445.png",
     "Pasted image 20241028172324.png",
-    "01 - Excalidraw/Prints/Pasted image 20241028171739.png",
-    "01 - Excalidraw/Prints/Pasted image 20241028171833.png",
-    "Pasted image 20241028171603.png",
-    "Pasted image 20241028171639.png",
     "Grammar/Comparison with als and wie.md",
     "Grammar/Preposition.md",
     "Declinations/Dativ.md",
@@ -213,8 +216,6 @@
     "Vocabulary/Plans.md",
     "Vocabulary/Die Farben.md",
     "Grammar/Dass.md",
-    "Vocabulary/die Sportart und der Körper.md",
-    "Vocabulary/Charaktereirgenschaften.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",
