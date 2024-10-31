@@ -5,7 +5,7 @@ A data lake is a unified analytics platform that combines the best elements of d
 
 » High Level Architecture:
 
-![[Pasted image 20241022162555.png]]
+![[Pasted image 20241030085906.png]]
 
 + Serverless Compute resources run in a serverless compute plane.
 + Classic Databricks compute are cloud services. *These clouds are located in Cluster Virutal Machines.* 
@@ -19,6 +19,8 @@ A data lake is a unified analytics platform that combines the best elements of d
 + DBFS (Databricks file system): Storing and accessing data using DBFS root or DBFS mounts. 
 + Unity catalog workspace catalog: All users in the workspace can create assets in the default schema in this catalog. 
 
+#### Data Lakehouse improvements over Data Lake 
+One of the key features of a data lakehouse that results in improved data quality over a traditional data lake is its support for ACID (Atomicity, Consistency, Isolation, Durability) transactions. ACID transactions provide data integrity and consistency guarantees, ensuring that operations on the data are reliable and that data is not left in an inconsistent state due to failures or concurrent access.
 ### Commands
 » VACUUM: remove *unused files* from a table directory.
 	When vacuum a delta table, it not possible to time travel back to a version older than the specified data retention period. 

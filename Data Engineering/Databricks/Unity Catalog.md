@@ -20,6 +20,7 @@
 >Table/SQL Permissions 
 >Groups or role-based access control
 
+
 ### Data Explorer
 * change the owner field of the table, schema etc. 
 

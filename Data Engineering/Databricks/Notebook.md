@@ -33,6 +33,9 @@ https://learn.microsoft.com/en-us/azure/databricks/connect/external-systems/jdbc
  + EXTERNAL TABLE: when creating an external table you must also provide a location clause. AND when it is dropped, the files at the location will NOT BE dropped.  
  + Support adding descriptive comment for the table:
 ![[Pasted image 20241022124111.png]]
+
+Table Property to add additional metadata. But you cannot view that property when you describe the table. With the Comment "this is ..." anyone who describe the table will see the comment.
+
 * ==CTAS statements don't support manual schema declaration.== 
 
 » MERGE INTO: merge a set of updates, insertions, and deletions based on a source table into a target Delta table. *Avoiding inserting the duplicate records when writing into Delta Tables.*
@@ -54,8 +57,13 @@ Transforms elements in an array expr using the function func. It is a higher ord
  filter(input_array, lamda_function)
 
 It is a higher order function that returns an output array from an input array by extracting elements for which the predicate of a lambda function holds.
+
+» COPY INTO statement: 
++ Used to copy data from files or a location into a table. If the data engineer runs this statement daily to copy the previous day’s sales into the "transactions" table and the number of records hasn't changed after today's execution, it's possible that the data from today's file might not have differed from the data already present in the table.
++ Transaction is an external table.
 ### Python 
+
 » CREATE FUNCTION (UDF): 
 
-![[Pasted image 20241022154554.png]]
+![[Pasted image 20241030115125.png]]
 

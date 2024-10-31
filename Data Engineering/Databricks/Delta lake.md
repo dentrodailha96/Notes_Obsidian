@@ -1,4 +1,5 @@
 * Delta Lake is built on top of Apache Spark in order to allow multiples readers and writes of a given table to all work on the table at the same time. To promote this, uses "logs", repositories that tracks all changes that users makes to the table. 
+* open-source storage layer that brings reliability to data lakes by adding ACID transactions, data versioning and schema enforcement. 
 
 ### Transaction Log
 

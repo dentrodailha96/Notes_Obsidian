@@ -8,13 +8,16 @@ Are tables whose metadata and the data are managed by Databricks. When you run D
 
 ### Delta table
 + Delta lake is integrated with Spark Structured Streaming through readStream and whiteStream. 
++ Table format that uses Delta Lake to store trustful data with ACID transactions, schema enforcement, time travel, and other features. It's essentially a data type stored in Delta Lake format. 
 
 » SOURCE: While a streaming query is active against a Delta table, new records are processed idempotently as new table versions commit to the source table.
 
 ### Delta Live Tables
 
-» CONCEPT: Declarative ETL framework for building reliable, maintainable and testable data processing pipelines. Define streaming tables and materialize views that the system should create and keep up to date. 
+» CONCEPT: ==Declarative ETL== framework for building reliable, maintainable and testable data processing pipelines. Define streaming tables and materialize views that the system should create and keep up to date. 
 	==AKA.: Manages how your data is transformed based on queries you define for each processing step.==
+
+Works on top of Delta Tables. 
 
 » DTL Datasets:
 + Streaming table: Each record is processed exactly once. Append-only source. Streaming tables are optimal for pipelines that require data freshness and low latency (minimal delay). Streaming tables can also be useful for massive scale transformations, as results can be incrementally calculated as new data arrives, keeping results up to date without needing to fully recompute all source data with each update.
@@ -31,6 +34,7 @@ Are tables whose metadata and the data are managed by Databricks. When you run D
 
 » Pipelines: 
 + Require declare a target schema to publish to the Hive metastore or a target catalog and target schema to publish to Unity Catalog. 
++ ==Pipeline page== provides information regarding dropped record, violations of expectation and other data quality metrics. 
 
 » [[Triggers]] pipelines update each table with whatever data is currently available and then they shut down. 
 + In Development mode the development process is eased by reusing a cluster to avoid the overhead of restarts, and *the cluster runs for two hours when the development mode is enabled.* Also, allows disabling pipeline retries so you can immediately detect and fix errors.  
@@ -64,3 +68,7 @@ An expectation consists of three things:
 + All DLT are Delta Tables
 + can only be defined once, meaning they can only be target of a single operation in all DLT.
 + Identity Columns are not supported with tales that are target of "apply changes into" an might be recomputed during updates or materialized views. 
+
+### Delta Tables vs. Delta Live Tables 
+
+![[Pasted image 20241031085529.png]]
