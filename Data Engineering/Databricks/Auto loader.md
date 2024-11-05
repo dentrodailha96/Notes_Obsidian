@@ -12,8 +12,10 @@ Code:
 
 » You do not need to provide a schema or checkpoint location because Delta Live Tables automatically manages these settings for your pipelines. Aka.: *"Auto loader monitors a source location, in which files accumulate, to identify and ingest only new arriving files with each command run. While the files that have already been ingested in previous runs are skipped."*
 
+» If added format("cloudFiles), enables to use AutoLoader. 
+
 ####  Checkpointing: 
-tracking of files in a specific location. This provides exactly-once ingestion guarantees. Checkpoints allow the system to restart processing from where it left off in case of failure, ensuring reliability.
+Tracking of files in a specific location. This provides exactly-once ingestion guarantees. Checkpoints allow the system to restart processing from where it left off in case of failure, ensuring reliability.
 
 #### White Ahead Logs: 
 Record the description of the operation. This is used when written down into a durable log, and then the operation is applied to the data. In case of failure of the operation, it can recover by reading the log and reapplying the operations it had intended to do. 

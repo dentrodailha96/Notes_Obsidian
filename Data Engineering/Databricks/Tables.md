@@ -35,6 +35,8 @@ Works on top of Delta Tables.
 » Pipelines: 
 + Require declare a target schema to publish to the Hive metastore or a target catalog and target schema to publish to Unity Catalog. 
 + ==Pipeline page== provides information regarding dropped record, violations of expectation and other data quality metrics. 
++ Delta Live Tables makes possible to declare and maintain data table dependencies. 
++ To create a pipeline using Delta Live Tables is necessary to go to the JOB PAGE.
 
 » [[Triggers]] pipelines update each table with whatever data is currently available and then they shut down. 
 + In Development mode the development process is eased by reusing a cluster to avoid the overhead of restarts, and *the cluster runs for two hours when the development mode is enabled.* Also, allows disabling pipeline retries so you can immediately detect and fix errors.  

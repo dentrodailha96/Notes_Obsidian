@@ -1,10 +1,10 @@
 * Python, SQL, Scala and R 
 * Coding environments allowing you to interactively developing and executing code on databricks.
-* It's possible to create a collaboration (more than one person developing).
+* *It's possible to create a collaboration (more than one person developing).*
 * Magic Command are built in commands that provide the same output regardless of the notebook language. 
 * Create: Workspace -> Create notebook (it's possible to create a folder to create a notebook)
 * %run: runs notebooks in other notebooks. You can overwrite the default language in a cell by using the language magic command at the beginning of a cell. The supported magic commands are: `%python`, `%sql`, `%scala`, and `%r`.
-* They have build in version control, but also there is the [[Databricks Repo]].
+* *They have build in version control*, but also there is the [[Databricks Repo]].
 
 
 ### SQL 
@@ -48,7 +48,7 @@ INSERT INTO (*table*) VALUES (*entries*)
 
 » TRANSFORM function:
 
-transform(input_array, lambd_function)
+transform(input_array, lamba_function)
 
 Transforms elements in an array expr using the function func. It is a higher order function that returns an output array from an input array by transforming each element in the array using a given lambda function
 

@@ -5,8 +5,6 @@
 ![[Pasted image 20241023181955.png]]
 
 ![[Pasted image 20241023182025.png]]
-
-
 ### Job permissions
 + Workspace Administrator: typically has the necessary permissions to manage such resources. So if a Data Engineer leave the company, the ownership of him Delta Tables can be transferred by WA.
 ### Extra commands 

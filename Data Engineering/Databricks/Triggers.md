@@ -13,6 +13,7 @@
 * Default: micro-batches of 500ms.
 * Using "processingTime=" : define a specify duration as a string. 
 * Using "AvailableNow=" : incremental batch processing workloads, a micro-batch processing ahead of processing all available records.
+* Using "Once=True": trigger only one time. 
 
 When moving from time-based interval to using `AvailableNow`, this might result in a micro-batch processing ahead of processing all available records as an incremental batch. When moving from `AvailableNow` to a time-based interval, this might result in continuing to process all records that were available when the last `AvailableNow` job triggered. This is the expected behaviour.
 

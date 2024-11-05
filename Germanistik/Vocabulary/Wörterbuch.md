@@ -623,6 +623,8 @@
 | zuletzt                                      |             | lastly, finally                        |
 | die Pflegeheim                               |             | nurse house                            |
 | hoffen                                       | Verb        | to hope                                |
+| früher                                       |             | previously, in the past                |
+| wiegen                                       |             | to weigh                               |
 
 
 

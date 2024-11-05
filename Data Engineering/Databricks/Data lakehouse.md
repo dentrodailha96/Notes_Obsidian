@@ -19,6 +19,8 @@ A data lake is a unified analytics platform that combines the best elements of d
 + DBFS (Databricks file system): Storing and accessing data using DBFS root or DBFS mounts. 
 + Unity catalog workspace catalog: All users in the workspace can create assets in the default schema in this catalog. 
 
+### Data Plane
+» Hosts the driver and worker nodes of managed cluster.
 #### Data Lakehouse improvements over Data Lake 
 One of the key features of a data lakehouse that results in improved data quality over a traditional data lake is its support for ACID (Atomicity, Consistency, Isolation, Durability) transactions. ACID transactions provide data integrity and consistency guarantees, ensuring that operations on the data are reliable and that data is not left in an inconsistent state due to failures or concurrent access.
 ### Commands
@@ -27,6 +29,6 @@ One of the key features of a data lakehouse that results in improved data qualit
 	For non-Delta table, recursively vacuums directories associated with non-Delta table and remove uncommitted files older than a retention threshold of 7 days.
 
 » OPTIMIZE: Compacts the small files in large ones to speed the query of a table. 
-	Reducing metadata operations, minizing the memory for processes (Disk I/O Overhead), Improving Data Locality and Cache Efficiency (placing related data together), reducing file system limits and fragmentation (concentrating related information) and optimizing data processing in distributed system.  
+	Reducing metadata operations, minizine the memory for processes (Disk I/O Overhead), Improving Data Locality and Cache Efficiency (placing related data together), reducing file system limits and fragmentation (concentrating related information) and optimizing data processing in distributed system.  
 
 » PARTITIONED BY: perform an aggregation or window calculation on each partition independently. It's different from PARTITION because it separate directory STRUCTURES. 
