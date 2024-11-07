@@ -1,0 +1,1 @@
++ Process to read only last data changed in source data since the last pipeline run. 

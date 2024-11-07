@@ -22,3 +22,4 @@ bleiben:
 | ihr      | euer  | eure   | eur   | eure   |
 | Sie/sie  | Ihr   | Ihre   | Ihr   | Ihre   |
 | sie      | ihr   | ihre   | ihr   | ihre   |
+
