@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "02d958b13e70035c",
+            "id": "1118ee42ee19f8cb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Obwohl.md",
+                "file": "Vocabulary/Wörterbuch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Obwohl"
+              "title": "Wörterbuch"
             }
           },
           {
@@ -27,16 +27,36 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Im Hotel.md",
+                "file": "Vocabulary/Transport.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Im Hotel"
+              "title": "Transport"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "ea8ea918ef8133e3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8ad5f24128f8f9c6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Declinations/Akkusativ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Akkusativ"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +87,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "s",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,8 +108,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -179,44 +198,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6592dd5166c29c5c",
+  "active": "6d295221bad8e958",
   "lastOpenFiles": [
-    "Pasted image 20241107161249.png",
-    "01 - Excalidraw/Prints/Pasted image 20241107155906.png",
-    "Vocabulary/Im Hotel.md",
+    "Vocabulary/Wörterbuch.md",
+    "Questions/Fragen.md",
+    "Vocabulary/Transport.md",
+    "01 - Excalidraw/Prints/Pasted image 20241111155144.png",
+    "01 - Excalidraw/Prints/Pasted image 20241111154927.png",
     "Grammar/Relativsätze.md",
+    "01 - Excalidraw/Prints/Pasted image 20241111165834.png",
+    "Questions/Fragewörter.md",
+    "Grammar/Obwohl.md",
+    "Declinations/Akkusativ.md",
+    "Vocabulary/Urlaub.md",
+    "Vocabulary/Plans.md",
+    "Vocabulary/Im Hotel.md",
+    "01 - Excalidraw/Prints/Pasted image 20241107161249.png",
+    "01 - Excalidraw/Prints/Pasted image 20241107155906.png",
     "01 - Excalidraw/Prints/Pasted image 20241107155701.png",
     "01 - Excalidraw/Prints/Pasted image 20241107155442.png",
     "Declinations/Nominativ.md",
     "01 - Excalidraw/Prints/Pasted image 20241105170624.png",
     "Vocabulary/Unterwegs.md",
-    "Questions/Fragewörter.md",
     "Grammar/während und bevor.md",
     "01 - Excalidraw/Prints/Pasted image 20241105171306.png",
     "01 - Excalidraw/Prints/Pasted image 20241105171119.png",
-    "01 - Excalidraw/Prints/Pasted image 20241105170953.png",
-    "01 - Excalidraw/Prints/Pasted image 20241105170857.png",
-    "01 - Excalidraw/Prints/Pasted image 20241105170719.png",
     "Grammar/Deshalb und Trotzdem.md",
     "Grammar/Mit und bei.md",
-    "Vocabulary/Wörterbuch.md",
     "Vocabulary/Anderes als ihr.md",
-    "01 - Excalidraw/Prints/Pasted image 20241105140734.png",
     "Questions/Indirekte Fragesätze.md",
     "Vocabulary/Kinder.md",
     "Verb/Das Verb werden.md",
     "Verb/Complains.md",
-    "Grammar/Obwohl.md",
     "Vocabulary/Chores.md",
     "Text/Expressions.md",
     "Grammar/Comparative Superlative Forms.md",
     "Vocabulary/Beim Arzt.md",
     "Grammar/Comparison with als and wie.md",
     "Grammar/Preposition.md",
-    "Declinations/Dativ.md",
-    "Vocabulary/Beschreibe.md",
-    "Grammar/Adjektivendungen.md",
-    "Declinations/Genitiv.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",

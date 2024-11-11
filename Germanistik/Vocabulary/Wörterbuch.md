@@ -625,6 +625,9 @@
 | hoffen                                       | Verb        | to hope                                |
 | früher                                       |             | previously, in the past                |
 | wiegen                                       |             | to weigh                               |
+| umsteigen                                    | Verb        | to transfer                            |
+| einsteigen                                   | Verb        | to on board the  train                 |
+| aussteigen                                   | Verb        | to get off or disembark                |
 
 
 
