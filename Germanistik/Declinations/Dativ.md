@@ -37,12 +37,12 @@ Wie kann ich Ihnen helfen?
 
 ## Artikel im Dativ
 
-|             | bestimmt | unbestimmt | negativ    |
-| ----------- | -------- | ---------- | ---------- |
-| ==Maskulin==    | ==dem==      | ==einem==      | ==keinem==     |
-| Feminin     | der      | einer      | keiner     |
-| ==Neutral== | ==dem==  | ==einem==  | ==keinem== |
-| Plural      | den+n    | - + n      | keinen + n |
+|              | bestimmt | unbestimmt | negativ    |
+| ------------ | -------- | ---------- | ---------- |
+| ==Maskulin== | ==dem==  | ==einem==  | ==keinem== |
+| Feminin      | der      | einer      | keiner     |
+| ==Neutral==  | ==dem==  | ==einem==  | ==keinem== |
+| Plural       | denen+n  | - + n      | keinen + n |
 
 ## Possessivpronomen im Dativ
 

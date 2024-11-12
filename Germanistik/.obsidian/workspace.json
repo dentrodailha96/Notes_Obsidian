@@ -22,17 +22,31 @@
             }
           },
           {
+            "id": "442404f5a56fa88c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Declinations/Dativ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dativ"
+            }
+          },
+          {
             "id": "6d295221bad8e958",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Transport.md",
+                "file": "Grammar/Relativsätze.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Transport"
+              "title": "Relativsätze"
             }
           }
         ],
@@ -42,6 +56,20 @@
         "id": "ea8ea918ef8133e3",
         "type": "tabs",
         "children": [
+          {
+            "id": "146d657cfc1b12b3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vocabulary/Verabredungen.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Verabredungen"
+            }
+          },
           {
             "id": "8ad5f24128f8f9c6",
             "type": "leaf",
@@ -87,7 +115,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "s",
+                "query": "umstei",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -198,18 +226,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6d295221bad8e958",
+  "active": "442404f5a56fa88c",
   "lastOpenFiles": [
+    "Declinations/Akkusativ.md",
+    "Declinations/Dativ.md",
+    "Grammar/Relativsätze.md",
+    "Vocabulary/eine Fahrkarte kaufen.md",
+    "Vocabulary/Verabredungen.md",
+    "Vocabulary/Der Ticketautomat.md",
+    "01 - Excalidraw/Prints/Pasted image 20241112094252.png",
+    "01 - Excalidraw/Prints/Pasted image 20241112095113.png",
+    "01 - Excalidraw/Prints/Pasted image 20241112094702.png",
+    "Vocabulary/Transport.md",
     "Vocabulary/Wörterbuch.md",
     "Questions/Fragen.md",
-    "Vocabulary/Transport.md",
     "01 - Excalidraw/Prints/Pasted image 20241111155144.png",
     "01 - Excalidraw/Prints/Pasted image 20241111154927.png",
-    "Grammar/Relativsätze.md",
     "01 - Excalidraw/Prints/Pasted image 20241111165834.png",
     "Questions/Fragewörter.md",
     "Grammar/Obwohl.md",
-    "Declinations/Akkusativ.md",
     "Vocabulary/Urlaub.md",
     "Vocabulary/Plans.md",
     "Vocabulary/Im Hotel.md",
@@ -218,11 +253,8 @@
     "01 - Excalidraw/Prints/Pasted image 20241107155701.png",
     "01 - Excalidraw/Prints/Pasted image 20241107155442.png",
     "Declinations/Nominativ.md",
-    "01 - Excalidraw/Prints/Pasted image 20241105170624.png",
     "Vocabulary/Unterwegs.md",
     "Grammar/während und bevor.md",
-    "01 - Excalidraw/Prints/Pasted image 20241105171306.png",
-    "01 - Excalidraw/Prints/Pasted image 20241105171119.png",
     "Grammar/Deshalb und Trotzdem.md",
     "Grammar/Mit und bei.md",
     "Vocabulary/Anderes als ihr.md",
@@ -232,10 +264,6 @@
     "Verb/Complains.md",
     "Vocabulary/Chores.md",
     "Text/Expressions.md",
-    "Grammar/Comparative Superlative Forms.md",
-    "Vocabulary/Beim Arzt.md",
-    "Grammar/Comparison with als and wie.md",
-    "Grammar/Preposition.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",

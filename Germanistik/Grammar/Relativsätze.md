@@ -1,4 +1,5 @@
 + relative clause 
++ Diese Präposition steht direkt nach dem Nomen, worüber wir sprechen. 
 
 ![[Pasted image 20241107155442.png]]
 
@@ -21,3 +22,10 @@ The preposition will always be with the relative article.
 ![[Pasted image 20241111165834.png]]
 
 
+### Dativ 
+
+![[Pasted image 20241112094252.png]]
+
+![[Pasted image 20241112094702.png]]
+
+![[Pasted image 20241112095113.png]]
