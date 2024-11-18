@@ -14,5 +14,7 @@ Connect it with PowerBI: https://developers.sap.com/group.data-warehouse-cloud-b
 
 Connect it with Data Lake: https://community.sap.com/t5/technology-blogs-by-sap/sap-datasphere-replication-flow-from-s-4hana-to-azure-data-lake/ba-p/13585656
 
+S/4HANA Cloud Connection to Datasphere: https://community.sap.com/t5/technology-blogs-by-members/how-to-connect-s4hana-public-cloud-with-sap-datasphere/ba-p/13805917
+
 https://learn.microsoft.com/en-us/azure/data-factory/industry-sap-connectors
 

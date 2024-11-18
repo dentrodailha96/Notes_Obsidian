@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declinations/Dativ.md",
+                "file": "Verb/Reflexive Verb.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dativ"
+              "title": "Reflexive Verb"
             }
           },
           {
@@ -58,20 +58,6 @@
         "children": [
           {
             "id": "146d657cfc1b12b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/Verabredungen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Verabredungen"
-            }
-          },
-          {
-            "id": "8ad5f24128f8f9c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -115,7 +101,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "umstei",
+                "query": "mich",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +122,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -229,8 +216,16 @@
   "active": "442404f5a56fa88c",
   "lastOpenFiles": [
     "Declinations/Akkusativ.md",
+    "Verb/Reflexive Verb.md",
+    "Pasted image 20241118114410.png",
+    "Declinations/Nominativ.md",
     "Declinations/Dativ.md",
+    "01 - Excalidraw/Prints/Pasted image 20241118105414.png",
+    "01 - Excalidraw/Prints/Pasted image 20241118111954.png",
     "Grammar/Relativsätze.md",
+    "01 - Excalidraw/Prints/Pasted image 20241118110650.png",
+    "01 - Excalidraw/Prints/Pasted image 20241118110313.png",
+    "Declinations/Genitiv.md",
     "Vocabulary/eine Fahrkarte kaufen.md",
     "Vocabulary/Verabredungen.md",
     "Vocabulary/Der Ticketautomat.md",
@@ -242,17 +237,11 @@
     "Questions/Fragen.md",
     "01 - Excalidraw/Prints/Pasted image 20241111155144.png",
     "01 - Excalidraw/Prints/Pasted image 20241111154927.png",
-    "01 - Excalidraw/Prints/Pasted image 20241111165834.png",
     "Questions/Fragewörter.md",
     "Grammar/Obwohl.md",
     "Vocabulary/Urlaub.md",
     "Vocabulary/Plans.md",
     "Vocabulary/Im Hotel.md",
-    "01 - Excalidraw/Prints/Pasted image 20241107161249.png",
-    "01 - Excalidraw/Prints/Pasted image 20241107155906.png",
-    "01 - Excalidraw/Prints/Pasted image 20241107155701.png",
-    "01 - Excalidraw/Prints/Pasted image 20241107155442.png",
-    "Declinations/Nominativ.md",
     "Vocabulary/Unterwegs.md",
     "Grammar/während und bevor.md",
     "Grammar/Deshalb und Trotzdem.md",
@@ -261,9 +250,6 @@
     "Questions/Indirekte Fragesätze.md",
     "Vocabulary/Kinder.md",
     "Verb/Das Verb werden.md",
-    "Verb/Complains.md",
-    "Vocabulary/Chores.md",
-    "Text/Expressions.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",

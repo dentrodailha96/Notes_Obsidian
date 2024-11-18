@@ -29,3 +29,10 @@ The preposition will always be with the relative article.
 ![[Pasted image 20241112094702.png]]
 
 ![[Pasted image 20241112095113.png]]
+
+### Genitiv
+
+![[Pasted image 20241118105414.png]]
+
+![[Pasted image 20241118110313.png]]
+![[Pasted image 20241118110650.png]]
