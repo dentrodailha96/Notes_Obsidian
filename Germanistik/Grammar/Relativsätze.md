@@ -36,3 +36,27 @@ The preposition will always be with the relative article.
 
 ![[Pasted image 20241118110313.png]]
 ![[Pasted image 20241118110650.png]]
+
+
+### Relativpronomen wer und was
+
+![[Pasted image 20241119171043.png]]
+
+### Was 
+* Non live things 
+* used with demonstrative and interrogative pronouns.
+
+![[Pasted image 20241119171221.png]]
+
+![[Pasted image 20241119171323.png]]
+
+* with nominalized Superlative of adjectives
+![[Pasted image 20241119171514.png]]
+
+![[Pasted image 20241119171536.png]]
+
+### Wer
++ mit Personen
++ with non-specific person 
+![[Pasted image 20241119171814.png]]![[Pasted image 20241119171826.png]]
+

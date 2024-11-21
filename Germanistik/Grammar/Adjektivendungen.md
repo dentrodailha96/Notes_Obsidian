@@ -73,3 +73,6 @@ Beispiel:
 
 ![[Pasted image 20241025155036.png]]
 
+## Preposition 
+
+![[Pasted image 20241121212719.png]]

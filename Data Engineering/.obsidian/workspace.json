@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "5 - How to create Business Roles in SAP Fiori App"
             }
+          },
+          {
+            "id": "8ceb69bff7c60572",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.7.7"
+              },
+              "icon": "lucide-file",
+              "title": "Release Notes 1.7.7"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -178,7 +190,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b68ac7521bb3cb4c",
+  "active": "8ceb69bff7c60572",
   "lastOpenFiles": [
     "SAP/What is a communication system.md",
     "SAP/User Creation and Authorization in the SAP S4HANA Cloud Starter System.md",
