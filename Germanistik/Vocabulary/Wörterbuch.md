@@ -323,7 +323,7 @@
 | tailen                                       |             | to share                               |
 | Teilzeit                                     | noun        | Part time                              |
 | telefonieren                                 |             | to telephone                           |
-| trauring                                     | Adjective   | sab                                    |
+| trauring                                     | Adjective   | sad                                    |
 | Treffen                                      |             | to meet                                |
 | treiben                                      |             | do sports                              |
 | trennbar                                     |             | separable                              |
@@ -529,7 +529,7 @@
 | tailen                                       |             | to share                               |
 | Teilzeit                                     | noun        | Part time                              |
 | telefonieren                                 |             | to telephone                           |
-| trauring                                     | Adjective   | sab                                    |
+| trauring                                     | Adjective   | sad                                    |
 | Treffen                                      |             | to meet                                |
 | treiben                                      |             | do sports                              |
 | trennbar                                     |             | separable                              |

@@ -4,39 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "2066eade1bc3ee00",
+        "id": "5c9c511e3424636b",
         "type": "tabs",
         "children": [
           {
-            "id": "1118ee42ee19f8cb",
+            "id": "02eb5af04cd9fc8a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Wörterbuch.md",
+                "file": "Vocabulary/Das macht mir Spaß.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Wörterbuch"
+              "title": "Das macht mir Spaß"
             }
           },
           {
-            "id": "442404f5a56fa88c",
+            "id": "28d715ab67bc0095",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Das meinen Sie nicht ernst.md",
+                "file": "Declinations/Dativ.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das meinen Sie nicht ernst"
+              "title": "Dativ"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Unterr",
+                "query": "trau",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,13 +177,21 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "442404f5a56fa88c",
+  "active": "02eb5af04cd9fc8a",
   "lastOpenFiles": [
-    "Pasted image 20241124233041.png",
-    "01 - Excalidraw/Prints/Pasted image 20241124224614.png",
+    "Pasted image 20241126230719.png",
+    "Declinations/Dativ.md",
+    "Vocabulary/Das macht mir Spaß.md",
+    "Vocabulary/Wörterbuch.md",
+    "01 - Excalidraw/Prints/Pasted image 20241126222658.png",
+    "Verb/Präteritum - Regelmäßig Verben.md",
+    "01 - Excalidraw/Prints/Pasted image 20241126224214.png",
+    "01 - Excalidraw/Prints/Pasted image 20241126223156.png",
+    "Verb/Präteritum - Modalverben.md",
     "Vocabulary/Das meinen Sie nicht ernst.md",
+    "01 - Excalidraw/Prints/Pasted image 20241124233041.png",
+    "01 - Excalidraw/Prints/Pasted image 20241124224614.png",
     "Verb/Complains.md",
-    "Verb/Modalverben im Präteritum.md",
     "01 - Excalidraw/Prints/Pasted image 20241124225009.png",
     "Verb/Modalverben.md",
     "Grammar/Adjektivendungen.md",
@@ -194,28 +201,20 @@
     "Grammar/Indefinitpronomen.md",
     "01 - Excalidraw/Prints/Pasted image 20241121205744.png",
     "01 - Excalidraw/Prints/Pasted image 20241121205721.png",
-    "01 - Excalidraw/Prints/Pasted image 20241121205528.png",
-    "01 - Excalidraw/Prints/Pasted image 20241121205437.png",
-    "01 - Excalidraw/Prints/Pasted image 20241121205236.png",
-    "01 - Excalidraw/Prints/Pasted image 20241121205219.png",
     "Grammar/Relativsätze.md",
     "Verb/Reflexive Verb.md",
     "Declinations/Akkusativ.md",
     "Declinations/Nominativ.md",
-    "Declinations/Dativ.md",
     "Declinations/Genitiv.md",
     "Vocabulary/eine Fahrkarte kaufen.md",
     "Vocabulary/Verabredungen.md",
     "Vocabulary/Der Ticketautomat.md",
     "Vocabulary/Transport.md",
-    "Vocabulary/Wörterbuch.md",
     "Questions/Fragen.md",
     "Questions/Fragewörter.md",
     "Grammar/Obwohl.md",
     "Vocabulary/Urlaub.md",
     "Vocabulary/Plans.md",
-    "Vocabulary/Im Hotel.md",
-    "Vocabulary/Unterwegs.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",
