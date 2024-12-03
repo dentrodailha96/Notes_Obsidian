@@ -628,6 +628,11 @@
 | umsteigen                                    | Verb        | to transfer                            |
 | einsteigen                                   | Verb        | to on board the  train                 |
 | aussteigen                                   | Verb        | to get off or disembark                |
+| der Reifen, die Reifen                       | Noun        | tire                                   |
+| Werbung                                      |             | internet                               |
+| benutzen                                     | Vetb        | to use                                 |
+| häufig                                       |             | oft                                    |
+
 
 
 

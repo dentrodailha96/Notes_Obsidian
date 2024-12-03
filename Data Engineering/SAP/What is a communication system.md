@@ -10,5 +10,5 @@
 
 ### Business Role for CBC to S4 
 
-https://userapps.support.sap.com/sap/support/knowledge/en/3307124
+Business Role demanded to access CBC objects in S4HANA Cloud: https://userapps.support.sap.com/sap/support/knowledge/en/3307124
 

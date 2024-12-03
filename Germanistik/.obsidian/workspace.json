@@ -4,38 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5c9c511e3424636b",
+        "id": "4230e79175e72714",
         "type": "tabs",
         "children": [
           {
-            "id": "02eb5af04cd9fc8a",
+            "id": "69e429f2e9d9ff1b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verb/Präteritum - Unregelmäßige Verben.md",
+                "file": "Text/Auf dem Land oder in der Stadt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Präteritum - Unregelmäßige Verben"
+              "title": "Auf dem Land oder in der Stadt"
             }
           },
           {
-            "id": "28d715ab67bc0095",
+            "id": "4baaffbb86d51a2b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declinations/Dativ.md",
+                "file": "Vocabulary/Wörterbuch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Dativ"
+              "title": "Wörterbuch"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -66,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "trau",
+                "query": "als",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,44 +178,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "02eb5af04cd9fc8a",
+  "active": "4baaffbb86d51a2b",
   "lastOpenFiles": [
-    "Pasted image 20241129163419.png",
-    "Pasted image 20241129162944.png",
-    "Pasted image 20241129162359.png",
-    "Verb/Präteritum - Regelmäßig Verben.md",
-    "Verb/Präteritum - Unregelmäßige Verben.md",
-    "Vocabulary/Das macht mir Spaß.md",
-    "01 - Excalidraw/Prints/Pasted image 20241126230719.png",
+    "Declinations/Genitiv.md",
+    "Text/Auf dem Land oder in der Stadt.md",
+    "01 - Excalidraw/Prints/Pasted image 20241203100436.png",
+    "Vocabulary/Das ist mir wichtig.md",
     "Declinations/Dativ.md",
-    "Vocabulary/Wörterbuch.md",
-    "01 - Excalidraw/Prints/Pasted image 20241126222658.png",
-    "01 - Excalidraw/Prints/Pasted image 20241126224214.png",
-    "01 - Excalidraw/Prints/Pasted image 20241126223156.png",
-    "Verb/Präteritum - Modalverben.md",
-    "Vocabulary/Das meinen Sie nicht ernst.md",
-    "01 - Excalidraw/Prints/Pasted image 20241124233041.png",
-    "01 - Excalidraw/Prints/Pasted image 20241124224614.png",
-    "Verb/Complains.md",
-    "01 - Excalidraw/Prints/Pasted image 20241124225009.png",
-    "Verb/Modalverben.md",
-    "Grammar/Adjektivendungen.md",
-    "01 - Excalidraw/Prints/Pasted image 20241121212719.png",
-    "Vocabulary/Das hört sich gut an.md",
-    "Grammar/Indefinitpronomen.md",
-    "Grammar/Relativsätze.md",
-    "Verb/Reflexive Verb.md",
     "Declinations/Akkusativ.md",
     "Declinations/Nominativ.md",
-    "Declinations/Genitiv.md",
+    "Text/Als Kind.md",
+    "01 - Excalidraw/Prints/Pasted image 20241203092509.png",
+    "Vocabulary/Das macht mir Sorgen.md",
+    "01 - Excalidraw/Prints/Pasted image 20241202141527.png",
+    "Verb/Reflexive Verb.md",
+    "Grammar/Relativsätze.md",
+    "Grammar/Nebensätze mit als.md",
+    "01 - Excalidraw/Prints/Pasted image 20241129162359.png",
+    "01 - Excalidraw/Prints/Pasted image 20241202102301.png",
+    "01 - Excalidraw/Prints/Pasted image 20241202102133.png",
+    "01 - Excalidraw/Prints/Pasted image 20241202101901.png",
+    "Verb/Präteritum - Unregelmäßige Verben.md",
+    "01 - Excalidraw/Prints/Pasted image 20241129163419.png",
+    "01 - Excalidraw/Prints/Pasted image 20241129162944.png",
+    "Verb/Präteritum - Regelmäßig Verben.md",
+    "Vocabulary/Das macht mir Spaß.md",
+    "01 - Excalidraw/Prints/Pasted image 20241126230719.png",
+    "Vocabulary/Wörterbuch.md",
+    "Verb/Präteritum - Modalverben.md",
+    "Vocabulary/Das meinen Sie nicht ernst.md",
+    "Verb/Complains.md",
+    "Verb/Modalverben.md",
+    "Grammar/Adjektivendungen.md",
+    "Vocabulary/Das hört sich gut an.md",
+    "Grammar/Indefinitpronomen.md",
     "Vocabulary/eine Fahrkarte kaufen.md",
     "Vocabulary/Verabredungen.md",
     "Vocabulary/Der Ticketautomat.md",
-    "Vocabulary/Transport.md",
-    "Questions/Fragen.md",
-    "Questions/Fragewörter.md",
-    "Grammar/Obwohl.md",
-    "Vocabulary/Urlaub.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",
