@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/What is a communication system.md",
+                "file": "SAP/SAP Cloud Connector and DP Agent.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "What is a communication system"
+              "title": "SAP Cloud Connector and DP Agent"
             }
           }
         ],
@@ -178,20 +178,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b68ac7521bb3cb4c",
+  "active": "8d2103746650dc45",
   "lastOpenFiles": [
+    "01 - Excalidraw/Prints/Pasted image 20241203172838.png",
+    "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
+    "SAP/SAP Cloud Connector and DP Agent.md",
+    "SAP/ABAP Environment.md",
+    "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+    "SAP/1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment.md",
+    "SAP/6 - SAP Datasphere connections.md",
+    "SAP/What is a communication system.md",
     "SAP/User Creation and Authorization in the SAP S4HANA Cloud Starter System.md",
     "SAP/UIAD Object.md",
-    "SAP/What is a communication system.md",
     "SAP/Business Catalog.md",
-    "SAP/6 - SAP Datasphere connections.md",
     "SAP/5 - How to create Business Roles in SAP Fiori App.md",
-    "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
     "SAP/SAP Datasphere.md",
     "SQL/Trigger Lock.md",
     "SAP/1 - Tutorials.md",
     "SAP/0 - SAP Brainstorm.md",
-    "SAP/SAP Cloud Connector and DP Agent.md",
     "Databricks/Notebook.md",
     "Databricks/Databricks Repo.md",
     "Databricks/Tables.md",
@@ -204,12 +208,8 @@
     "Pyspark",
     "2024-11-05.md",
     "SAP/SAP S4HANA Cloud.md",
-    "01 - Excalidraw/Drawings/SAP S4HANA - BES Relation.md",
     "Untitled.canvas",
     "01 - Excalidraw/Prints/Pasted Image 20241105162743_648.png",
-    "01 - Excalidraw/Drawings/Untitled.md",
-    "SAP/ERP.md",
-    "SAP/SAP CBC.md",
     "01 - Excalidraw/Prints/Pasted image 20241031085529.png",
     "Pasted image 20241030115327.png",
     "01 - Excalidraw/Prints/Pasted image 20241030115125.png",
