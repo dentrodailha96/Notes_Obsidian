@@ -18,3 +18,13 @@ S/4HANA Cloud Connection to Datasphere: https://community.sap.com/t5/technology-
 
 https://learn.microsoft.com/en-us/azure/data-factory/industry-sap-connectors
 
+
+#### Tutorials 
+Upload CSV: 
+https://developers.sap.com/tutorials/data-warehouse-cloud-datapreparation-1-flatfiles.html
+
+Microsoft PowerBI to SAP Datasphere:
+
+* Find the IPv4: https://community.sap.com/t5/technology-blogs-by-members/datasphere-to-power-bi-via-an-odbc-connection/ba-p/13809921.
+* Success: https://developers.sap.com/tutorials/data-warehouse-cloud-bi7-connect-powerbi.html
+

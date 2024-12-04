@@ -17,6 +17,10 @@ https://community.sap.com/t5/technology-blogs-by-sap/sap-datasphere-sap-s-4hana-
 2. **Replication Flows:** These define the path for data replication from source to target system.
 3. **Data Flows:** These specify the transformations applied to the data during replication.
 
+### Install the ODBC Driver for Third Party BI Client Access 
+
+https://developers.sap.com/tutorials/data-warehouse-cloud-bi4-install-odbc.html
+
 
 ### Relevant links 
 

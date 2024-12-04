@@ -3,3 +3,8 @@
 https://bryteflow.com/cds-views-in-sap-hana-and-how-to-create-one/#:~:text=Core%20Data%20Service%20(CDS)%20Views,with%20SAP's%20new%20programming%20model.
 
 https://help.sap.com/docs/SAP_HANA_PLATFORM/09b6623836854766b682356393c6c416/b4080c0883c24d2dae38a60d7fbf07c8.html
+
+
+https://developers.sap.com/group.abap-environment-cds.html
+https://developers.sap.com/group.abap-env-first-app.html
+https://developers.sap.com/tutorials/abap-dev-adt-create-cds-view.html

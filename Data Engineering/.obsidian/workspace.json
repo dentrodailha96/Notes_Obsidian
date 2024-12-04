@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4931c855e0ed2a7c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SAP/SAP Datasphere.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "SAP Datasphere"
-            }
-          },
-          {
             "id": "b68ac7521bb3cb4c",
             "type": "leaf",
             "state": {
@@ -35,8 +21,27 @@
               "title": "SAP Cloud Connector and DP Agent"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "03011a002a8b05c2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d4c377758e37ad29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SAP/SAP Datasphere.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SAP Datasphere"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -178,11 +183,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d2103746650dc45",
+  "active": "d4c377758e37ad29",
   "lastOpenFiles": [
+    "SAP/SAP Cloud Connector and DP Agent.md",
+    "SAP/SAP Datasphere.md",
+    "SAP/CDS View.md",
     "01 - Excalidraw/Prints/Pasted image 20241203172838.png",
     "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
-    "SAP/SAP Cloud Connector and DP Agent.md",
     "SAP/ABAP Environment.md",
     "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
     "SAP/1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment.md",
@@ -192,7 +199,6 @@
     "SAP/UIAD Object.md",
     "SAP/Business Catalog.md",
     "SAP/5 - How to create Business Roles in SAP Fiori App.md",
-    "SAP/SAP Datasphere.md",
     "SQL/Trigger Lock.md",
     "SAP/1 - Tutorials.md",
     "SAP/0 - SAP Brainstorm.md",
@@ -217,7 +223,6 @@
     "01 - Excalidraw/Prints/Pasted image 20240718180521.png",
     "Pasted image 20241030115156.png",
     "01 - Excalidraw/Prints/Pasted image 20241030085906.png",
-    "01 - Excalidraw/Prints/Pasted image 20241022162555.png",
     "Excalidraw",
     "Data Engineering/Concepts",
     "Data Engineering/Projects",
