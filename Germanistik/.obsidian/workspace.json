@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "41754a1d69b64344",
+        "id": "f93c560c01897acc",
         "type": "tabs",
         "children": [
           {
-            "id": "86f7aa2d8a5fbf0c",
+            "id": "8d460be357d9b478",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/Indirect Questions.md",
+                "file": "Vocabulary/Reklamation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Indirect Questions"
+              "title": "Reklamation"
             }
           }
         ]
@@ -52,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "als",
+                "query": "infi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -163,44 +163,44 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "86f7aa2d8a5fbf0c",
+  "active": "8d460be357d9b478",
   "lastOpenFiles": [
-    "Pasted image 20241205225955.png",
-    "01 - Excalidraw/Prints/Pasted image 20241205224227.png",
+    "Verb/Plusquamperfekt.md",
+    "Vocabulary/Reklamation.md",
+    "01 - Excalidraw/Prints/Pasted image 20241208112959.png",
+    "01 - Excalidraw/Prints/Pasted image 20241208112255.png",
+    "01 - Excalidraw/Prints/Pasted image 20241208112644.png",
+    "Pasted image 20241208112600.png",
+    "Verb/das Präteritum.md",
+    "Verb/Haben und Sein.md",
+    "Verb/das Präsens.md",
+    "Verb/das Futur I.md",
+    "Text/Messages.md",
+    "01 - Excalidraw/Prints/Pasted image 20241208103624.png",
+    "Grammar/Infinitiv.md",
+    "01 - Excalidraw/Prints/Pasted image 20241208104335.png",
+    "01 - Excalidraw/Prints/Pasted image 20241208104246.png",
+    "01 - Excalidraw/Prints/Pasted image 20241208104215.png",
+    "01 - Excalidraw/Prints/Pasted image 20241208104115.png",
+    "01 - Excalidraw/Prints/Pasted image 20241208104047.png",
     "Questions/Indirect Questions.md",
-    "01 - Excalidraw/Prints/Pasted image 20241205223517.png",
-    "Grammar/Zu.md",
-    "01 - Excalidraw/Prints/Pasted image 20241205224005.png",
-    "01 - Excalidraw/Prints/Pasted image 20241205223726.png",
-    "01 - Excalidraw/Prints/Pasted image 20241205223651.png",
     "Text/Auf dem Land oder in der Stadt.md",
     "Vocabulary/Wörterbuch.md",
     "Declinations/Genitiv.md",
-    "01 - Excalidraw/Prints/Pasted image 20241203100436.png",
     "Vocabulary/Das ist mir wichtig.md",
     "Declinations/Dativ.md",
     "Declinations/Akkusativ.md",
     "Declinations/Nominativ.md",
     "Text/Als Kind.md",
-    "01 - Excalidraw/Prints/Pasted image 20241203092509.png",
     "Vocabulary/Das macht mir Sorgen.md",
-    "01 - Excalidraw/Prints/Pasted image 20241202141527.png",
     "Verb/Reflexive Verb.md",
     "Grammar/Relativsätze.md",
     "Grammar/Nebensätze mit als.md",
-    "01 - Excalidraw/Prints/Pasted image 20241129162359.png",
-    "01 - Excalidraw/Prints/Pasted image 20241202102301.png",
     "Verb/Präteritum - Unregelmäßige Verben.md",
     "Verb/Präteritum - Regelmäßig Verben.md",
     "Vocabulary/Das macht mir Spaß.md",
     "Verb/Präteritum - Modalverben.md",
     "Vocabulary/Das meinen Sie nicht ernst.md",
-    "Verb/Complains.md",
-    "Verb/Modalverben.md",
-    "Grammar/Adjektivendungen.md",
-    "Vocabulary/Das hört sich gut an.md",
-    "Grammar/Indefinitpronomen.md",
-    "Vocabulary/eine Fahrkarte kaufen.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",

@@ -26,8 +26,6 @@ z.B.: Ich habe dich liebe.
 | ihr       | habt            |
 | Sie       | haben           |
 
-
-
 ## Sein
 [Anwendung](obsidian://open?vault=Germanistik&file=Vocabulary%2FW%C3%B6rterbuch) : 
 - mit Adjektiven 
