@@ -22,6 +22,7 @@ https://community.sap.com/t5/technology-blogs-by-sap/sap-datasphere-sap-s-4hana-
 https://developers.sap.com/tutorials/data-warehouse-cloud-bi4-install-odbc.html
 
 
+
 ### Relevant links 
 
 https://me.sap.com/notes/2890171
