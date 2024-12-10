@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "f93c560c01897acc",
+        "id": "05234abe14d0f6c3",
         "type": "tabs",
         "children": [
           {
-            "id": "8d460be357d9b478",
+            "id": "ea1a2821d2254d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Reklamation.md",
+                "file": "Vocabulary/Essen Gehen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reklamation"
+              "title": "Essen Gehen"
             }
           }
         ]
@@ -163,26 +163,28 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "8d460be357d9b478",
+  "active": "ea1a2821d2254d88",
   "lastOpenFiles": [
-    "Verb/Plusquamperfekt.md",
+    "Vocabulary/Essen Gehen.md",
+    "01 - Excalidraw/Prints/Pasted image 20241210134813.png",
+    "Grammar/nachdem - seitdem.md",
+    "01 - Excalidraw/Prints/Pasted image 20241210135407.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210135326.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210135215.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210135156.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210135133.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210135106.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210134846.png",
+    "Pasted image 20241210134725.png",
     "Vocabulary/Reklamation.md",
+    "Verb/Plusquamperfekt.md",
     "01 - Excalidraw/Prints/Pasted image 20241208112959.png",
-    "01 - Excalidraw/Prints/Pasted image 20241208112255.png",
-    "01 - Excalidraw/Prints/Pasted image 20241208112644.png",
-    "Pasted image 20241208112600.png",
     "Verb/das Präteritum.md",
     "Verb/Haben und Sein.md",
     "Verb/das Präsens.md",
     "Verb/das Futur I.md",
     "Text/Messages.md",
-    "01 - Excalidraw/Prints/Pasted image 20241208103624.png",
     "Grammar/Infinitiv.md",
-    "01 - Excalidraw/Prints/Pasted image 20241208104335.png",
-    "01 - Excalidraw/Prints/Pasted image 20241208104246.png",
-    "01 - Excalidraw/Prints/Pasted image 20241208104215.png",
-    "01 - Excalidraw/Prints/Pasted image 20241208104115.png",
-    "01 - Excalidraw/Prints/Pasted image 20241208104047.png",
     "Questions/Indirect Questions.md",
     "Text/Auf dem Land oder in der Stadt.md",
     "Vocabulary/Wörterbuch.md",
@@ -199,8 +201,6 @@
     "Verb/Präteritum - Unregelmäßige Verben.md",
     "Verb/Präteritum - Regelmäßig Verben.md",
     "Vocabulary/Das macht mir Spaß.md",
-    "Verb/Präteritum - Modalverben.md",
-    "Vocabulary/Das meinen Sie nicht ernst.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",
