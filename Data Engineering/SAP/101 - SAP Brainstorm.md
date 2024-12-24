@@ -11,6 +11,9 @@
 - [[UIAD Object]]
 - [[SAPUI5]]
 - [[SAP Signavio]]
+- [[SAP Cloud Connector and DP Agent]] - Connections between SAP Tools and External tools 
+- [[SAP CBC]]
+- [[SAP Datasphere]]
 
 ### How to 
 
@@ -32,6 +35,17 @@
 
 	#### Errors
 	+ [[API Deployment]]
+
++ [[1.1 - Create an ABAP Project in Eclipse]]
++ [[1.2 - ABAP Eclipse to SAP Fiori App]]
++ [[1.3 - Integrate List Report into SAP Fiori Launchpad]]
++ [[1.4 - Connect SAP 4HANA Cloud and BTP, ABAP]]
++ [[1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment]]
++ [[2 - Certification Studies]]
++ [[3 - Connect CF to SAP Fiori]]
++ [[4 - Grand access in S4 HANA Cloud - SAP Fiori]]
+* [[5 - How to create Business Roles in SAP Fiori App]]
+* [[6 - SAP Datasphere connections]]
 
 ## Support 
 

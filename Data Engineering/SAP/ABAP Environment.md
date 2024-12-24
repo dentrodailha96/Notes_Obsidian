@@ -21,3 +21,5 @@ AKA.: Kitchen
 * Collection of plug-ins for Eclipse supporting development projects reaching beyond pure ABAP. 
 
 
+![[SAP S4HANA - BES Relation]]
+
