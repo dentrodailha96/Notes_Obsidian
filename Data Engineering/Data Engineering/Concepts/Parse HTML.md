@@ -1,0 +1,2 @@
++ Process of analysing and interpreting the HTML code to create a structured representation that can be easily processed by programs. This structured representation is often called a Document Object Model (DOM).
++ DOM = HTML's elements organization in a hierarchical tree structure to navigate and manipulate the content of webpage. 

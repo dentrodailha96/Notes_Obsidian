@@ -28,6 +28,6 @@ jumpsuit with pants and a shirt all in one piece, you can’t change the top
 when you want to dress things up. If you wear a separate top and pants,
 you’ve got more granularity, and more fashion flexibility.
 + Pull versus push: ERP System is proactively pushing information to you so that you don't have to.
-+ 
++ Role-based paradigm: IT administrator defines sets of policies that belong to you based on your role in your company.
 
  

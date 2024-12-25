@@ -53,9 +53,9 @@ z.B.: Ich möchte ==eine== Cola.
 | ich                | mich |
 | du                 | dich |
 | er                 | ihn  |
-| sie                | sie  |
+| sie                | Sie  |
 | es                 | es   |
 | wir                | uns  |
 | ihr                | euch |
 | Sie/sie            | Sie  |
-| sie                | sie  |
+| sie                | Sie  |

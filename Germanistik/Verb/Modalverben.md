@@ -56,3 +56,61 @@ ich kann sehr gut Deutsch.
 | wir       | möchten  |
 | ihr       | möchtet  |
 | sie/Sie   | möchten  |
+#### Neue ModelVerben
+
++ Wollen = would like 
+
+|           | wollen |
+| --------- | ------ |
+| ich       | will   |
+| du        | willst |
+| er/es/sie | will   |
+| wir       | wollen |
+| ihr       | wollt  |
+| sie/Sie   | wollen |
+
++ muss = must 
+
+The verb _müssen_ expresses an objective necessity and sounds more urgent: If one does not do what is necessary, there will be serious consequences.
+
+|           | Müssen |
+| --------- | ------ |
+| ich       | muss   |
+| du        | musst  |
+| er/es/sie | muss   |
+| wir       | müssen |
+| ihr       | müsst  |
+| sie/Sie   | müssen |
+
++ Sollen = should 
+
+The verb _sollen_ is generally used to report a request or an order given by someone else. What the person at whom the order is directed thinks of it is not relevant in the sentence.
+
+|           | Sollen |
+| --------- | ------ |
+| ich       | soll   |
+| du        | sollts |
+| er/es/sie | soll   |
+| wir       | sollen |
+| ihr       | sollt  |
+| sie/Sie   | sollen |
++ dürfen = to be allowed to
+
+|           | Dürfen |
+| --------- | ------ |
+| ich       | darf   |
+| du        | darfst |
+| er/es/sie | darf   |
+| wir       | dürfen |
+| ihr       | dürft  |
+| sie/Sie   | dürfen |
++ können
+
+|           | Können |
+| --------- | ------ |
+| ich       | kann   |
+| du        | kannst |
+| er/es/sie | kann   |
+| wir       | können |
+| ihr       | könnt  |
+| sie/Sie   | können |

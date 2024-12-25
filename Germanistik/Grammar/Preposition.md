@@ -1,4 +1,4 @@
-
++ [[Wo ist ...]]
 
 | Preposition | Translation |
 | ----------- | ----------- |
@@ -10,3 +10,4 @@
 
 ![[Pasted image 20240819120759.png]]
 
++ neben = next to 

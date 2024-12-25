@@ -6,3 +6,11 @@ https://www.leanix.net/en/wiki/tech-transformation/what-is-s4hana-cloud#:~:text=
 
 ![[Pasted image 20240816093008.png]]
 
+### Terminology
+
+![[Pasted image 20241010114517.png]]
+
+### Structure
+
+![[Pasted image 20241010151853.png]]
+

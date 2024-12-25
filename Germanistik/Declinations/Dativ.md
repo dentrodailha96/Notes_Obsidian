@@ -37,12 +37,12 @@ Wie kann ich Ihnen helfen?
 
 ## Artikel im Dativ
 
-|             | bestimmt | unbestimmt | negativ    |
-| ----------- | -------- | ---------- | ---------- |
-| ==Maskulin==    | ==dem==      | ==einem==      | ==keinem==     |
-| Feminin     | der      | einer      | keiner     |
-| ==Neutral== | ==dem==  | ==einem==  | ==keinem== |
-| Plural      | den+n    | - + n      | keinen + n |
+|              | bestimmt | unbestimmt | negativ    |
+| ------------ | -------- | ---------- | ---------- |
+| ==Maskulin== | ==dem==  | ==einem==  | ==keinem== |
+| Feminin      | der      | einer      | keiner     |
+| ==Neutral==  | ==dem==  | ==einem==  | ==keinem== |
+| Plural       | denen+n  | - + n      | keinen + n |
 
 ## Possessivpronomen im Dativ
 
@@ -79,3 +79,10 @@ Ich gebe ihm eine Schokolade.
 | ihr | euch              |
 | Sie | Ihnen             |
 | sie | ihnen             |
+![[Pasted image 20241006182158.png]]
+
+## Preposition + Dative 
+
+![[Pasted image 20241006182436.png]]
+![[Pasted image 20241006182509.png]]
+

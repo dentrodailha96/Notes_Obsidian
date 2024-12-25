@@ -1,0 +1,1 @@
+Delay that happens between when a user takes an action on a network or web app and when they get a response.

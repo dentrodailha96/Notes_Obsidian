@@ -1,7 +1,8 @@
 git pull = git fetch + git merge
 
 ### Why don't use Pull all the time? 
-	 When two users made changes parallel changing in the same time the main branch. Leading to the situation of merge or rebase.
+
+When two users made changes parallel changing in the same time the main branch. Leading to the situation of [[Merge or Rebase]].
 
 ![[Pasted image 20240806180155.png]]
 

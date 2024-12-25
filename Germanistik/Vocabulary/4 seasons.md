@@ -3,5 +3,6 @@ der Frühling = spring
 der Sommer = Summer 
 die Herbst = autumn
 
-nass = wt
+nass = wet
 trocken = dry
+regnerisch = rainy

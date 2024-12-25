@@ -1,6 +1,6 @@
 How to connect CF to SAP Fiori?
 
-1) Type in the search bar "> Login to Cloud Foundry " 
+1) Type in the search bar "> CF: Login to Cloud Foundry " 
 2) Select the authentication method: 
 
 	2.a) If chosen the SSO passcode, click on "Open a new browser page to generate your SSO passcode"

@@ -35,14 +35,14 @@ Conclusion:
 
 Verbs in Partizip II:
 
-| Verben    | Partizip II   |
-| --------- | ------------- |
-| essen     | hat gegessen  |
-| fahren    | ist gefahren  |
-| spielen   | hat gespielt  |
-| studieren | hat studiert  |
-| machen    | hat gemacht   |
-| anrufen   | hat angerufen |
+| Verben    | Partizip II     |
+| --------- | --------------- |
+| essen     | habe gegessen   |
+| fahren    | ist gefahren    |
+| spielen   | habe gespielt   |
+| studieren | habe gestudiert |
+| machen    | habe gemacht    |
+| anrufen   | habe angerufen  |
 
 ### War oder hatte
 
@@ -110,7 +110,6 @@ Finden: hat gefunden
 
 Kommen: ist gekommen
 
-
 | Verben    | Partizip II     | translation |
 | --------- | --------------- | ----------- |
 | Schreiben | hat geschrieben |             |
@@ -125,6 +124,12 @@ Kommen: ist gekommen
 | geben     | hat gegeben     |             |
 | helfen    | hat geholfen    |             |
 | nehmen    | hat genommen    | take        |
+
+![[Pasted image 20240901224233.png]]
+![[Pasted image 20240901224300.png]]
+![[Pasted image 20240901224400.png]]
+
+
 
 * Trennbare Verben
 
@@ -152,3 +157,7 @@ Kommen: ist gekommen
 | gefallen    | hat gefallen    | to please   |
 | erzählen    | hat erzählt     | to tell     |
 | entscheiden | hat entschieden | to decide   |
+
+### Tip
+
+![[Pasted image 20240901222529.png]]

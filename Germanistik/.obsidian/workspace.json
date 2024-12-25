@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "013f554381a2bd81",
+        "id": "05234abe14d0f6c3",
         "type": "tabs",
         "children": [
           {
-            "id": "f8231b0b53fbd21d",
+            "id": "ea1a2821d2254d88",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Grammar/Comparative Superlative Forms.md",
+                "file": "Vocabulary/Essen Gehen.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Essen Gehen"
             }
           }
         ]
@@ -39,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -48,13 +52,15 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:excalidraw",
+                "query": "infi",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -62,7 +68,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -85,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Grammar/Comparative Superlative Forms.md",
+                "file": "Grammar/Subordinate Clauses.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -93,7 +101,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Subordinate Clauses"
             }
           },
           {
@@ -102,10 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Grammar/Comparative Superlative Forms.md",
+                "file": "Grammar/Subordinate Clauses.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Subordinate Clauses"
             }
           },
           {
@@ -116,7 +128,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -125,8 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Grammar/Comparative Superlative Forms.md"
-              }
+                "file": "Grammar/Subordinate Clauses.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Subordinate Clauses"
             }
           }
         ]
@@ -138,55 +154,56 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "f8231b0b53fbd21d",
+  "active": "ea1a2821d2254d88",
   "lastOpenFiles": [
-    "Pasted image 20240830164647.png",
-    "Pasted image 20240830164542.png",
-    "Pasted image 20240830164439.png",
-    "Grammar/Plural - Form.md",
-    "Grammar/Preposition.md",
-    "Vocabulary/4 seasons.md",
+    "Vocabulary/Essen Gehen.md",
+    "01 - Excalidraw/Prints/Pasted image 20241210134813.png",
+    "Grammar/nachdem - seitdem.md",
+    "01 - Excalidraw/Prints/Pasted image 20241210135407.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210135326.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210135215.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210135156.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210135133.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210135106.png",
+    "01 - Excalidraw/Prints/Pasted image 20241210134846.png",
+    "Pasted image 20241210134725.png",
+    "Vocabulary/Reklamation.md",
+    "Verb/Plusquamperfekt.md",
+    "01 - Excalidraw/Prints/Pasted image 20241208112959.png",
+    "Verb/das Präteritum.md",
+    "Verb/Haben und Sein.md",
+    "Verb/das Präsens.md",
+    "Verb/das Futur I.md",
+    "Text/Messages.md",
+    "Grammar/Infinitiv.md",
+    "Questions/Indirect Questions.md",
+    "Text/Auf dem Land oder in der Stadt.md",
     "Vocabulary/Wörterbuch.md",
-    "01 - Excalidraw/Prints/Pasted image 20240830163247.png",
-    "Grammar/Welch-.md",
+    "Declinations/Genitiv.md",
+    "Vocabulary/Das ist mir wichtig.md",
+    "Declinations/Dativ.md",
     "Declinations/Akkusativ.md",
     "Declinations/Nominativ.md",
-    "Declinations/Dativ.md",
-    "Vocabulary/Urlaub.md",
-    "Vocabulary/Gefallen und Missfallen ausdruecken.md",
-    "Pronounciation/When is the vowel long and when short.md",
-    "Vocabulary/Rezept.md",
-    "Vocabulary/Supermarket.md",
-    "01 - Excalidraw/Prints/Pasted image 20240828161915.png",
-    "Text/Letter writing - Invitation.md",
-    "01 - Excalidraw/Prints/Pasted image 20240828162154.png",
-    "01 - Excalidraw/Prints/Pasted image 20240828161952.png",
-    "Vocabulary/Wetter.md",
-    "01 - Excalidraw/Prints/Pasted image 20240828133054.png",
-    "Verb/Vergangenheit.md",
-    "Vocabulary/Transport.md",
-    "01 - Excalidraw/Prints/Pasted image 20240825104211.png",
+    "Text/Als Kind.md",
+    "Vocabulary/Das macht mir Sorgen.md",
+    "Verb/Reflexive Verb.md",
+    "Grammar/Relativsätze.md",
+    "Grammar/Nebensätze mit als.md",
+    "Verb/Präteritum - Unregelmäßige Verben.md",
+    "Verb/Präteritum - Regelmäßig Verben.md",
+    "Vocabulary/Das macht mir Spaß.md",
+    "Vocabulary/Untitled",
     "Pronounciation",
-    "Untitled.md",
-    "01 - Excalidraw/Prints/Pasted image 20240825101702.png",
-    "Vocabulary/Verabredungen.md",
-    "01 - Excalidraw/Prints/Pasted image 20240825101848.png",
-    "Grammar/Adverbien.md",
-    "Vocabulary/Haushaltsarbeit.md",
-    "Excalidraw/Drawing 2024-08-23 08.39.28.excalidraw.md",
     "Excalidraw",
-    "Grammar/Comparative Superlative Forms.md",
-    "Vocabulary/Essen und Küchen.md",
-    "Grammar/Kein vs Nicht.md",
     "Untitled.canvas",
     "01 - Excalidraw/Prints",
     "Declinations",
@@ -195,7 +212,6 @@
     "Text",
     "Vocabulary/Untitled.canvas",
     "Questions",
-    "Grammar",
-    "Verb"
+    "Grammar"
   ]
 }

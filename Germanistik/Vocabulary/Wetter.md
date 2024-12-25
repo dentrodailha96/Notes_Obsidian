@@ -4,6 +4,7 @@ Wie ist das Wetter? = How is like the weather?
 + Es ist schlechtes Wetter. 
 + Es ist feucht = humid 
 + Es ist schwül = sticky
++ Est ist kühl = cool
 
 das Wetter / die Wetter = weather
 die Sonne / die Sonnen = sun 

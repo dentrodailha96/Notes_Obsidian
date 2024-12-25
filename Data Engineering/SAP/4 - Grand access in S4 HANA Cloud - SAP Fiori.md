@@ -7,3 +7,12 @@ https://community.sap.com/t5/enterprise-resource-planning-q-a/how-to-create-new-
 5) User added in SAP HANA Cloud account
 
 ![[Pasted image 20240829171611.png]]
+
+After it, to confirming, the user must had created the [Universal ID](https://www.sap.com/account/universal-id.html) . Then access the cloud links. 
+
+Also in "Cloud Identity Services" the user profile will start showing the profile management of the apps. 
+
+If all the access are working their profile should looks like this:
+
+![[Pasted image 20241001110238.png]]
+
