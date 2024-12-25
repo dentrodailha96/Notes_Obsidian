@@ -13,12 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Essen Gehen.md",
+                "file": "Vocabulary/Die Karte bitte!.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Essen Gehen"
+              "title": "Die Karte bitte!"
+            }
+          },
+          {
+            "id": "01e97afac6c1ec4d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Declinations/Nominativ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Nominativ"
             }
           }
         ]
@@ -52,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "infi",
+                "query": "deshalb",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,20 +179,27 @@
   },
   "active": "ea1a2821d2254d88",
   "lastOpenFiles": [
+    "Declinations/Nominativ.md",
+    "Declinations/Akkusativ.md",
+    "Vocabulary/Die Karte bitte!.md",
+    "Pasted image 20241225143426.png",
+    "Grammar/Preposition.md",
+    "Grammar/Welch-.md",
+    "01 - Excalidraw/Prints/Pasted image 20241225140539.png",
+    "Grammar/Wechselpräpositionen.md",
+    "01 - Excalidraw/Prints/Pasted image 20241225141633.png",
+    "01 - Excalidraw/Prints/Pasted image 20241225141530.png",
+    "01 - Excalidraw/Prints/Pasted image 20241225141457.png",
+    "01 - Excalidraw/Prints/Pasted image 20241225141433.png",
+    "01 - Excalidraw/Prints/Pasted image 20241225141308.png",
+    "01 - Excalidraw/Prints/Pasted image 20241225141134.png",
+    "01 - Excalidraw/Prints/Pasted image 20241225141019.png",
+    "01 - Excalidraw/Prints/Pasted image 20241225140956.png",
+    "Vocabulary/Plans.md",
     "Vocabulary/Essen Gehen.md",
-    "01 - Excalidraw/Prints/Pasted image 20241210134813.png",
     "Grammar/nachdem - seitdem.md",
-    "01 - Excalidraw/Prints/Pasted image 20241210135407.png",
-    "01 - Excalidraw/Prints/Pasted image 20241210135326.png",
-    "01 - Excalidraw/Prints/Pasted image 20241210135215.png",
-    "01 - Excalidraw/Prints/Pasted image 20241210135156.png",
-    "01 - Excalidraw/Prints/Pasted image 20241210135133.png",
-    "01 - Excalidraw/Prints/Pasted image 20241210135106.png",
-    "01 - Excalidraw/Prints/Pasted image 20241210134846.png",
-    "Pasted image 20241210134725.png",
     "Vocabulary/Reklamation.md",
     "Verb/Plusquamperfekt.md",
-    "01 - Excalidraw/Prints/Pasted image 20241208112959.png",
     "Verb/das Präteritum.md",
     "Verb/Haben und Sein.md",
     "Verb/das Präsens.md",
@@ -191,16 +212,8 @@
     "Declinations/Genitiv.md",
     "Vocabulary/Das ist mir wichtig.md",
     "Declinations/Dativ.md",
-    "Declinations/Akkusativ.md",
-    "Declinations/Nominativ.md",
     "Text/Als Kind.md",
     "Vocabulary/Das macht mir Sorgen.md",
-    "Verb/Reflexive Verb.md",
-    "Grammar/Relativsätze.md",
-    "Grammar/Nebensätze mit als.md",
-    "Verb/Präteritum - Unregelmäßige Verben.md",
-    "Verb/Präteritum - Regelmäßig Verben.md",
-    "Vocabulary/Das macht mir Spaß.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",
