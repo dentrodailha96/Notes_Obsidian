@@ -13,29 +13,42 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Die Karte bitte!.md",
+                "file": "Grammar/Wechselpräpositionen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Die Karte bitte!"
+              "title": "Wechselpräpositionen"
             }
           },
           {
-            "id": "01e97afac6c1ec4d",
+            "id": "95c542e6efd902d1",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Declinations/Nominativ.md",
+                "file": "Text/Vermutungen äussern.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Nominativ"
+              "title": "Vermutungen äussern"
+            }
+          },
+          {
+            "id": "1c41d8bf9ca7ee34",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "01 - Excalidraw/Prints/Pasted image 20250117014000.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250117014000"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -66,7 +79,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "deshalb",
+                "query": "Ausbildung",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,24 +190,29 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "ea1a2821d2254d88",
+  "active": "1e37fa8145b2d56c",
   "lastOpenFiles": [
+    "Text/Ich bin Koch.md",
+    "01 - Excalidraw/Prints/Pasted image 20250117014000.png",
+    "Text/Vermutungen äussern.md",
+    "Grammar/Wechselpräpositionen.md",
+    "Vocabulary/Was darf es sein.md",
+    "Text/Express assumptions.md",
+    "Grammar/Relativsätze.md",
+    "01 - Excalidraw/Prints/Pasted image 20241227110847.png",
     "Declinations/Nominativ.md",
-    "Declinations/Akkusativ.md",
+    "01 - Excalidraw/Prints/Pasted image 20241227103834.png",
+    "Pasted image 20241227103752.png",
     "Vocabulary/Die Karte bitte!.md",
-    "Pasted image 20241225143426.png",
+    "Declinations/Akkusativ.md",
+    "01 - Excalidraw/Prints/Pasted image 20241225143426.png",
     "Grammar/Preposition.md",
     "Grammar/Welch-.md",
     "01 - Excalidraw/Prints/Pasted image 20241225140539.png",
-    "Grammar/Wechselpräpositionen.md",
     "01 - Excalidraw/Prints/Pasted image 20241225141633.png",
     "01 - Excalidraw/Prints/Pasted image 20241225141530.png",
     "01 - Excalidraw/Prints/Pasted image 20241225141457.png",
     "01 - Excalidraw/Prints/Pasted image 20241225141433.png",
-    "01 - Excalidraw/Prints/Pasted image 20241225141308.png",
-    "01 - Excalidraw/Prints/Pasted image 20241225141134.png",
-    "01 - Excalidraw/Prints/Pasted image 20241225141019.png",
-    "01 - Excalidraw/Prints/Pasted image 20241225140956.png",
     "Vocabulary/Plans.md",
     "Vocabulary/Essen Gehen.md",
     "Grammar/nachdem - seitdem.md",
@@ -209,11 +227,6 @@
     "Questions/Indirect Questions.md",
     "Text/Auf dem Land oder in der Stadt.md",
     "Vocabulary/Wörterbuch.md",
-    "Declinations/Genitiv.md",
-    "Vocabulary/Das ist mir wichtig.md",
-    "Declinations/Dativ.md",
-    "Text/Als Kind.md",
-    "Vocabulary/Das macht mir Sorgen.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",

@@ -60,3 +60,5 @@ The preposition will always be with the relative article.
 + with non-specific person 
 ![[Pasted image 20241119171814.png]]![[Pasted image 20241119171826.png]]
 
+
+![[Pasted image 20241227110847.png]]
