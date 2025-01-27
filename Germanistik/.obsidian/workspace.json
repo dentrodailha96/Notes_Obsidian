@@ -4,79 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "37f3cedb7758d62a",
+        "id": "cfe0e0e50f97d917",
         "type": "tabs",
         "children": [
           {
-            "id": "64dd731baf0ceddb",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "01 - Excalidraw/Prints/Pasted image 20250117022918.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250117022918"
-            }
-          },
-          {
-            "id": "554d8f7a926d96b2",
+            "id": "1cd71702d558dbd9",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Inviting friends over.md",
+                "file": "Vocabulary/Relationship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Inviting friends over"
-            }
-          },
-          {
-            "id": "fea3b0a820fd3ebc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Declinations/Dativ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dativ"
-            }
-          },
-          {
-            "id": "ef090e6aec56e5da",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Declinations/Nominativ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Nominativ"
-            }
-          },
-          {
-            "id": "05dfa8bac52ebe91",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Declinations/Akkusativ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Akkusativ"
+              "title": "Relationship"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Ausbildung",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -128,7 +73,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,44 +164,43 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "554d8f7a926d96b2",
+  "active": "1cd71702d558dbd9",
   "lastOpenFiles": [
+    "01 - Excalidraw/Prints/Pasted image 20250123201719.png",
+    "Vocabulary/Relationship.md",
+    "Text/Adjektive als Nomen.md",
+    "01 - Excalidraw/Prints/Pasted image 20250123202056.png",
+    "01 - Excalidraw/Prints/Pasted image 20250123201602.png",
+    "Declinations/Genitiv.md",
+    "Text/Bildeschreidung.md",
+    "Grammar/Adjektivendungen.md",
+    "Grammar/Adverbien.md",
+    "01 - Excalidraw/Prints/Pasted image 20250117170048.png",
+    "Text/Ich bin neu hier.md",
+    "01 - Excalidraw/Prints/Pasted image 20250117170100.png",
+    "01 - Excalidraw/Prints/Pasted image 20250117162222.png",
+    "Text/Inviting friends over.md",
+    "01 - Excalidraw/Prints/Pasted image 20250117163102.png",
+    "01 - Excalidraw/Prints/Pasted image 20250117162618.png",
+    "01 - Excalidraw/Prints/Pasted image 20250117162504.png",
     "Declinations/Dativ.md",
     "Declinations/Nominativ.md",
     "Declinations/Akkusativ.md",
-    "Inviting friends over.md",
     "01 - Excalidraw/Prints/Pasted image 20250117022918.png",
     "Text/Höfliche Bitten.md",
-    "01 - Excalidraw/Prints/Pasted image 20250117023246.png",
-    "01 - Excalidraw/Prints/Pasted image 20250117023205.png",
-    "01 - Excalidraw/Prints/Pasted image 20250117023107.png",
-    "01 - Excalidraw/Prints/Pasted image 20250117023014.png",
     "Text/Vermutungen äussern.md",
-    "01 - Excalidraw/Prints/Pasted image 20250117014000.png",
     "Text/Ich bin Koch.md",
     "Grammar/Wechselpräpositionen.md",
     "Vocabulary/Was darf es sein.md",
     "Text/Express assumptions.md",
     "Grammar/Relativsätze.md",
-    "01 - Excalidraw/Prints/Pasted image 20241227110847.png",
-    "01 - Excalidraw/Prints/Pasted image 20241227103834.png",
-    "Pasted image 20241227103752.png",
     "Vocabulary/Die Karte bitte!.md",
-    "01 - Excalidraw/Prints/Pasted image 20241225143426.png",
     "Grammar/Preposition.md",
     "Grammar/Welch-.md",
     "Vocabulary/Plans.md",
     "Vocabulary/Essen Gehen.md",
     "Grammar/nachdem - seitdem.md",
     "Vocabulary/Reklamation.md",
-    "Verb/Plusquamperfekt.md",
-    "Verb/das Präteritum.md",
-    "Verb/Haben und Sein.md",
-    "Verb/das Präsens.md",
-    "Verb/das Futur I.md",
-    "Text/Messages.md",
-    "Grammar/Infinitiv.md",
-    "Questions/Indirect Questions.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",
