@@ -12,3 +12,4 @@ ausgehen = go out
 einschalten = turn on 
 ausschalten = turn off 
 herein|kommen = to enter 
+erzählen = to tell

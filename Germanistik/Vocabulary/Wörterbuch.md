@@ -632,6 +632,7 @@
 | Werbung                                      |             | internet                               |
 | benutzen                                     | Vetb        | to use                                 |
 | häufig                                       |             | oft                                    |
+| heilen                                       | Verb        | to heal                                |
 
 
 
