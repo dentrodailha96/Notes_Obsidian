@@ -4,41 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "cfe0e0e50f97d917",
+        "id": "45de4753dc6c4ac8",
         "type": "tabs",
         "children": [
           {
-            "id": "1cd71702d558dbd9",
+            "id": "67bcc90c6d591549",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Verb/Das Verb werden.md",
+                "file": "Text/Stadt oder Land.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Das Verb werden"
-            }
-          }
-        ]
-      },
-      {
-        "id": "c676ab4bee8b158a",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "c050eae462ba738c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Vocabulary/Wörterbuch.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Wörterbuch"
+              "title": "Stadt oder Land"
             }
           }
         ]
@@ -72,7 +52,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "refle",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,10 +163,17 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "1e37fa8145b2d56c",
+  "active": "67bcc90c6d591549",
   "lastOpenFiles": [
-    "Pasted image 20250129091922.png",
+    "Pasted image 20250130092506.png",
     "Grammar/Passiv.md",
+    "Text/Stadt oder Land.md",
+    "01 - Excalidraw/Prints/Pasted image 20250130090657.png",
+    "Verb/Reflexive Verb.md",
+    "Verb/Das Verb werden.md",
+    "Vocabulary/Alte und neue Freunde.md",
+    "Vocabulary/Wörterbuch.md",
+    "01 - Excalidraw/Prints/Pasted image 20250129091922.png",
     "Grammar/Plural - Form.md",
     "01 - Excalidraw/Prints/Pasted image 20250129091307.png",
     "01 - Excalidraw/Prints/Pasted image 20250129091757.png",
@@ -196,9 +183,6 @@
     "01 - Excalidraw/Prints/Pasted image 20250129091558.png",
     "01 - Excalidraw/Prints/Pasted image 20250129091546.png",
     "01 - Excalidraw/Prints/Pasted image 20250129091519.png",
-    "01 - Excalidraw/Prints/Pasted image 20250129091500.png",
-    "01 - Excalidraw/Prints/Pasted image 20250129091355.png",
-    "Vocabulary/Wörterbuch.md",
     "Vocabulary/Relationship.md",
     "Text/Adjektive als Nomen.md",
     "Declinations/Genitiv.md",
@@ -217,10 +201,6 @@
     "Vocabulary/Was darf es sein.md",
     "Text/Express assumptions.md",
     "Grammar/Relativsätze.md",
-    "Vocabulary/Die Karte bitte!.md",
-    "Grammar/Preposition.md",
-    "Grammar/Welch-.md",
-    "Vocabulary/Plans.md",
     "Vocabulary/Untitled",
     "Pronounciation",
     "Excalidraw",

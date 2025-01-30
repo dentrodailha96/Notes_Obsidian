@@ -36,3 +36,9 @@ Wann benutzt man Passiv?
 
 - Modalverben
 ![[Pasted image 20250129091757.png]]
+
+### Wie bildet man Passiv?
+- How does one form the passive voice?
+### ohne Akkusativobjekt
+
+![[Pasted image 20250130090657.png]]
