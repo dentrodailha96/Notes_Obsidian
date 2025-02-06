@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git/How to push code to Github using CMD.md",
+                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to push code to Github using CMD"
+              "title": "4 - Grand access in S4 HANA Cloud - SAP Fiori"
             }
           }
         ]
@@ -166,6 +166,8 @@
   },
   "active": "1c9fad51a2fd8d1a",
   "lastOpenFiles": [
+    "SAP/5 - How to create Business Roles in SAP Fiori App.md",
+    "Git/How to push code to Github using CMD.md",
     "Git/How to clone code to computer.md",
     "Git/Git.md",
     "Prompt Engineer/Documentation Automation.md",
@@ -188,10 +190,8 @@
     "Databricks/Optimization techniques.md",
     "Azure/Change data capture.md",
     "Databricks/Tables.md",
-    "SAP/5 - How to create Business Roles in SAP Fiori App.md",
     "Data Engineering/Core Concepts from Data Engineer.md",
     "SAP/SAP CBC.md",
-    "Data Engineering/Concepts/Latency.md",
     "Prompt Engineer",
     "01 - Excalidraw/Prints/Pasted image 20241203172838.png",
     "01 - Excalidraw/Prints/Pasted Image 20241105162807_364.png",
