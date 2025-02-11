@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+                "file": "SAP/7 - Create a new service in marketplace.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4 - Grand access in S4 HANA Cloud - SAP Fiori"
+              "title": "7 - Create a new service in marketplace"
             }
           }
         ]
@@ -166,7 +166,16 @@
   },
   "active": "1c9fad51a2fd8d1a",
   "lastOpenFiles": [
+    "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
+    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
+    "SAP/1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment.md",
+    "SAP/4 - Grand access in S4 HANA Cloud - SAP Fiori.md",
+    "SAP/3 - Connect CF to SAP Fiori.md",
+    "SAP/7 - Create a new service in marketplace.md",
+    "SAP/6 - SAP Datasphere connections.md",
+    "SAP/How to create a Business User in S4 Hana Cloud.md",
     "SAP/5 - How to create Business Roles in SAP Fiori App.md",
+    "SAP/101 - SAP Brainstorm.md",
     "Git/How to push code to Github using CMD.md",
     "Git/How to clone code to computer.md",
     "Git/Git.md",
@@ -177,21 +186,12 @@
     "Data Engineering/Concepts/Orchestrator.md",
     "SQL/101 - SQL Concepts.md",
     "SAP/ABAP Environment.md",
-    "SAP/1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment.md",
-    "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
     "SAP/User Creation and Authorization in the SAP S4HANA Cloud Starter System.md",
     "Pyspark/Functions.md",
     "SAP/1.1 - Create an ABAP Project in Eclipse.md",
     "01 - Excalidraw/Drawings/SAP S4HANA - BES Relation.md",
     "Pyspark/101 - Pyspark.md",
-    "SAP/101 - SAP Brainstorm.md",
     "Databricks/101 - Databricks Basics.md",
-    "Azure/101 - Core concepts Azure.md",
-    "Databricks/Optimization techniques.md",
-    "Azure/Change data capture.md",
-    "Databricks/Tables.md",
-    "Data Engineering/Core Concepts from Data Engineer.md",
-    "SAP/SAP CBC.md",
     "Prompt Engineer",
     "01 - Excalidraw/Prints/Pasted image 20241203172838.png",
     "01 - Excalidraw/Prints/Pasted Image 20241105162807_364.png",
