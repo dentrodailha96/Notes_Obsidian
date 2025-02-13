@@ -9,3 +9,13 @@
 | Ihr       | wart         | hattet          |
 | sie       | waren        | hatten          |
 | Sie       | waren        | hatten          |
+
+![[Pasted image 20250213144710.png]]
+
+### Müssen 
+
+![[Pasted image 20250213142530.png]]
+
+### Dürfen
+
+![[Pasted image 20250213142925.png]]
