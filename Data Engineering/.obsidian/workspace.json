@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/11 - Load data in SAP S4 HANA Cloud.md",
+                "file": "SAP/10 - Preparing Connectivity for Connections.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "11 - Load data in SAP S4 HANA Cloud"
+              "title": "10 - Preparing Connectivity for Connections"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Analytics",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,14 +164,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8d2103746650dc45",
+  "active": "02c9ae3d08ab4655",
   "lastOpenFiles": [
-    "01 - Excalidraw/Prints/Pasted image 20250219130815.png",
-    "SAP/101 - SAP Brainstorm.md",
-    "01 - Excalidraw/Prints/Pasted image 20250218105751.png",
     "SAP/11 - Load data in SAP S4 HANA Cloud.md",
-    "01 - Excalidraw/Prints/Pasted image 20250219130726.png",
+    "SAP/12 - Connection to SAC and Datasphere.md",
+    "SAP/14 - CICD Steps.md",
+    "SAP/13 - SAP Business Application Studio.md",
+    "SAP/Untitled.md",
     "SAP/10 - Preparing Connectivity for Connections.md",
+    "SAP/101 - SAP Brainstorm.md",
+    "01 - Excalidraw/Prints/Pasted image 20250219130815.png",
+    "01 - Excalidraw/Prints/Pasted image 20250218105751.png",
+    "01 - Excalidraw/Prints/Pasted image 20250219130726.png",
     "SAP/What is a communication system.md",
     "SAP/User Creation and Authorization in the SAP S4HANA Cloud Starter System.md",
     "SAP/How to create a Business User in S4 Hana Cloud.md",
@@ -192,9 +196,6 @@
     "Prompt Engineer/Documentation Automation.md",
     "Prompt Engineer/RAG.md",
     "Prompt Engineer/Large Language Models - LLMs.md",
-    "Prompt Engineer/101 - Promt Engineer concepts.md",
-    "Data Engineering/Concepts/Orchestrator.md",
-    "SQL/101 - SQL Concepts.md",
     "Prompt Engineer",
     "01 - Excalidraw/Prints/Pasted image 20241203172838.png",
     "01 - Excalidraw/Prints/Pasted Image 20241105162807_364.png",
@@ -204,7 +205,6 @@
     "01 - Excalidraw/Prints/Pasted image 20241031085529.png",
     "Pasted image 20241030115327.png",
     "01 - Excalidraw/Prints/Pasted image 20241030115125.png",
-    "01 - Excalidraw/Prints/Pasted image 20241030092427.png",
     "Excalidraw",
     "Data Engineering/Concepts",
     "Data Engineering/Projects",

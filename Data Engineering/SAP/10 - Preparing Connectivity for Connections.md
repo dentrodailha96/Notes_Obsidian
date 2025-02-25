@@ -15,6 +15,7 @@ https://www.wilivm.com/blog/install-openssl-on-windows-10-11/
 
 https://help.sap.com/docs/HANA_SMART_DATA_INTEGRATION/f4a54d019f624c799cbc276a798e588b/4adba93f1ef241cbb4b29cdf19c2d375.html?locale=en-US&state=PRODUCTION&version=2.0_SPS07
 
+
 	## Network Protocols Required
 
 ![[Pasted image 20250218105751.png]]
@@ -34,6 +35,16 @@ https://developers.sap.com/tutorials/hana-clients-install..html
 Authenticate to SAP HANA Cloud using X.509:
 https://developers.sap.com/tutorials/hana-clients-x509.html
 
+
+### Connect to MSSQL 
+https://community.sap.com/t5/technology-blogs-by-members/sap-datasphere-integration-with-sql-server-using-data-provisioning-agent/ba-p/13563872
+
+https://help.sap.com/docs/SUPPORT_CONTENT/datasphere/4535944518.html
+BEST TUTORIAL: https://www.youtube.com/watch?v=lMug4dQeecE&t=158s
+
+https://userapps.support.sap.com/sap/support/knowledge/en/3462480
+
+JDBC Version Supported: https://support.sap.com/content/dam/launchpad/en_us/pam/pam-essentials/TIP/PAM_HANA_SDI_2_0.pdf
 
 
 ### Extra: 
