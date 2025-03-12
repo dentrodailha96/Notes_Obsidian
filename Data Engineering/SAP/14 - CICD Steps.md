@@ -35,11 +35,22 @@ Solve Error Authentication Login: https://userapps.support.sap.com/sap/support/k
 
 Troubleshoots: https://community.sap.com/t5/technology-blogs-by-sap/faq-amp-troubleshooting-guide-for-sap-datasphere-cli/ba-p/13550029
 
-
-
-
 ### Tutorials SAP CICD
 
 - Get Started with an SAP Fiori Project in SAP Continuous Integration and Delivery: https://developers.sap.com/tutorials/cicd-start-fiori.html
 	- It needs a Fiori app connected to a Git repository, so I followed this tutorial before: https://developers.sap.com/tutorials/fiori-tools-generate-project.html
 
+Possible errors: 
+
+- If the error is related to the "mta.yaml" file, it's because the CICD is not able to find it in the folder. It must be in the main path. 
+E.g.: 
+
+![[Pasted image 20250312094146.png]]
+
+Also, there is a possibility that the SAP Fiori app is not generating the file. So, during the SAP Fiori app creation process it's important to this field be activated: 
+![[Pasted image 20250312094928.png]]
+
+- Error related to Cloud Foundry acceptance: 
+  ![[Pasted image 20250312095103.png]]
+
+Correct by validating the CF information. 
