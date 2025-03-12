@@ -7,6 +7,7 @@
   * Communication arrangements help you to configure the electronic data exchange between the system and a communication partner.
   
  https://help.sap.com/docs/SAP_S4HANA_CLOUD/0f69f8fb28ac4bf48d2b57b9637e81fa/fab3fd449cf74c6384622b98831e989e.html
+#### How business roles and communication arrangements are related? 
 
 ### Business Role for CBC to S4 
 
