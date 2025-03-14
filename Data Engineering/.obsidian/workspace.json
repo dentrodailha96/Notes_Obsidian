@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/14 - CICD Steps.md",
+                "file": "SAP/CAP Application.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "14 - CICD Steps"
+              "title": "CAP Application"
             }
           }
         ],
@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "customi",
+                "query": "CAP ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 480.5
+    "width": 381.5
   },
   "right": {
     "id": "e9b0657c01a7d431",
@@ -179,18 +179,22 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2ebe096f490de83",
+  "active": "8d2103746650dc45",
   "lastOpenFiles": [
-    "Pasted image 20250312095103.png",
-    "Pasted image 20250312094928.png",
-    "Pasted image 20250312094146.png",
+    "SAP/18 - FullStack SAP BAS.md",
+    "SAP/16 - Delta Load of non SAP Sources.md",
+    "SAP/14 - CICD Steps.md",
+    "01 - Excalidraw/Prints/Pasted image 20250312094146.png",
+    "01 - Excalidraw/Prints/Pasted image 20250312094928.png",
+    "SAP/10 - Preparing Connectivity for Connections.md",
+    "SAP/10.1 - Connection with MSSQL.md",
+    "01 - Excalidraw/Prints/Pasted image 20250312095103.png",
     "SAP/17 - S4HANA Cloud.md",
     "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
     "SAP/1.3 - Integrate List Report into SAP Fiori Launchpad.md",
     "SAP/1.2 - ABAP Eclipse to SAP Fiori App.md",
     "SAP/3 - Connect CF to SAP Fiori.md",
     "SAP/2 - Certification Studies.md",
-    "SAP/14 - CICD Steps.md",
     "SAP/Tenants Types.md",
     "Excalidraw/Drawing 2025-03-11 10.39.33.excalidraw.md",
     "Excalidraw/Drawing 2025-03-11 10.39.32.excalidraw.md",
@@ -199,12 +203,9 @@
     "SAP/What is a communication system.md",
     "01 - Excalidraw/Prints/Pasted image 20250311091055.png",
     "01 - Excalidraw/Prints/Pasted image 20250311090937.png",
-    "SAP/16 - Delta Load of non SAP Sources.md",
     "DevOps/CICD.md",
     "DevOps",
     "SAP/15 - SAP Datasphere Architecture.md",
-    "SAP/10.1 - Connection with MSSQL.md",
-    "SAP/10 - Preparing Connectivity for Connections.md",
     "SAP/11 - Load data in SAP S4 HANA Cloud.md",
     "SAP/12 - Connection to SAC and Datasphere.md",
     "SAP/13 - SAP Business Application Studio.md",
@@ -218,7 +219,6 @@
     "01 - Excalidraw/Prints/Pasted image 20250211142206.png",
     "Prompt Engineer",
     "01 - Excalidraw/Prints/Pasted image 20241203172838.png",
-    "01 - Excalidraw/Prints/Pasted Image 20241105162807_364.png",
     "Pyspark",
     "Untitled.canvas",
     "Excalidraw",

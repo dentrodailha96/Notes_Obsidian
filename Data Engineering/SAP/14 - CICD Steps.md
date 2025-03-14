@@ -54,3 +54,4 @@ Also, there is a possibility that the SAP Fiori app is not generating the file. 
   ![[Pasted image 20250312095103.png]]
 
 Correct by validating the CF information. 
+

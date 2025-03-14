@@ -1,4 +1,4 @@
-
+Connections validations: https://help.sap.com/docs/SAP_DATASPHERE/be5967d099974c69b77f4549425ca4c0/eb85e157ab654152bd68a8714036e463.html?q=Integrating+Data+via+Connections
 ## Download Manager 
 
  - To download SAP Software 
