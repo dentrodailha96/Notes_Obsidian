@@ -35,23 +35,23 @@ Solve Error Authentication Login: https://userapps.support.sap.com/sap/support/k
 
 Troubleshoots: https://community.sap.com/t5/technology-blogs-by-sap/faq-amp-troubleshooting-guide-for-sap-datasphere-cli/ba-p/13550029
 
-### Tutorials SAP CICD
+### SAP CI (BTP - IS)
 
-- Get Started with an SAP Fiori Project in SAP Continuous Integration and Delivery: https://developers.sap.com/tutorials/cicd-start-fiori.html
-	- It needs a Fiori app connected to a Git repository, so I followed this tutorial before: https://developers.sap.com/tutorials/fiori-tools-generate-project.html
+Cloud Integration is a set of services and tools provided by SAP on its cloud-base BTP. 
 
-Possible errors: 
+**How CI integrates with Datasphere?**
+1. CI can load the data directly in Datasphere using JDBC protocol.
+2. CI can consume the exposed OData V4 service from Datasphere.
+3. CI can make use of the open connector on BTP IS if the open connector connection is activated in Datasphere.
 
-- If the error is related to the "mta.yaml" file, it's because the CICD is not able to find it in the folder. It must be in the main path. 
-E.g.: 
+Relevant Links: 
 
-![[Pasted image 20250312094146.png]]
+https://www.erpqna.com/integration-of-sap-cibtp-is-with-datasphere/?utm_source=chatgpt.com
+https://help.sap.com/docs/cloud-integration/sap-cloud-integration/system-scope-in-cloud-foundry-environment
 
-Also, there is a possibility that the SAP Fiori app is not generating the file. So, during the SAP Fiori app creation process it's important to this field be activated: 
-![[Pasted image 20250312094928.png]]
-
-- Error related to Cloud Foundry acceptance: 
-  ![[Pasted image 20250312095103.png]]
-
-Correct by validating the CF information. 
+https://github.com/SAP-samples/datasphere-build-apps-data-entry/blob/main/documentation/set-up/set-up-datasphere/README.md
+https://community.sap.com/t5/technology-blogs-by-sap/best-practice-collection-working-with-business-application-studio-bas-and/ba-p/13542813
+https://help.sap.com/docs/SAP_DATASPHERE/be5967d099974c69b77f4549425ca4c0/5d55da5514b240ff8d3a970bf7dc6705.html
+https://community.sap.com/t5/technology-blogs-by-sap/sap-datasphere-sap-hana-cloud-hdi-ci-cd-automation-approach/ba-p/13533807
+https://community.sap.com/t5/technology-blogs-by-sap/sap-datasphere-sap-hana-cloud-hdi-automation-ci-cd-pipelines-details/ba-p/13539235
 

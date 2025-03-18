@@ -2,6 +2,8 @@
 * Continuous Integration and continuous delivery.
 * CI/CD is crucial because it automates the software development process, from coding through deployment.
 
+![[Pasted image 20250318095417.png]]
+
 ### CI 
 Practice of integrating all your code changes into the main branch of a share source code repository early and often. Automatically testing each change when you commit or merge them and automatically kicking off a build. 
 
