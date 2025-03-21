@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vocabulary/Alles anderes.md",
+                "file": "Questions/Kauszätze Weil vs Denn.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Alles anderes"
+              "title": "Kauszätze Weil vs Denn"
             }
           }
         ],
@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "seine",
+                "query": "weil und denn",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -209,8 +210,9 @@
   },
   "active": "82a80c767f766da8",
   "lastOpenFiles": [
-    "01 - Excalidraw/Prints/Pasted image 20250213144332.png",
+    "Pasted image 20250319105507.png",
     "Vocabulary/Alles anderes.md",
+    "01 - Excalidraw/Prints/Pasted image 20250213144332.png",
     "Verb/das Präteritum.md",
     "01 - Excalidraw/Prints/Pasted image 20250213144710.png",
     "Vocabulary/Das Leben heute und damals.md",

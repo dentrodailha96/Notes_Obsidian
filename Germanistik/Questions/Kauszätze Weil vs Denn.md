@@ -22,3 +22,4 @@ Martina antwortet nicht, ==denn sie ist sauer==. (since)
 » Cannot start sentences with "denn".
 
 
+![[Pasted image 20250319105507.png]]
