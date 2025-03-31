@@ -633,6 +633,20 @@
 | benutzen                                     | Vetb        | to use                                 |
 | häufig                                       |             | oft                                    |
 | heilen                                       | Verb        | to heal                                |
+| unterscheiden                                |             | Distinguishe                           |
+| Tut                                          |             | to do                                  |
+| wichtig                                      |             | important                              |
+| beweisen                                     |             | to prove                               |
+| begründung                                   |             | to justify                             |
+| Jahrelang                                    |             | years ago                              |
+| Verboten                                     |             | furbidden                              |
+| Die Bretter                                  |             | Prateleira                             |
+| Abgesagt                                     |             | Cancel                                 |
+| Die Lügen                                    |             | Lie                                    |
+| Änger                                        |             | Problem                                |
+| Vertraut                                     |             | Trust                                  |
+| Das Genieße                                  |             | etwas schön findes                     |
+| Quer gehen, oder querfeldein                 |             | short cut                              |
 
 
 

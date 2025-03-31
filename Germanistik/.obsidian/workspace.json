@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Questions/Kauszätze Weil vs Denn.md",
+                "file": "Vocabulary/Wörterbuch.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Kauszätze Weil vs Denn"
+              "title": "Wörterbuch"
             }
           }
         ],
@@ -117,8 +117,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -208,9 +207,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "82a80c767f766da8",
+  "active": "1e37fa8145b2d56c",
   "lastOpenFiles": [
-    "Pasted image 20250319105507.png",
+    "Questions/Kauszätze Weil vs Denn.md",
+    "01 - Excalidraw/Prints/Pasted image 20250319105507.png",
     "Vocabulary/Alles anderes.md",
     "01 - Excalidraw/Prints/Pasted image 20250213144332.png",
     "Verb/das Präteritum.md",
@@ -238,7 +238,6 @@
     "01 - Excalidraw/Prints/Pasted image 20250204095702.png",
     "Text/Stadt oder Land.md",
     "Grammar/Untitled.md",
-    "01 - Excalidraw/Prints/Pasted image 20250130092506.png",
     "Verb/Reflexive Verb.md",
     "Verb/Das Verb werden.md",
     "Vocabulary/Alte und neue Freunde.md",
