@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/16 - Delta Load of non SAP Sources.md",
+                "file": "SAP/SAP AI Launchpad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 - Delta Load of non SAP Sources"
+              "title": "SAP AI Launchpad"
             }
           }
         ]
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -168,11 +167,13 @@
   "active": "e2ebe096f490de83",
   "lastOpenFiles": [
     "Git/Git.md",
+    "SAP/SAP AI Launchpad.md",
+    "Git/101 - Git.md",
+    "Pasted image 20250318095417.png",
+    "SAP/16 - Delta Load of non SAP Sources.md",
     "SAP/14 - CICD Steps.md",
     "DevOps/CICD.md",
-    "Pasted image 20250318095417.png",
     "SAP/Tenants Types.md",
-    "SAP/16 - Delta Load of non SAP Sources.md",
     "SAP/19 - SAP.md",
     "SAP/18 - FullStack SAP BAS.md",
     "SAP/CAP Application.md",
@@ -198,8 +199,6 @@
     "SAP/15 - SAP Datasphere Architecture.md",
     "SAP/11 - Load data in SAP S4 HANA Cloud.md",
     "SAP/12 - Connection to SAC and Datasphere.md",
-    "SAP/13 - SAP Business Application Studio.md",
-    "SAP/101 - SAP Brainstorm.md",
     "01 - Excalidraw/Prints/Pasted image 20250219130815.png",
     "01 - Excalidraw/Prints/Pasted image 20250218105751.png",
     "01 - Excalidraw/Prints/Pasted image 20250219130726.png",
