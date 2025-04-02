@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/16 - Delta Load of non SAP Sources.md",
+                "file": "Linux/Why Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "16 - Delta Load of non SAP Sources"
+              "title": "Why Linux"
+            }
+          },
+          {
+            "id": "d953a0d1ebf55e6a",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -74,8 +87,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +168,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-excalidraw-plugin:Create new drawing": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -165,14 +176,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "e2ebe096f490de83",
+  "active": "d953a0d1ebf55e6a",
   "lastOpenFiles": [
+    "01 - Excalidraw/Prints/Pasted image 20250318095417.png",
+    "Linux/Why Linux.md",
+    "Linux",
+    "SAP/16 - Delta Load of non SAP Sources.md",
     "Git/Git.md",
     "SAP/14 - CICD Steps.md",
     "DevOps/CICD.md",
-    "Pasted image 20250318095417.png",
     "SAP/Tenants Types.md",
-    "SAP/16 - Delta Load of non SAP Sources.md",
     "SAP/19 - SAP.md",
     "SAP/18 - FullStack SAP BAS.md",
     "SAP/CAP Application.md",
@@ -198,8 +211,6 @@
     "SAP/15 - SAP Datasphere Architecture.md",
     "SAP/11 - Load data in SAP S4 HANA Cloud.md",
     "SAP/12 - Connection to SAC and Datasphere.md",
-    "SAP/13 - SAP Business Application Studio.md",
-    "SAP/101 - SAP Brainstorm.md",
     "01 - Excalidraw/Prints/Pasted image 20250219130815.png",
     "01 - Excalidraw/Prints/Pasted image 20250218105751.png",
     "01 - Excalidraw/Prints/Pasted image 20250219130726.png",
@@ -213,7 +224,6 @@
     "Data Engineering",
     "01 - Excalidraw/Drawings",
     "Azure",
-    "Git",
     "Databricks/Untitled.canvas"
   ]
 }
