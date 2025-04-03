@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SAP/SAP AI Launchpad.md",
+                "file": "Data Engineering/Concepts/Slowly Changing Dimensions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "SAP AI Launchpad"
+              "title": "Slowly Changing Dimensions"
             }
           }
         ]
@@ -166,10 +166,12 @@
   },
   "active": "e2ebe096f490de83",
   "lastOpenFiles": [
+    "Data Engineering/Core Concepts from Data Engineer.md",
+    "Data Engineering/Concepts/Slowly Changing Dimensions.md",
     "Git/Git.md",
     "SAP/SAP AI Launchpad.md",
     "Git/101 - Git.md",
-    "Pasted image 20250318095417.png",
+    "01 - Excalidraw/Prints/Pasted image 20250318095417.png",
     "SAP/16 - Delta Load of non SAP Sources.md",
     "SAP/14 - CICD Steps.md",
     "DevOps/CICD.md",
@@ -197,8 +199,6 @@
     "01 - Excalidraw/Prints/Pasted image 20250311090937.png",
     "DevOps",
     "SAP/15 - SAP Datasphere Architecture.md",
-    "SAP/11 - Load data in SAP S4 HANA Cloud.md",
-    "SAP/12 - Connection to SAC and Datasphere.md",
     "01 - Excalidraw/Prints/Pasted image 20250219130815.png",
     "01 - Excalidraw/Prints/Pasted image 20250218105751.png",
     "01 - Excalidraw/Prints/Pasted image 20250219130726.png",
