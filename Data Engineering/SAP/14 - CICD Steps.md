@@ -45,12 +45,6 @@ Cloud Integration is a set of services and tools provided by SAP on its cloud-ba
 3. CI can make use of the open connector on BTP IS if the open connector connection is activated in Datasphere.
 
 Relevant Links: 
-
-https://www.erpqna.com/integration-of-sap-cibtp-is-with-datasphere/?utm_source=chatgpt.com
-https://help.sap.com/docs/cloud-integration/sap-cloud-integration/system-scope-in-cloud-foundry-environment
-
-https://github.com/SAP-samples/datasphere-build-apps-data-entry/blob/main/documentation/set-up/set-up-datasphere/README.md
-https://community.sap.com/t5/technology-blogs-by-sap/best-practice-collection-working-with-business-application-studio-bas-and/ba-p/13542813
 https://help.sap.com/docs/SAP_DATASPHERE/be5967d099974c69b77f4549425ca4c0/5d55da5514b240ff8d3a970bf7dc6705.html
 https://community.sap.com/t5/technology-blogs-by-sap/sap-datasphere-sap-hana-cloud-hdi-ci-cd-automation-approach/ba-p/13533807
 https://community.sap.com/t5/technology-blogs-by-sap/sap-datasphere-sap-hana-cloud-hdi-automation-ci-cd-pipelines-details/ba-p/13539235
