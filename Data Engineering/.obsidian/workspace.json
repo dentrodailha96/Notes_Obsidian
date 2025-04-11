@@ -103,8 +103,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -196,8 +195,11 @@
   },
   "active": "e789b957394a122a",
   "lastOpenFiles": [
-    "SAP/18 - FullStack SAP BAS.md",
+    "SAP/10 - Preparing Connectivity for Connections.md",
+    "SAP/10.1 - Connection with MSSQL.md",
+    "SAP/6 - SAP Datasphere connections.md",
     "SAP/14 - CICD Steps.md",
+    "SAP/18 - FullStack SAP BAS.md",
     "SAP/3 - Connect CF to SAP Fiori.md",
     "SAP/1.5 - Extend SAP S4HANA Cloud on SAP BTP, Cloud Foundry Environment.md",
     "SAP/1.4 - Connect SAP 4HANA Cloud and BTP, ABAP.md",
@@ -209,7 +211,6 @@
     "SAP/16 - Delta Load of non SAP Sources.md",
     "SAP/1 - Tutorials.md",
     "SAP/12 - Connection to SAC and Datasphere.md",
-    "SAP/6 - SAP Datasphere connections.md",
     "Data Engineering/Concepts/Slowly Changing Dimensions.md",
     "Linux/Why Linux.md",
     "Linux",
@@ -224,8 +225,6 @@
     "SAP/CAP Application.md",
     "01 - Excalidraw/Prints/Pasted image 20250312094146.png",
     "01 - Excalidraw/Prints/Pasted image 20250312094928.png",
-    "SAP/10 - Preparing Connectivity for Connections.md",
-    "SAP/10.1 - Connection with MSSQL.md",
     "01 - Excalidraw/Prints/Pasted image 20250312095103.png",
     "01 - Excalidraw/Prints/Pasted image 20250311091055.png",
     "01 - Excalidraw/Prints/Pasted image 20250311090937.png",

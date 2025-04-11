@@ -17,35 +17,16 @@ How to get the GUID from SAP HANA Cloud
 
 https://help.sap.com/docs/sap-hana-service-for-sap-btp-in-sap-and-microsoft-azure-regions/sap-hana-service-for-sap-btp-in-azure-regions-validation/finding-guid-of-tenant-database-service-instance
 
-Bind the HDI Container: 
+Bind the HDI Container/ enable to develop on it HDI Container 
 
 https://community.sap.com/t5/technology-blogs-by-sap/sap-datasphere-enable-sap-hana-development-infrastructure-hdi/ba-p/13602509
 
-### Command Line Interface 
+SAP Datasphere and HDI Container:
 
-* Node.js based command-line interface.
-* Interact with a tenant from a terminal or command line.
-* Authenticate the business User while logging into CLI 
+https://community.sap.com/t5/technology-blogs-by-sap/hybrid-developments-using-sap-hana-cloud-and-sap-datasphere-e2e-scenario/ba-p/13548787
 
-https://help.sap.com/docs/SAP_DATASPHERE/d0ecd6f297ac40249072a44df0549c1a/f7d5eddf20a34a1aa48d8e2c68a44e28.html
+### Tutorial 
 
-CLI - SAP: https://help.sap.com/docs/SAP_DATASPHERE/d0ecd6f297ac40249072a44df0549c1a/7e9203d091b44d7f88a8c274498c1b64.html
+https://community.sap.com/t5/technology-blogs-by-sap/hybrid-developments-using-sap-hana-cloud-and-sap-datasphere-e2e-scenario/ba-p/13548787
 
-Solve Error Authentication Login: https://userapps.support.sap.com/sap/support/knowledge/en/3461484
-
-Troubleshoots: https://community.sap.com/t5/technology-blogs-by-sap/faq-amp-troubleshooting-guide-for-sap-datasphere-cli/ba-p/13550029
-
-### SAP CI (BTP - IS)
-
-Cloud Integration is a set of services and tools provided by SAP on its cloud-base BTP. 
-
-**How CI integrates with Datasphere?**
-1. CI can load the data directly in Datasphere using JDBC protocol.
-2. CI can consume the exposed OData V4 service from Datasphere.
-3. CI can make use of the open connector on BTP IS if the open connector connection is activated in Datasphere.
-
-Relevant Links: 
-https://help.sap.com/docs/SAP_DATASPHERE/be5967d099974c69b77f4549425ca4c0/5d55da5514b240ff8d3a970bf7dc6705.html
-https://community.sap.com/t5/technology-blogs-by-sap/sap-datasphere-sap-hana-cloud-hdi-ci-cd-automation-approach/ba-p/13533807
-https://community.sap.com/t5/technology-blogs-by-sap/sap-datasphere-sap-hana-cloud-hdi-automation-ci-cd-pipelines-details/ba-p/13539235
 
