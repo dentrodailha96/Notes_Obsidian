@@ -4,9 +4,6 @@ https://community.sap.com/t5/technology-blogs-by-sap/sap-datasphere-sap-hana-clo
 
 ## Steps for configuration
 
-https://help.sap.com/docs/continuous-integration-and-delivery/sap-continuous-integration-and-delivery/optional-enabling-api-usage
-
-
 ### HDI Container 
 https://help.sap.com/docs/HANA_SERVICE_CF/cc53ad464a57404b8d453bbadbc81ceb/93cdbb1bd50d49fe872e7b648a4d9677.html
 
@@ -25,6 +22,7 @@ SAP Datasphere and HDI Container:
 
 https://community.sap.com/t5/technology-blogs-by-sap/hybrid-developments-using-sap-hana-cloud-and-sap-datasphere-e2e-scenario/ba-p/13548787
 
+https://community.sap.com/t5/technology-blogs-by-sap/develop-on-sap-datasphere-using-sap-hana-deployment-infrastructure-hdi/ba-p/13488296
 ### Tutorial 
 
 https://community.sap.com/t5/technology-blogs-by-sap/hybrid-developments-using-sap-hana-cloud-and-sap-datasphere-e2e-scenario/ba-p/13548787
