@@ -91,3 +91,15 @@ grep: command plaintext data set for lines that match a regular expression
 
 	How to decode: https://mayadevbe.me/posts/overthewire/bandit/level13/
 
+## Level 13
+
+	SSH is a connection from your private computer to a server. The server create a special encripted string, then the ssh connection is the prove that you can decript this string. 
+
+	sshkey = types of password
+
+- private key = super secret 
+	zB.: .pem file 
+- public key - public (can be everywhere)
+
+
+
