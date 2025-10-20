@@ -7,3 +7,5 @@ Explained: https://aws.plainenglish.io/docker-explained-simply-for-a-10-year-old
 
 - Understand better Docker: https://www.youtube.com/watch?v=pg19Z8LL06w&pp=0gcJCQYKAYcqIYzv
 - How to create a Docker Compose: https://www.youtube.com/watch?v=SXwC9fSwct8
+
+## Airflow
