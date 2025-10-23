@@ -16,5 +16,8 @@ Docker definition: [https://aws.plainenglish.io/docker-explained-simply-for-a-10
 	- Everything needed to run a container.
 	- A container image is a standardized package that includes all of the files, binaries, libraries, and configurations to run a container.
 
++ Dockerfile: 
+	+ Is a blueprint to create docker images.
+	+ ![[Pasted image 20251023090940.png]]
 
 ## Airflow
