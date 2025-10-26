@@ -8,17 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "21dc1b6db71303f6",
+            "id": "0bbcbaa7acaab904",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering/Data Engineering/Projects/Realtime Data Streaming - End to End Project.md",
+                "file": "Data Engineering/Docker/Basics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Realtime Data Streaming - End to End Project"
+              "title": "Basics"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 200
   },
   "right": {
     "id": "40ea26274b1dac92",
@@ -160,8 +160,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
+      "bases:Create new base": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
@@ -169,20 +169,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "21dc1b6db71303f6",
+  "active": "0bbcbaa7acaab904",
   "lastOpenFiles": [
-    "Data Engineering/Data Engineering/Projects/Quiz app.md",
-    "Data Engineering/Data Engineering/Projects/How to Build a Data Engineering project.md",
-    "Data Engineering/Data Engineering/Concepts/Scheduler.md",
-    "Data Engineering/Linux/VSCode.md",
-    "Data Engineering/Data Engineering/Projects/Realtime Data Streaming - End to End Project.md",
-    "Data Engineering/Data Engineering/Concepts/Containerization.md",
-    "Data Engineering/Data Engineering/Concepts/Orchestrator.md",
     "Data Engineering/Git/How to push code to Github using CMD.md",
+    "Data Engineering/Git/101 - Git.md",
+    "Data Engineering/Docker/Basics.md",
+    "Data Engineering/Docker/Docker Architecture.md",
+    "Data Engineering/01 - Excalidraw/Prints/Pasted image 20251026130629.png",
+    "Data Engineering/Docker/Docker Image.md",
+    "Data Engineering/Docker/Docker Layering.md",
+    "Data Engineering/01 - Excalidraw/Prints/Pasted image 20251025173555.png",
     "Untitled 1.base",
     "Untitled.base",
+    "Data Engineering/01 - Excalidraw/Prints/Pasted image 20251025151058.png",
+    "Data Engineering/01 - Excalidraw/Prints/Pasted image 20251025145721.png",
+    "Data Engineering/01 - Excalidraw/Prints/Pasted image 20251025150012.png",
+    "Data Engineering/Docker/Docker Compose.md",
+    "Data Engineering/01 - Excalidraw/Drawings/Pasted image 20251025145455.png",
+    "Data Engineering/Data Engineering/Projects/Realtime Data Streaming - End to End Project.md",
+    "Docker.md",
+    "Data Engineering/Data Engineering/Projects/How to Build a Data Engineering project.md",
+    "Data Engineering/Docker",
+    "Data Engineering/Data Engineering/Projects/Quiz app.md",
+    "Data Engineering/Data Engineering/Concepts/Scheduler.md",
+    "Data Engineering/Linux/VSCode.md",
+    "Data Engineering/Data Engineering/Concepts/Containerization.md",
+    "Data Engineering/Data Engineering/Concepts/Orchestrator.md",
     "Data Engineering/Git/Git.md",
-    "Data Engineering/Git/101 - Git.md",
     "Test.md",
     "Data Engineering/Linux/OvertheWire - SSH Understanding.md",
     "Data Engineering/01 - Excalidraw/Prints/Pasted image 20250525194251.png",

@@ -1,0 +1,6 @@
+- Docker Compose: 
+	- Uses an YAML file to organize the multi-container.
+	- Ensures that each service runs in its own container, avoiding conflicts.
+	- Orchestrates the services of the container. In another words, defines the dependencies between each service. 
+	- docker compose up = creates and starts all your services. 
+	- docker compose run = focuses on individual services. It starts a specified service along with its dependencies, allowing to run tests or perform one-off tasks within that container.
