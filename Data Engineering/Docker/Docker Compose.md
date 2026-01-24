@@ -1,3 +1,5 @@
+https://medium.com/@ShantKhayalian/docker-vs-docker-compose-simple-and-fun-explanation-4811582127f7
+
 - Docker Compose: 
 	- Uses an YAML file to organize the multi-container.
 	- Ensures that each service runs in its own container, avoiding conflicts.
