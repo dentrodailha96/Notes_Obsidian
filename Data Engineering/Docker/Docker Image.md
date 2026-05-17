@@ -15,7 +15,7 @@
 6) Specify that containers from the build must use one specific port.
 7) Specify which command will be run on the startup of the container. 
 
-## Importand Commands
+## Important Commands
 
 - docker run -p 8000:8000 --name example1 todoapp = this command flags which port that will be used on the host machine. Therefore, making possible to navigate in the http://localhost:8000 to view the application. 
 - docker images = return all images created 
