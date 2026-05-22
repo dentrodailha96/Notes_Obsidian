@@ -25,3 +25,6 @@ command1  |  command2
 	To disable: set +o pipefail
 - Use "strace" or "time"  to analyze performance bottlenecks
 
+## Observations
+ - Between git commands we don't use pipes, we use &&  (run the next command only if the previous one succeeded)
+
