@@ -10,10 +10,13 @@ command1  |  command2
 ### How to use:
 
 - Filtering Output: ls -la | grep .claude
-- Sorting Data: ls -la | sort -k 5 -n (sort list by the 5 column)
+- Sorting Data: ls -la | sort -k 5 -n (sort list by the 5 column) | sort -rn (sorts results numerically, highest count first). 
 - Counting Lines: cat HEAD | wc -l
 - Finding Top Errors: cat server.log | grep "ERROR" | sort | uniq -c | sort -nr
 - echo: print something or message.
+- awk: extract the fields from a file. Example: awk '{print $1}'
+- uniq -c : count the unique values in a dataset. The -c consider the unique values consecutives.
+- head -n : shows the first n lines.
 
 ### Tips
 
