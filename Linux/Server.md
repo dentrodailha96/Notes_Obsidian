@@ -8,22 +8,22 @@
 - w : what the user name logged is doing
 
 ## Hardware info
-lshw: detailed information on the hardware config.
-lscpu: info about CPU architecture
-lsblk: list block devices
-lspci: list PCI devices
-lsusb: list USB devices
+- lshw: detailed information on the hardware config.
+- lscpu: info about CPU architecture
+- lsblk: list block devices
+- lspci: list PCI devices
+- lsusb: list USB devices
 
 ## Memory
-free -h.vmstat : memory stats
-top/htop: task manager Linux
+- free -h.vmstat : memory stats
+- top/htop: task manager Linux
 
 ## Disk Usage
-df -h : disk space 
-du -h: if you want to estimate the size of the folders.
+- df -h : disk space 
+- du -h: if you want to estimate the size of the folders.
 
 ## Networking
-ifconfig / ip address: get the ip address from the server
-netstat -i : static view 
-ifstat : continuous view
-sudo iftop -i eth0 : nice display from the info above. 
+- ifconfig / ip address: get the ip address from the server
+- netstat -i : static view 
+- ifstat : continuous view
+- sudo iftop -i eth0 : nice display from the info above. 
