@@ -45,7 +45,11 @@ _sudo -i ≈ VM_
 - Fresh, isolated environment (root's own HOME, PATH, profile)
 - Boots up cleanly, doesn't care about what you had before
 - More "complete" and self-contained
-- Like a VM with its own full OS layer 
+- Like a VM with its own full OS layer
+
+### create empty file 
+
+- touch
 
 ### get the timezone from the computer 
 - timedatectl
