@@ -47,9 +47,14 @@ _sudo -i ≈ VM_
 - More "complete" and self-contained
 - Like a VM with its own full OS layer
 
-### create empty file 
+**Example**:
 
-- touch
+<img width="577" height="249" alt="image" src="https://github.com/user-attachments/assets/11f1dddd-b999-467c-9076-2eb90b9926b0" />
+
+
+### Some basic commands 
+- touch (create an empty file)
+- echo (print messages or save data in scripts).
 
 ### get the timezone from the computer 
 - timedatectl
