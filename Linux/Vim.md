@@ -6,6 +6,6 @@
 a graphical user interface (GUI).
 
 ## Command mode 
-  > : = use to define which commands that I want to use.
-  > % = apply the command in all lines.
-  > c = confirm replace of everything.
+  - : = use to define which commands that I want to use.
+  - % = apply the command in all lines.
+  - c = confirm replace of everything.
