@@ -27,3 +27,8 @@
 - netstat -i : static view 
 - ifstat : continuous view
 - sudo iftop -i eth0 : nice display from the info above. 
+
+### SadServers challenge Bucharest
+- Problem of connecting to the PostgreSQL 13: https://github.com/mrmac189/sadservers-solutions/blob/main/solutions/7_Bucharest.md (solution)
+	- The difference was to comment the connections above to the one that I added.
+

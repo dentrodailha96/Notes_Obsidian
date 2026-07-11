@@ -53,4 +53,9 @@ c  {number} motion
 * ce = change the operator, therefore we type ce and then change all the rest of the string with the string defined by us (aka. deletes the word and places you in Insert Mode).
 * cc = deletes the line and replaces by another.
 * c$ = deletes from the cursor until the end of the line. Then we can rewrite the sentence replacing only from the cursor until  the end, instead of the whole sentence. 
-* 
+
+### Moving in the file 
+
+G to go to end line  
+gg to go to the top line 
+{number} G to go to the specific line 

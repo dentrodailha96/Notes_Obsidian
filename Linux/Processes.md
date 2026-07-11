@@ -5,10 +5,13 @@
   Others run in the background, operating silently without user input.
 
 #### Commands
-- ps | show asks for the current terminal session.
+- ps -ef | show asks for the current terminal session.
 - ps -A | display all the tasks in the machine.
 - ps aux | detail information from the task.
 - sudo lsof (log file path) | find the process that is running into a specific log file.
 - tail -f | displays the last part of one or more files or piped data.
+
+#### Log data
+sudo journalctl -u {process}
 
 Source: https://commandlinux.com/how-to/linux-list-processes/#:~:text=How%20do%20I%20see%20all,top%20or%20htop%20commands%20instead.

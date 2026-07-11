@@ -22,3 +22,5 @@
   > !{number command in history}: repeat the command.
 - **clear** or **ctrl + L**: clean the cmd.
 - **!{command}** or **!!** : last time the command ran or last command ran.
+
+* **readlink {file name } -f** : find the path of a file in bashcd 
