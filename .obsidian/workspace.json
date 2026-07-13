@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Linux/Server.md",
+                "file": "Linux/Nginx + Kubernetes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Server"
+              "title": "Nginx + Kubernetes"
             }
           }
         ]
@@ -172,12 +172,15 @@
   "active": "3f188efc866ea3de",
   "lastOpenFiles": [
     "Linux/Files.md",
+    "Linux/Operators.md",
+    "Linux/Nginx + Kubernetes.md",
+    "Linux/Pipes.md",
+    "Linux/Port-Knocking.md",
+    "Linux/Server.md",
+    "Linux/Processes.md",
+    "Linux/Vim.md",
     "Linux/Manual.md",
     "Linux/Basic_Commands.md",
-    "Linux/Vim.md",
-    "Linux/Processes.md",
-    "Linux/Pipes.md",
-    "Linux/Operators.md",
     "Linux/01 - Images/Pasted image 20260522101613.png",
     "Linux/01 - Images",
     "Sushi Project Concepts/How to write a README file.md",
@@ -213,9 +216,6 @@
     "Data Engineering/Data Engineering/Projects/How to Build a Data Engineering project.md",
     "Data Engineering/Docker",
     "Data Engineering/Data Engineering/Projects/Quiz app.md",
-    "Data Engineering/Data Engineering/Concepts/Scheduler.md",
-    "Data Engineering/Linux/VSCode.md",
-    "Data Engineering/Data Engineering/Concepts/Containerization.md",
     "Data Engineering/01 - Excalidraw/Prints/Pasted image 20250525194251.png"
   ]
 }
