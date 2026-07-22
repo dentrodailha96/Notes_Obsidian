@@ -11,12 +11,14 @@
             "id": "3f188efc866ea3de",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Linux/01 - Images/Pasted image 20260721165016.png"
+                "file": "Linux/CSV files.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260721165016"
+              "icon": "lucide-file",
+              "title": "CSV files"
             }
           }
         ]
@@ -76,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 240.5,
+    "collapsed": true
   },
   "right": {
     "id": "40ea26274b1dac92",
@@ -167,13 +170,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c906f4d496fc6997",
+  "active": "3f188efc866ea3de",
   "lastOpenFiles": [
+    "Pasted image 20260722095844.png",
+    "Linux/01 - Images/Pasted image 20260721165016.png",
+    "Linux/CSV files.md",
     "Linux/Nginx + Kubernetes.md",
     "Linux/01 - Images/Pasted image 20260721171433.png",
     "Linux/01 - Images/Pasted image 20260721170156.png",
     "Linux/01 - Images/Pasted image 20260721165627.png",
-    "Linux/01 - Images/Pasted image 20260721165016.png",
     "Linux/01 - Images/Pasted image 20260721163207.png",
     "Linux/01 - Images/Pasted image 20260721162131.png",
     "Linux/Files.md",
@@ -212,7 +217,6 @@
     "Untitled.base",
     "Data Engineering/Data Engineering/Projects/Realtime Data Streaming - End to End Project.md",
     "Docker.md",
-    "Data Engineering/Data Engineering/Projects/How to Build a Data Engineering project.md",
     "Data Engineering/Docker"
   ]
 }
