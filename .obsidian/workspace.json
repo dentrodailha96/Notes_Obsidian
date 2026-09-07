@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "fb6d270af5bc4f5d",
+        "id": "b6ea5d71ca4ee89e",
         "type": "tabs",
         "children": [
           {
-            "id": "3f188efc866ea3de",
+            "id": "875af10c1b1de44e",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "Linux/01 - Images/Pasted image 20260722095844.png"
-              },
-              "icon": "lucide-image",
-              "title": "Pasted image 20260722095844"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -180,12 +178,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c906f4d496fc6997",
+  "active": "875af10c1b1de44e",
   "lastOpenFiles": [
+    "Linux/01 - Images/Pasted image 20260722095844.png",
     "Linux/Server.md",
     "Linux/CSV files.md",
     "Linux/Basic_Commands.md",
-    "Linux/01 - Images/Pasted image 20260722095844.png",
     "Linux/01 - Images/Pasted image 20260721165016.png",
     "Linux/Nginx + Kubernetes.md",
     "Linux/01 - Images/Pasted image 20260721171433.png",
