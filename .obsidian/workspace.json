@@ -11,14 +11,12 @@
             "id": "3f188efc866ea3de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Linux/Server.md",
-                "mode": "source",
-                "source": false
+                "file": "Linux/01 - Images/Pasted image 20260722095844.png"
               },
-              "icon": "lucide-file",
-              "title": "Server"
+              "icon": "lucide-image",
+              "title": "Pasted image 20260722095844"
             }
           }
         ]
@@ -184,9 +182,10 @@
   },
   "active": "c906f4d496fc6997",
   "lastOpenFiles": [
+    "Linux/Server.md",
     "Linux/CSV files.md",
     "Linux/Basic_Commands.md",
-    "Pasted image 20260722095844.png",
+    "Linux/01 - Images/Pasted image 20260722095844.png",
     "Linux/01 - Images/Pasted image 20260721165016.png",
     "Linux/Nginx + Kubernetes.md",
     "Linux/01 - Images/Pasted image 20260721171433.png",
@@ -198,7 +197,6 @@
     "Linux/Operators.md",
     "Linux/Pipes.md",
     "Linux/Port-Knocking.md",
-    "Linux/Server.md",
     "Linux/Processes.md",
     "Linux/Vim.md",
     "Linux/Manual.md",
