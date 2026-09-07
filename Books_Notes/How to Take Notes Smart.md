@@ -1,0 +1,6 @@
+List of interest sentences in the book:
+
+- Having a meaningful and well-defined task beats willpower every time.
+- A good structure is something you can trust. It relieves you from the burden of remembering and keeping track of everything. If you can trust the system, you can let go of the attempt to hold everything together in you head and you can start focusing on what is important: The content, the argument and the ideas. 
+- If you make a plan, you impose a structure on yourself, it makes you inflexible. To keep going according to plan, you have to push yourself and employ willpower. This is not only demotivating, but also unsuitable for an open-ended process like research, thinking or studying in general, where we have to adjust our next steps with every new insight, understanding or achievement - which we ideally have on a regular basis and not just as an exception. 
+- Having read more does not automatically mean having more ideas. Especially in the beginning, it means having fewer ideas to work with, because you know that others have already thought of most of them. 

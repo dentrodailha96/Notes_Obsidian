@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Data Engineering/Git/101 - Git.md",
+                "file": "Books_Notes/How to Take Notes Smart.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "101 - Git"
+              "title": "How to Take Notes Smart"
             }
           }
         ]
@@ -184,6 +184,10 @@
   },
   "active": "875af10c1b1de44e",
   "lastOpenFiles": [
+    "Data Engineering/Git/101 - Git.md",
+    "Books_Notes/How to Take Notes Smart.md",
+    "Books_Notes/El peligro de estar acuerda.md",
+    "Books_Notes",
     "Linux/01 - Images/Pasted image 20260722095844.png",
     "Linux/Server.md",
     "Linux/CSV files.md",
@@ -223,11 +227,8 @@
     "MLOps/01 - Fundamentals",
     "MLOps",
     "Data Engineering/Git/How to push code to Github using CMD.md",
-    "Data Engineering/Git/101 - Git.md",
     "Untitled 1.base",
     "Untitled.base",
-    "Data Engineering/Data Engineering/Projects/Realtime Data Streaming - End to End Project.md",
-    "Docker.md",
-    "Data Engineering/Docker"
+    "Data Engineering/Data Engineering/Projects/Realtime Data Streaming - End to End Project.md"
   ]
 }
