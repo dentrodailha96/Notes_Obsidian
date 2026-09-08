@@ -1,0 +1,1 @@
+ Essa frase me abraçou pelo fato de me sentir reconhecida. As vezes eu me sinto assim, que gasto uma energia extremamente grande para socializar [obsidian://open?vault=Notes_Obsidian&file=02%20-%20Reference%2FBooks_Notes%2FEl%20peligro%20de%20estar%20acuerda]
