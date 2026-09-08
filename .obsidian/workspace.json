@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Reference/Blogs/How to actually meet people like you.md",
+                "file": "03 - Learning/Socialização.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to actually meet people like you"
+              "title": "Socialização"
             }
           }
         ],
@@ -91,7 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.5
+    "width": 313.50390625
   },
   "right": {
     "id": "40ea26274b1dac92",
@@ -195,8 +195,8 @@
   },
   "active": "8be8add507618128",
   "lastOpenFiles": [
-    "02 - Reference/Sayings from famous people/José Saramago.md",
     "02 - Reference/Blogs/How to actually meet people like you.md",
+    "02 - Reference/Sayings from famous people/José Saramago.md",
     "03 - Learning/Socialização.md",
     "02 - Reference/Sayings from famous people",
     "01 - Thoughts and Sayings/Untitled.md",

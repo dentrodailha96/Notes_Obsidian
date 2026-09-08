@@ -1,1 +1,1 @@
- Essa frase me abraçou pelo fato de me sentir reconhecida. As vezes eu me sinto assim, que gasto uma energia extremamente grande para socializar. 
+ Essa frase me abraçou pelo fato de me sentir reconhecida. As vezes eu me sinto assim, que gasto uma energia extremamente grande para socializar ([[El peligro de estar acuerda]]). Acho que isso se dá muito com o que li no [[How to actually meet people like you]], me vejo me moldando muito e acabando me acomodando em lugares que não me sinto eu. 
