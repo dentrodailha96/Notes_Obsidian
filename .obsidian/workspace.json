@@ -182,8 +182,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "875af10c1b1de44e",
+  "active": "c906f4d496fc6997",
   "lastOpenFiles": [
+    "Untitled",
     "Books_Notes/How to Take Notes Smart.md",
     "Data Engineering/Git/101 - Git.md",
     "Books_Notes/El peligro de estar acuerda.md",
@@ -228,7 +229,6 @@
     "MLOps",
     "Data Engineering/Git/How to push code to Github using CMD.md",
     "Untitled 1.base",
-    "Untitled.base",
-    "Data Engineering/Data Engineering/Projects/Realtime Data Streaming - End to End Project.md"
+    "Untitled.base"
   ]
 }
