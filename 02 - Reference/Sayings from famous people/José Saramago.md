@@ -1,0 +1,1 @@
+"É necessário sair da ilha para ver a ilha, não nos vemos se não saímos de nós"
