@@ -1,0 +1,1 @@
+- Explain what I learn and how does it connect with other ideas. Develop a deep dive under my ideas and from where the

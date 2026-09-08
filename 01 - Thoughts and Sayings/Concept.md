@@ -1,0 +1,1 @@
+- Fast notes, ideas and general thoughts.
