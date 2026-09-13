@@ -1,0 +1,2 @@
+#SystemArchitecture #pipes 
+Reading the book [[How to Take Notes Smart]], more specifically Chapter 9, the best way to do an efficient work is actually creating routines and pipelines that avoid us of constantly making decisions. 

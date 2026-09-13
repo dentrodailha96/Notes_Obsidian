@@ -1,0 +1,2 @@
+#cooking #bouldering #coding
+Cozinhar e escalar é como escrever um código ou criar uma pipeline de processos. Basicamente devemos listar uma sequência de atividades e como enfrentar processos para atingir um objetivo maior. 

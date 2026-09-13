@@ -1,0 +1,9 @@
+- Aprender Linux 
+- Costurar
+- Cozinhas (livro de receitas).
+- Correr 
+- Escalada
+- Treinar na academia
+- Ler 
+- Crochet
+- Desenhar / Aquarela

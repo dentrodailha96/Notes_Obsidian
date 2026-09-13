@@ -1,0 +1,2 @@
+- Documentar como connectar Obsidian no Git + Android.
+- Organizar as anotaçoes da obsidian e melhorar o processo de conexao entre as notas já feitas. 
