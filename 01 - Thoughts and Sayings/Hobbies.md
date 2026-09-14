@@ -7,3 +7,5 @@
 - Ler 
 - Crochet
 - Desenhar / Aquarela
+- Sair com pessoas
+- escrever crônicas/contos 
