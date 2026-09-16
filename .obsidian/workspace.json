@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Reference/01 - Technlogy/01.1 - Git/01.1.3 - Why git cannot commit empty folders?.md",
+                "file": "02 - Reference/01 - Technlogy/01.1 - Git/01.1.9 - Merge or Rebase.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.1.3 - Why git cannot commit empty folders?"
+              "title": "01.1.9 - Merge or Rebase"
             }
           }
         ]
@@ -184,6 +184,8 @@
   },
   "active": "7773d4c95ae67de9",
   "lastOpenFiles": [
+    "02 - Reference/01 - Technlogy/01.1 - Git/01.1.3 - Why git cannot commit empty folders?.md",
+    "02 - Reference/01 - Technlogy/01.1 - Git/01.1.3 - Why git cannot commit empty folders?",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.9 - Merge or Rebase.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.10 - Pull vs Fetch.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.1- Git.md",
@@ -194,7 +196,6 @@
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.6 - Head.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.5 - Git Hub.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.4 - Commits.md",
-    "02 - Reference/01 - Technlogy/01.1 - Git/01.1.3 - Why git cannot commit empty folders?.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/Git.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.2 - Branches.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/Codespace.md",
@@ -212,14 +213,12 @@
     "02 - Reference/04 - Books_Notes/04.3 - How to Take Notes Smart - Chapter 9.md",
     "02 - Reference/04 - Books_Notes/04.1 - El peligro de estar acuerda.md",
     "02 - Reference/05 - Sayings or Concepts from famous people/05.1 - José Saramago.md",
-    "01 - Thoughts and Sayings/Hobbies.md",
     "02 - Reference/02 - Languages",
     "02 - Reference/01 - Technlogy/Untitled",
     "02 - Reference/01 - Technlogy",
     "00 - config",
     "02 - Reference/05 - Sayings or Concepts from famous people",
     "02 - Reference/03 - Blogs",
-    "Untitled 1.base",
     "04 - Unsorted/Linux/01 - Images/Pasted image 20260722095844.png",
     "04 - Unsorted/Linux/01 - Images/Pasted image 20260721165016.png",
     "04 - Unsorted/Linux/01 - Images/Pasted image 20260721171433.png",
