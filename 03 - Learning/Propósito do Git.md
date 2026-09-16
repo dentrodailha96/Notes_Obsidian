@@ -1,0 +1,2 @@
+REF:[[01.1.3 - Why git cannot commit empty folders?]] , [[01.1.1- Git]]
+O git tem o propósito de acompanhar as mudanças feitas em um documento, desta forma o git ignora completamente os diretórios que nao possui informaçao.
