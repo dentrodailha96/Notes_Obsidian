@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Reference/01 - Technlogy/01.1 - Git/01.1.1- Git.md",
+                "file": "02 - Reference/01 - Technlogy/01.1 - Git/01.1.3 - Why git cannot commit empty folders?.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.1.1- Git"
+              "title": "01.1.3 - Why git cannot commit empty folders?"
             }
           }
         ]
@@ -184,17 +184,17 @@
   },
   "active": "7773d4c95ae67de9",
   "lastOpenFiles": [
+    "02 - Reference/01 - Technlogy/01.1 - Git/01.1.9 - Merge or Rebase.md",
+    "02 - Reference/01 - Technlogy/01.1 - Git/01.1.10 - Pull vs Fetch.md",
+    "02 - Reference/01 - Technlogy/01.1 - Git/01.1.1- Git.md",
     "03 - Learning/Propósito do Git.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.11 - Stages.md",
-    "02 - Reference/01 - Technlogy/01.1 - Git/01.1.10 - Pull vs Fetch.md",
-    "02 - Reference/01 - Technlogy/01.1 - Git/01.1.9 - Merge or Rebase.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.8 - How to push code to Github using CMD.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.7 - How to clone code to computer.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.6 - Head.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.5 - Git Hub.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.4 - Commits.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.3 - Why git cannot commit empty folders?.md",
-    "02 - Reference/01 - Technlogy/01.1 - Git/01.1.1- Git.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/Git.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.2 - Branches.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/Codespace.md",
