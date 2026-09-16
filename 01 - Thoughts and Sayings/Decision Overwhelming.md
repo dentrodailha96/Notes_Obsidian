@@ -1,4 +1,4 @@
 - Choose the clothes for going to work. Should I create a combination of clothes for going to work? 
 - Where can I concentrate my fleet notes? Can I make obsidian my place of fleeting notes? Or should I write in a paper then pass to the computer? 
 - Wie kann ich Deutschlernen täglisch in meine Routine hinzufügen? 
-- Eu quero fazer tudo, como me concentrar nas coisas que já me interesso? 
+
