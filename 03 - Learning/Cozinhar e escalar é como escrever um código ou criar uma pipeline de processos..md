@@ -1,2 +1,2 @@
-#cooking #bouldering #coding
+REF: [04.3](obsidian://open?vault=Notes_Obsidian&file=02%20-%20Reference%2F04%20-%20Books_Notes%2F04.3%20-%20How%20to%20Take%20Notes%20Smart%20-%20Chapter%209)
 Cozinhar e escalar é como escrever um código ou criar uma pipeline de processos. Basicamente devemos listar uma sequência de atividades e como enfrentar processos para atingir um objetivo maior. 
