@@ -1,1 +1,2 @@
-- Organizar as anotaçoes da obsidian e melhorar o processo de conexao entre as notas já feitas. 
+- Organizar as anotaçoes da obsidian e melhorar o processo de conexao entre as notas já feitas.
+- Definir algumas combinações de roupas para ir trabalhar.

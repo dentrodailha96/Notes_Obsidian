@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 - Thoughts and Sayings/Decision Overwhelming.md",
+                "file": "02 - Reference/06 - Saúde/02.6.1 - Amadurecer.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decision Overwhelming"
+              "title": "02.6.1 - Amadurecer"
             }
           }
         ]
@@ -144,27 +144,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Data Engineering/Linux/OvertheWire - SSH Understanding.md",
+                "file": "02 - Reference/06 - Saúde/02.6.1 - Amadurecer.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of OvertheWire - SSH Understanding"
-            }
-          },
-          {
-            "id": "4bffc5555c3a3e53",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "title": "Outline"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -184,7 +174,11 @@
   },
   "active": "7773d4c95ae67de9",
   "lastOpenFiles": [
+    "02 - Reference/04 - Books_Notes/02.4.6 - How to take smart notes chapter 13.md",
+    "02 - Reference/06 - Saúde/02.6.1 - Amadurecer.md",
     "01 - Thoughts and Sayings/Pensamentos aleatórios.md",
+    "03 - Learning/02 - Entendimentos/03.2.10 - Amadurecer.md",
+    "01 - Thoughts and Sayings/Long term to do list.md",
     "01 - Thoughts and Sayings/Decision Overwhelming.md",
     "03 - Learning/02 - Sentimentos e filofofias/02.4 - Talvez o conceito de aprender seja filtrar o que é importante.md",
     "03 - Learning/02 - Sentimentos e filofofias/02.3 - Make decisions are waste of time.md",
@@ -211,10 +205,6 @@
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.7 - How to clone code to computer.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.6 - Head.md",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.5 - Git Hub.md",
-    "02 - Reference/01 - Technlogy/01.1 - Git/01.1.4 - Commits.md",
-    "02 - Reference/01 - Technlogy/01.1 - Git/Git.md",
-    "02 - Reference/01 - Technlogy/01.1 - Git/01.1.2 - Branches.md",
-    "02 - Reference/01 - Technlogy/01.1 - Git/Codespace.md",
     "02 - Reference/08 - Sentimentos",
     "02 - Reference/07 - Esporte",
     "02 - Reference/06 - Saúde",
