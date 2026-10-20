@@ -80,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.16796875
+    "width": 401.4375,
+    "collapsed": true
   },
   "right": {
     "id": "40ea26274b1dac92",
@@ -175,13 +176,15 @@
   },
   "active": "7675387c371c21a5",
   "lastOpenFiles": [
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.4 - Pipes.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.8 - Environment and Shell Variables.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.2 - Files.md",
+    "Pasted image 20261020163622.png",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.1 - Basic Linux.md",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.7 - Server.md",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.6 - Processes.md",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.5 - Port-Knocking.md",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.2 - CSV files.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.3 - Operators.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.6 - Processes.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.4 - Pipes.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.7 - Server.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.5 - Port-Knocking.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/Nginx + Kubernetes.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/Manual.md",
     "02 - Reference/04 - Books_Notes/02.4.1 - El peligro de estar acuerda.md",
@@ -200,8 +203,6 @@
     "03 - Learning/02 - Entendimentos/03.2.10 - Amadurecer.md",
     "03 - Learning/02 - Sentimentos e filofofias/02.4 - Talvez o conceito de aprender seja filtrar o que é importante.md",
     "03 - Learning/02 - Sentimentos e filofofias/02.3 - Make decisions are waste of time.md",
-    "03 - Learning/02 - Sentimentos e filofofias/02.2 - Entender como socializar seja entender que você é antes de abraçar novas pessoas.md",
-    "03 - Learning/02 - Sentimentos e filofofias/02.1 - Cozinhar e escalar é como escrever um código ou criar uma pipeline de processos.md",
     "02 - Reference/01 - Technlogy/01.2 - Obsidian",
     "03 - Learning/03 - Utilidades aleatórias",
     "03 - Learning/02 - Sentimentos e filofofias",
@@ -219,7 +220,6 @@
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20260721163207.png",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20260721162131.png",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20260522101613.png",
-    "04 - Unsorted/Sushi Project Concepts/01 - Images/Pasted image 20260516000436.png",
-    "04 - Unsorted/MLOps/00 - Print/Pasted image 20251223024710.png"
+    "04 - Unsorted/Sushi Project Concepts/01 - Images/Pasted image 20260516000436.png"
   ]
 }
