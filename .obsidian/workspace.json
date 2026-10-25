@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.1 - Basic Linux.md",
+                "file": "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.12 - Archiving and compressing files.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.1.3.1 - Basic Linux"
+              "title": "02.1.3.12 - Archiving and compressing files"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.4375,
-    "collapsed": true
+    "width": 277.83203125
   },
   "right": {
     "id": "40ea26274b1dac92",
@@ -176,15 +175,27 @@
   },
   "active": "fde1b78e2e2e1a4b",
   "lastOpenFiles": [
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20261020204934.png",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20261020163622.png",
+    "Pasted image 20261025175743.png",
+    "Pasted image 20261025170502.png",
+    "Pasted image 20261025171925.png",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20261025172834.png",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20261025170335.png",
+    "Pasted image 20261025171948.png",
+    "Pasted image 20261025170444.png",
+    "Pasted image 20261025170433.png",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.12 - Archiving and compressing files.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.11 - File Modes and Permissions.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.6 - Processes.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.10 - Errors.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.3 - Operators.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20261025165724.png",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.4 - Pipes.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.2 - Files.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.1 - Basic Linux.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.9 - Text Editors.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.8 - Environment and Shell Variables.md",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.2 - Files.md",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.3 - Operators.md",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.6 - Processes.md",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.4 - Pipes.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20261020204934.png",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20261020163622.png",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.7 - Server.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.5 - Port-Knocking.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/Nginx + Kubernetes.md",
@@ -201,9 +212,6 @@
     "01 - Thoughts and Sayings/00 - Concept.md",
     "01 - Thoughts and Sayings/Pensamentos aleatórios.md",
     "01 - Thoughts and Sayings/Long term to do list.md",
-    "02 - Reference/06 - Saúde/02.6.1 - Amadurecer.md",
-    "03 - Learning/02 - Entendimentos/03.2.10 - Amadurecer.md",
-    "03 - Learning/02 - Sentimentos e filofofias/02.4 - Talvez o conceito de aprender seja filtrar o que é importante.md",
     "02 - Reference/01 - Technlogy/01.2 - Obsidian",
     "03 - Learning/03 - Utilidades aleatórias",
     "03 - Learning/02 - Sentimentos e filofofias",
@@ -212,14 +220,6 @@
     "02 - Reference/08 - Sentimentos",
     "02 - Reference/07 - Esporte",
     "02 - Reference/06 - Saúde",
-    "02 - Reference/02 - Languages",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20260722095844.png",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20260721165016.png",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20260721171433.png",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20260721170156.png",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20260721165627.png",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20260721163207.png",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20260721162131.png",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20260522101613.png"
+    "02 - Reference/02 - Languages"
   ]
 }
