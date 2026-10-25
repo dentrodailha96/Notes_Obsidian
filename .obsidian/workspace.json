@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.12 - Archiving and compressing files.md",
+                "file": "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.13 - Linux Directory Hierarchy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.1.3.12 - Archiving and compressing files"
+              "title": "02.1.3.13 - Linux Directory Hierarchy"
             }
           }
         ]
@@ -173,8 +173,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "fde1b78e2e2e1a4b",
+  "active": "c906f4d496fc6997",
   "lastOpenFiles": [
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20261025182826.png",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.12 - Archiving and compressing files.md",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.13 - Linux Directory Hierarchy.md",
     "Pasted image 20261025175743.png",
     "Pasted image 20261025170502.png",
     "Pasted image 20261025171925.png",
@@ -183,7 +186,6 @@
     "Pasted image 20261025171948.png",
     "Pasted image 20261025170444.png",
     "Pasted image 20261025170433.png",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.12 - Archiving and compressing files.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.11 - File Modes and Permissions.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.6 - Processes.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.10 - Errors.md",
@@ -195,7 +197,6 @@
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.9 - Text Editors.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.8 - Environment and Shell Variables.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20261020204934.png",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20261020163622.png",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.7 - Server.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.5 - Port-Knocking.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/Nginx + Kubernetes.md",
@@ -211,7 +212,6 @@
     "01 - Thoughts and Sayings/Decision Overwhelming.md",
     "01 - Thoughts and Sayings/00 - Concept.md",
     "01 - Thoughts and Sayings/Pensamentos aleatórios.md",
-    "01 - Thoughts and Sayings/Long term to do list.md",
     "02 - Reference/01 - Technlogy/01.2 - Obsidian",
     "03 - Learning/03 - Utilidades aleatórias",
     "03 - Learning/02 - Sentimentos e filofofias",
