@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "03 - Learning/01 - Tecnologias/03.1.4 - Creating an AI Agent from Scratch.md",
+                "file": "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.1 - Basic Linux.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.1.4 - Creating an AI Agent from Scratch"
+              "title": "02.1.3.1 - Basic Linux"
             }
           }
         ]
@@ -80,8 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 277.83203125,
-    "collapsed": true
+    "width": 277.83203125
   },
   "right": {
     "id": "40ea26274b1dac92",
@@ -176,8 +175,9 @@
   },
   "active": "fde1b78e2e2e1a4b",
   "lastOpenFiles": [
-    "03 - Learning/01 - Tecnologias/03.1.3 - How to get more internet in public places.md",
     "03 - Learning/01 - Tecnologias/03.1.4 - Creating an AI Agent from Scratch.md",
+    "Pasted image 20261123104903.png",
+    "03 - Learning/01 - Tecnologias/03.1.3 - How to get more internet in public places.md",
     "02 - Reference/01 - Technlogy/01.4 - AI Agent/02.1.4.1 -  The Complete Guide to AI Agent Architecture.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.14 - Device Files.md",
     "02 - Reference/01 - Technlogy/01.4 - AI Agent",
@@ -202,7 +202,6 @@
     "Pasted image 20261025170444.png",
     "Pasted image 20261025170433.png",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.10 - Errors.md",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.0 - Images/Pasted image 20261025165724.png",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.9 - Text Editors.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/Nginx + Kubernetes.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/Manual.md",
@@ -213,7 +212,6 @@
     "04 - Unsorted/Linux/Files.md",
     "02 - Reference/04 - Books_Notes/02.4.7 - Onde vivem as monstras.md",
     "02 - Reference/04 - Books_Notes/02.4.6 - How to take smart notes chapter 13.md",
-    "01 - Thoughts and Sayings/Hobbies.md",
     "02 - Reference/01 - Technlogy/01.2 - Obsidian",
     "03 - Learning/03 - Utilidades aleatórias",
     "03 - Learning/02 - Sentimentos e filofofias",
