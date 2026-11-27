@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.1 - Basic Linux.md",
+                "file": "02 - Reference/01 - Technlogy/01.4 - AI Agent/02.1.4.2 - Ollama.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.1.3.1 - Basic Linux"
+              "title": "02.1.4.2 - Ollama"
             }
           }
         ]
@@ -175,13 +175,17 @@
   },
   "active": "fde1b78e2e2e1a4b",
   "lastOpenFiles": [
+    "02 - Reference/01 - Technlogy/01.4 - AI Agent/Untitled.md",
+    "02 - Reference/01 - Technlogy/01.4 - AI Agent/02.1.4.2 - Ollama.md",
     "03 - Learning/01 - Tecnologias/03.1.4 - Creating an AI Agent from Scratch.md",
-    "Pasted image 20261123104903.png",
+    "03 - Learning/01 - Tecnologias/Untitled.md",
+    "03 - Learning/01 - Tecnologias/03.1.0 - Images",
+    "03 - Learning/01 - Tecnologias/03.1.0 - Images/Pasted image 20261123104903.png",
+    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.1 - Basic Linux.md",
     "03 - Learning/01 - Tecnologias/03.1.3 - How to get more internet in public places.md",
     "02 - Reference/01 - Technlogy/01.4 - AI Agent/02.1.4.1 -  The Complete Guide to AI Agent Architecture.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.14 - Device Files.md",
     "02 - Reference/01 - Technlogy/01.4 - AI Agent",
-    "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.1 - Basic Linux.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.6 - Processes.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.3 - Operators.md",
     "02 - Reference/01 - Technlogy/01.3 -  Linux/02.1.3.11 - File Modes and Permissions.md",
@@ -210,15 +214,12 @@
     "02 - Reference/01 - Technlogy/01.3 -  Linux",
     "02 - Reference/01 - Technlogy/Untitled.md",
     "04 - Unsorted/Linux/Files.md",
-    "02 - Reference/04 - Books_Notes/02.4.7 - Onde vivem as monstras.md",
-    "02 - Reference/04 - Books_Notes/02.4.6 - How to take smart notes chapter 13.md",
     "02 - Reference/01 - Technlogy/01.2 - Obsidian",
     "03 - Learning/03 - Utilidades aleatórias",
     "03 - Learning/02 - Sentimentos e filofofias",
     "03 - Learning/01 - Tecnologias",
     "02 - Reference/01 - Technlogy/01.1 - Git/01.1.3 - Why git cannot commit empty folders?",
     "02 - Reference/08 - Sentimentos",
-    "02 - Reference/07 - Esporte",
-    "02 - Reference/06 - Saúde"
+    "02 - Reference/07 - Esporte"
   ]
 }
